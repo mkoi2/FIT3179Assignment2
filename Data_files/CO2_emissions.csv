@@ -1,0 +1,734 @@
+REF_AREA,Reference area,POLLUTANT,Pollutant.1,TIME_PERIOD,OBS_VALUE
+AUS,Australia,CO2,Carbon dioxide,2022,387745.2822
+AUT,Austria,CO2,Carbon dioxide,2022,61214.0613
+BEL,Belgium,CO2,Carbon dioxide,2022,88859.15274
+CAN,Canada,CO2,Carbon dioxide,2022,545727.2167
+CHL,Chile,CO2,Carbon dioxide,2022,84299.67
+CZE,Czechia,CO2,Carbon dioxide,2022,95069.66584
+DNK,Denmark,CO2,Carbon dioxide,2022,29769.94661
+EST,Estonia,CO2,Carbon dioxide,2022,11971.4887
+FIN,Finland,CO2,Carbon dioxide,2022,36332.84695
+FRA,France,CO2,Carbon dioxide,2022,309925.9439
+DEU,Germany,CO2,Carbon dioxide,2022,670016.6638
+GRC,Greece,CO2,Carbon dioxide,2022,57580.70826
+HUN,Hungary,CO2,Carbon dioxide,2022,45266.09253
+ISL,Iceland,CO2,Carbon dioxide,2022,3597.218006
+IRL,Ireland,CO2,Carbon dioxide,2022,36518.00295
+ISR,Israel,CO2,Carbon dioxide,2022,64505.59
+ITA,Italy,CO2,Carbon dioxide,2022,336796.2785
+JPN,Japan,CO2,Carbon dioxide,2022,1027558.715
+KOR,Korea,CO2,Carbon dioxide,2022,633764.79
+LVA,Latvia,CO2,Carbon dioxide,2022,6609.543359
+LTU,Lithuania,CO2,Carbon dioxide,2022,12868.97197
+LUX,Luxembourg,CO2,Carbon dioxide,2022,7268.602786
+MEX,Mexico,CO2,Carbon dioxide,2022,342173.27
+NLD,Netherlands,CO2,Carbon dioxide,2022,126622.4382
+NZL,New Zealand,CO2,Carbon dioxide,2022,31886.9745
+NOR,Norway,CO2,Carbon dioxide,2022,40570.71126
+POL,Poland,CO2,Carbon dioxide,2022,314718.4968
+PRT,Portugal,CO2,Carbon dioxide,2022,40590.91182
+SVN,Slovenia,CO2,Carbon dioxide,2022,12723.36265
+ESP,Spain,CO2,Carbon dioxide,2022,230964.1941
+SWE,Sweden,CO2,Carbon dioxide,2022,36073.14894
+CHE,Switzerland,CO2,Carbon dioxide,2022,32965.66502
+TUR,Türkiye,CO2,Carbon dioxide,2022,445117.5303
+GBR,United Kingdom,CO2,Carbon dioxide,2022,326468.4284
+USA,United States,CO2,Carbon dioxide,2022,5053018.69
+DZA,Algeria,CO2,Carbon dioxide,2022,192740.1622
+ARG,Argentina,CO2,Carbon dioxide,2022,192413.0787
+AZE,Azerbaijan,CO2,Carbon dioxide,2022,46695.82201
+BTN,Bhutan,CO2,Carbon dioxide,2022,1225.112833
+BRA,Brazil,CO2,Carbon dioxide,2022,514664.5449
+BRN,Brunei Darussalam,CO2,Carbon dioxide,2022,12666.87941
+BGR,Bulgaria,CO2,Carbon dioxide,2022,46931.69786
+CIV,Côte d’Ivoire,CO2,Carbon dioxide,2022,30943.20189
+HRV,Croatia,CO2,Carbon dioxide,2022,17585.16408
+CUB,Cuba,CO2,Carbon dioxide,2022,26668.3814
+CYP,Cyprus,CO2,Carbon dioxide,2022,7090.211253
+EGY,Egypt,CO2,Carbon dioxide,2022,293109.2411
+GEO,Georgia,CO2,Carbon dioxide,2022,12827.00356
+GHA,Ghana,CO2,Carbon dioxide,2022,22094.9357
+GTM,Guatemala,CO2,Carbon dioxide,2022,20432.97647
+GNB,Guinea-Bissau,CO2,Carbon dioxide,2022,315.6176939
+GUY,Guyana,CO2,Carbon dioxide,2022,3905.38863
+VAT,Holy See,CO2,Carbon dioxide,2022,14.60312789
+IND,India,CO2,Carbon dioxide,2022,2678327.184
+IDN,Indonesia,CO2,Carbon dioxide,2022,777299.2149
+KAZ,Kazakhstan,CO2,Carbon dioxide,2022,282116.8714
+KEN,Kenya,CO2,Carbon dioxide,2022,20267.85063
+LBN,Lebanon,CO2,Carbon dioxide,2022,16528.85451
+LIE,Liechtenstein,CO2,Carbon dioxide,2022,128.6036791
+MDV,Maldives,CO2,Carbon dioxide,2022,2269.025541
+MLT,Malta,CO2,Carbon dioxide,2022,1774.33232
+MUS,Mauritius,CO2,Carbon dioxide,2022,4469.8311
+MDA,Moldova,CO2,Carbon dioxide,2022,9401.14717
+MCO,Monaco,CO2,Carbon dioxide,2022,56.10334082
+MAR,Morocco,CO2,Carbon dioxide,2022,72773.88627
+NAM,Namibia,CO2,Carbon dioxide,2022,3849.991525
+NPL,Nepal,CO2,Carbon dioxide,2022,18547.88497
+NGA,Nigeria,CO2,Carbon dioxide,2022,136684.5242
+ROU,Romania,CO2,Carbon dioxide,2022,68414.96601
+RWA,Rwanda,CO2,Carbon dioxide,2022,-2177.729941
+SRB,Serbia,CO2,Carbon dioxide,2022,51070.48286
+SGP,Singapore,CO2,Carbon dioxide,2022,50374.89948
+SLB,Solomon Islands,CO2,Carbon dioxide,2022,-31436.23821
+ZAF,South Africa,CO2,Carbon dioxide,2022,392099.5777
+THA,Thailand,CO2,Carbon dioxide,2022,271125.8692
+UKR,Ukraine,CO2,Carbon dioxide,2022,143039.8688
+URY,Uruguay,CO2,Carbon dioxide,2022,7873.059749
+UZB,Uzbekistan,CO2,Carbon dioxide,2022,135546.5539
+VEN,Venezuela,CO2,Carbon dioxide,2022,98908.5397
+ZWE,Zimbabwe,CO2,Carbon dioxide,2022,12436.839
+AUS,Australia,CO2,Carbon dioxide,2016,409756.4249
+AUT,Austria,CO2,Carbon dioxide,2016,67012.98615
+BEL,Belgium,CO2,Carbon dioxide,2016,99878.6707
+CAN,Canada,CO2,Carbon dioxide,2016,554437.3167
+CHL,Chile,CO2,Carbon dioxide,2016,82003.13
+COL,Colombia,CO2,Carbon dioxide,2016,89749.98
+CRI,Costa Rica,CO2,Carbon dioxide,2016,6165.39
+CZE,Czechia,CO2,Carbon dioxide,2016,106661.5423
+DNK,Denmark,CO2,Carbon dioxide,2016,38132.56908
+EST,Estonia,CO2,Carbon dioxide,2016,17432.86383
+FIN,Finland,CO2,Carbon dioxide,2016,47252.23637
+FRA,France,CO2,Carbon dioxide,2016,352167.0823
+DEU,Germany,CO2,Carbon dioxide,2016,800432.1121
+GRC,Greece,CO2,Carbon dioxide,2016,71364.76979
+HUN,Hungary,CO2,Carbon dioxide,2016,47033.81409
+ISL,Iceland,CO2,Carbon dioxide,2016,3504.894426
+IRL,Ireland,CO2,Carbon dioxide,2016,40230.19554
+ISR,Israel,CO2,Carbon dioxide,2016,65278.15
+ITA,Italy,CO2,Carbon dioxide,2016,356287.129
+JPN,Japan,CO2,Carbon dioxide,2016,1197976.606
+KOR,Korea,CO2,Carbon dioxide,2016,660414.06
+LVA,Latvia,CO2,Carbon dioxide,2016,7210.546704
+LTU,Lithuania,CO2,Carbon dioxide,2016,13101.51835
+LUX,Luxembourg,CO2,Carbon dioxide,2016,9077.079705
+MEX,Mexico,CO2,Carbon dioxide,2016,388399.69
+NLD,Netherlands,CO2,Carbon dioxide,2016,164722.8454
+NZL,New Zealand,CO2,Carbon dioxide,2016,34179.57494
+NOR,Norway,CO2,Carbon dioxide,2016,44445.6712
+POL,Poland,CO2,Carbon dioxide,2016,323316.5564
+PRT,Portugal,CO2,Carbon dioxide,2016,50217.93306
+SVN,Slovenia,CO2,Carbon dioxide,2016,14469.62874
+ESP,Spain,CO2,Carbon dioxide,2016,256499.9699
+SWE,Sweden,CO2,Carbon dioxide,2016,43251.92673
+CHE,Switzerland,CO2,Carbon dioxide,2016,39225.14666
+TUR,Türkiye,CO2,Carbon dioxide,2016,408756.5036
+GBR,United Kingdom,CO2,Carbon dioxide,2016,396722.7777
+USA,United States,CO2,Carbon dioxide,2016,5246402.93
+DZA,Algeria,CO2,Carbon dioxide,2016,158738.4943
+ARG,Argentina,CO2,Carbon dioxide,2016,196373.8951
+BRA,Brazil,CO2,Carbon dioxide,2016,506483.0816
+BRN,Brunei Darussalam,CO2,Carbon dioxide,2016,9721.030022
+BGR,Bulgaria,CO2,Carbon dioxide,2016,45343.84559
+CIV,Côte d’Ivoire,CO2,Carbon dioxide,2016,6888.669657
+HRV,Croatia,CO2,Carbon dioxide,2016,18079.27943
+CUB,Cuba,CO2,Carbon dioxide,2016,31166.90456
+CYP,Cyprus,CO2,Carbon dioxide,2016,7353.460119
+EGY,Egypt,CO2,Carbon dioxide,2016,257575.9145
+GEO,Georgia,CO2,Carbon dioxide,2016,10718.56827
+GHA,Ghana,CO2,Carbon dioxide,2016,14938.50805
+GTM,Guatemala,CO2,Carbon dioxide,2016,19504.3794
+GNB,Guinea-Bissau,CO2,Carbon dioxide,2016,181.8031266
+GUY,Guyana,CO2,Carbon dioxide,2016,2397.288736
+VAT,Holy See,CO2,Carbon dioxide,2016,15.19308738
+IND,India,CO2,Carbon dioxide,2016,2231069
+IDN,Indonesia,CO2,Carbon dioxide,2016,555965.5502
+KAZ,Kazakhstan,CO2,Carbon dioxide,2016,331791.8485
+KEN,Kenya,CO2,Carbon dioxide,2016,17932.13772
+LIE,Liechtenstein,CO2,Carbon dioxide,2016,149.8741899
+MYS,Malaysia,CO2,Carbon dioxide,2016,250441.3946
+MDV,Maldives,CO2,Carbon dioxide,2016,1594.606411
+MLT,Malta,CO2,Carbon dioxide,2016,1375.928579
+MUS,Mauritius,CO2,Carbon dioxide,2016,4154.713986
+MDA,Moldova,CO2,Carbon dioxide,2016,9091.774231
+MCO,Monaco,CO2,Carbon dioxide,2016,75.43612595
+MAR,Morocco,CO2,Carbon dioxide,2016,61471.19649
+NAM,Namibia,CO2,Carbon dioxide,2016,3871.612471
+NPL,Nepal,CO2,Carbon dioxide,2016,6844.192498
+NGA,Nigeria,CO2,Carbon dioxide,2016,122271.7586
+PAN,Panama,CO2,Carbon dioxide,2016,12017.18558
+PER,Peru,CO2,Carbon dioxide,2016,138035.7219
+ROU,Romania,CO2,Carbon dioxide,2016,71969.05217
+RWA,Rwanda,CO2,Carbon dioxide,2016,-2953.235545
+SRB,Serbia,CO2,Carbon dioxide,2016,51485.35687
+SGP,Singapore,CO2,Carbon dioxide,2016,49762.85622
+SLB,Solomon Islands,CO2,Carbon dioxide,2016,-26266.34416
+ZAF,South Africa,CO2,Carbon dioxide,2016,423600.9114
+UKR,Ukraine,CO2,Carbon dioxide,2016,234105.6488
+UZB,Uzbekistan,CO2,Carbon dioxide,2016,105078.0691
+VEN,Venezuela,CO2,Carbon dioxide,2016,161383.9297
+ZWE,Zimbabwe,CO2,Carbon dioxide,2016,10465.88707
+AUS,Australia,CO2,Carbon dioxide,2019,414840.77
+AUT,Austria,CO2,Carbon dioxide,2019,67792.58869
+BEL,Belgium,CO2,Carbon dioxide,2019,99838.14076
+CAN,Canada,CO2,Carbon dioxide,2019,578719.3646
+CHL,Chile,CO2,Carbon dioxide,2019,83584.91
+COL,Colombia,CO2,Carbon dioxide,2019,92130.79
+CRI,Costa Rica,CO2,Carbon dioxide,2019,7521.86
+CZE,Czechia,CO2,Carbon dioxide,2019,101037.1697
+DNK,Denmark,CO2,Carbon dioxide,2019,32489.20363
+EST,Estonia,CO2,Carbon dioxide,2019,12288.86082
+FIN,Finland,CO2,Carbon dioxide,2019,42440.18903
+FRA,France,CO2,Carbon dioxide,2019,333062.7249
+DEU,Germany,CO2,Carbon dioxide,2019,709773.2544
+GRC,Greece,CO2,Carbon dioxide,2019,65742.56086
+HUN,Hungary,CO2,Carbon dioxide,2019,49159.85156
+ISL,Iceland,CO2,Carbon dioxide,2019,3563.205745
+IRL,Ireland,CO2,Carbon dioxide,2019,37047.06291
+ISR,Israel,CO2,Carbon dioxide,2019,65882.71
+ITA,Italy,CO2,Carbon dioxide,2019,337659.1315
+JPN,Japan,CO2,Carbon dioxide,2019,1099773.722
+KOR,Korea,CO2,Carbon dioxide,2019,673287.02
+LVA,Latvia,CO2,Carbon dioxide,2019,7633.619429
+LTU,Lithuania,CO2,Carbon dioxide,2019,13636.24714
+LUX,Luxembourg,CO2,Carbon dioxide,2019,9751.578944
+MEX,Mexico,CO2,Carbon dioxide,2019,362798.42
+NLD,Netherlands,CO2,Carbon dioxide,2019,152688.2439
+NZL,New Zealand,CO2,Carbon dioxide,2019,36659.75174
+NOR,Norway,CO2,Carbon dioxide,2019,42620.12837
+POL,Poland,CO2,Carbon dioxide,2019,317367.6266
+PRT,Portugal,CO2,Carbon dioxide,2019,47479.24305
+SVN,Slovenia,CO2,Carbon dioxide,2019,14054.52641
+ESP,Spain,CO2,Carbon dioxide,2019,248279.7443
+SWE,Sweden,CO2,Carbon dioxide,2019,40750.51701
+CHE,Switzerland,CO2,Carbon dioxide,2019,36822.53228
+TUR,Türkiye,CO2,Carbon dioxide,2019,407722.6435
+GBR,United Kingdom,CO2,Carbon dioxide,2019,362343.3035
+USA,United States,CO2,Carbon dioxide,2019,5234488.24
+DZA,Algeria,CO2,Carbon dioxide,2019,180584.4654
+ARG,Argentina,CO2,Carbon dioxide,2019,179171.8092
+BTN,Bhutan,CO2,Carbon dioxide,2019,1241.415919
+BRA,Brazil,CO2,Carbon dioxide,2019,494426.1065
+BRN,Brunei Darussalam,CO2,Carbon dioxide,2019,9602.071215
+BGR,Bulgaria,CO2,Carbon dioxide,2019,42194.88836
+CIV,Côte d’Ivoire,CO2,Carbon dioxide,2019,6888.669657
+HRV,Croatia,CO2,Carbon dioxide,2019,17820.42234
+CUB,Cuba,CO2,Carbon dioxide,2019,28839.24602
+CYP,Cyprus,CO2,Carbon dioxide,2019,7324.774979
+EGY,Egypt,CO2,Carbon dioxide,2019,260400.921
+GEO,Georgia,CO2,Carbon dioxide,2019,11169.35205
+GHA,Ghana,CO2,Carbon dioxide,2019,19514.59935
+GTM,Guatemala,CO2,Carbon dioxide,2019,20172.8279
+GNB,Guinea-Bissau,CO2,Carbon dioxide,2019,294.8641825
+GUY,Guyana,CO2,Carbon dioxide,2019,2846.886328
+VAT,Holy See,CO2,Carbon dioxide,2019,14.80846041
+IDN,Indonesia,CO2,Carbon dioxide,2019,691999.8723
+KAZ,Kazakhstan,CO2,Carbon dioxide,2019,303949.7398
+KEN,Kenya,CO2,Carbon dioxide,2019,18145.46581
+LIE,Liechtenstein,CO2,Carbon dioxide,2019,149.2127948
+MYS,Malaysia,CO2,Carbon dioxide,2019,269451.536
+MDV,Maldives,CO2,Carbon dioxide,2019,2097.562717
+MLT,Malta,CO2,Carbon dioxide,2019,1649.287281
+MUS,Mauritius,CO2,Carbon dioxide,2019,4540.630149
+MDA,Moldova,CO2,Carbon dioxide,2019,9364.184694
+MCO,Monaco,CO2,Carbon dioxide,2019,71.04093175
+NAM,Namibia,CO2,Carbon dioxide,2019,3893.63572
+NPL,Nepal,CO2,Carbon dioxide,2019,14246.9137
+NGA,Nigeria,CO2,Carbon dioxide,2019,130401.5503
+PAN,Panama,CO2,Carbon dioxide,2019,15574.56636
+PER,Peru,CO2,Carbon dioxide,2019,164487.3398
+ROU,Romania,CO2,Carbon dioxide,2019,72358.08526
+RWA,Rwanda,CO2,Carbon dioxide,2019,-2221.01789
+SAU,Saudi Arabia,CO2,Carbon dioxide,2019,610155.7223
+SRB,Serbia,CO2,Carbon dioxide,2019,50770.48097
+SGP,Singapore,CO2,Carbon dioxide,2019,49703.38427
+SLB,Solomon Islands,CO2,Carbon dioxide,2019,-25537.69495
+ZAF,South Africa,CO2,Carbon dioxide,2019,413741.4149
+UKR,Ukraine,CO2,Carbon dioxide,2019,222187.8967
+UZB,Uzbekistan,CO2,Carbon dioxide,2019,115397.1825
+VEN,Venezuela,CO2,Carbon dioxide,2019,100196.6112
+ZWE,Zimbabwe,CO2,Carbon dioxide,2019,10991.54361
+AUS,Australia,CO2,Carbon dioxide,2018,415220.5318
+AUT,Austria,CO2,Carbon dioxide,2018,66482.75601
+BEL,Belgium,CO2,Carbon dioxide,2018,100321.2493
+CAN,Canada,CO2,Carbon dioxide,2018,575843.9045
+CHL,Chile,CO2,Carbon dioxide,2018,82830.23
+COL,Colombia,CO2,Carbon dioxide,2018,87905.08
+CRI,Costa Rica,CO2,Carbon dioxide,2018,8210.46
+CZE,Czechia,CO2,Carbon dioxide,2018,106363.458
+DNK,Denmark,CO2,Carbon dioxide,2018,36117.02541
+EST,Estonia,CO2,Carbon dioxide,2018,17800.5962
+FIN,Finland,CO2,Carbon dioxide,2018,45733.90265
+FRA,France,CO2,Carbon dioxide,2018,339644.0185
+DEU,Germany,CO2,Carbon dioxide,2018,758195.2075
+GRC,Greece,CO2,Carbon dioxide,2018,71785.00576
+HUN,Hungary,CO2,Carbon dioxide,2018,49367.41595
+ISL,Iceland,CO2,Carbon dioxide,2018,3671.706839
+IRL,Ireland,CO2,Carbon dioxide,2018,38758.73343
+ISR,Israel,CO2,Carbon dioxide,2018,64640.62
+ITA,Italy,CO2,Carbon dioxide,2018,347137.7879
+JPN,Japan,CO2,Carbon dioxide,2018,1136470.945
+KOR,Korea,CO2,Carbon dioxide,2018,697579.19
+LVA,Latvia,CO2,Carbon dioxide,2018,7843.268519
+LTU,Lithuania,CO2,Carbon dioxide,2018,13396.16623
+LUX,Luxembourg,CO2,Carbon dioxide,2018,9557.469298
+MEX,Mexico,CO2,Carbon dioxide,2018,359191.69
+NLD,Netherlands,CO2,Carbon dioxide,2018,158205.5466
+NZL,New Zealand,CO2,Carbon dioxide,2018,35712.69062
+NOR,Norway,CO2,Carbon dioxide,2018,44196.36643
+POL,Poland,CO2,Carbon dioxide,2018,335637.2799
+PRT,Portugal,CO2,Carbon dioxide,2018,51245.17714
+SVN,Slovenia,CO2,Carbon dioxide,2018,14565.45158
+ESP,Spain,CO2,Carbon dioxide,2018,265836.6247
+SWE,Sweden,CO2,Carbon dioxide,2018,41836.36651
+CHE,Switzerland,CO2,Carbon dioxide,2018,36945.35272
+TUR,Türkiye,CO2,Carbon dioxide,2018,427531.4447
+GBR,United Kingdom,CO2,Carbon dioxide,2018,377878.9238
+USA,United States,CO2,Carbon dioxide,2018,5362191.23
+DZA,Algeria,CO2,Carbon dioxide,2018,174605.0458
+ARG,Argentina,CO2,Carbon dioxide,2018,189755.6895
+BRA,Brazil,CO2,Carbon dioxide,2018,499345.8594
+BRN,Brunei Darussalam,CO2,Carbon dioxide,2018,8947.769388
+BGR,Bulgaria,CO2,Carbon dioxide,2018,43503.25035
+CIV,Côte d’Ivoire,CO2,Carbon dioxide,2018,6888.669657
+HRV,Croatia,CO2,Carbon dioxide,2018,17694.51182
+CUB,Cuba,CO2,Carbon dioxide,2018,29727.49876
+CYP,Cyprus,CO2,Carbon dioxide,2018,7326.687916
+EGY,Egypt,CO2,Carbon dioxide,2018,274394.3256
+GEO,Georgia,CO2,Carbon dioxide,2018,10455.55971
+GHA,Ghana,CO2,Carbon dioxide,2018,18467.70557
+GTM,Guatemala,CO2,Carbon dioxide,2018,19618.84067
+GNB,Guinea-Bissau,CO2,Carbon dioxide,2018,218.956653
+GUY,Guyana,CO2,Carbon dioxide,2018,2535.686061
+VAT,Holy See,CO2,Carbon dioxide,2018,14.70061672
+IDN,Indonesia,CO2,Carbon dioxide,2018,649263.4898
+KAZ,Kazakhstan,CO2,Carbon dioxide,2018,352755.188
+KEN,Kenya,CO2,Carbon dioxide,2018,18400.68816
+LIE,Liechtenstein,CO2,Carbon dioxide,2018,143.1793037
+MYS,Malaysia,CO2,Carbon dioxide,2018,258848.0286
+MDV,Maldives,CO2,Carbon dioxide,2018,1903.792338
+MLT,Malta,CO2,Carbon dioxide,2018,1547.774016
+MUS,Mauritius,CO2,Carbon dioxide,2018,4509.031577
+MDA,Moldova,CO2,Carbon dioxide,2018,9293.211198
+MCO,Monaco,CO2,Carbon dioxide,2018,74.79316752
+MAR,Morocco,CO2,Carbon dioxide,2018,65482.97965
+NAM,Namibia,CO2,Carbon dioxide,2018,3774.93504
+NPL,Nepal,CO2,Carbon dioxide,2018,11702.45107
+NGA,Nigeria,CO2,Carbon dioxide,2018,125496.1525
+PAN,Panama,CO2,Carbon dioxide,2018,11976.0648
+PER,Peru,CO2,Carbon dioxide,2018,158494.9765
+ROU,Romania,CO2,Carbon dioxide,2018,75521.93759
+RWA,Rwanda,CO2,Carbon dioxide,2018,-2767.159395
+SRB,Serbia,CO2,Carbon dioxide,2018,51369.04154
+SGP,Singapore,CO2,Carbon dioxide,2018,51170.66923
+SLB,Solomon Islands,CO2,Carbon dioxide,2018,-25907.01357
+ZAF,South Africa,CO2,Carbon dioxide,2018,415955.84
+UKR,Ukraine,CO2,Carbon dioxide,2018,231899.9859
+UZB,Uzbekistan,CO2,Carbon dioxide,2018,116265.6032
+VEN,Venezuela,CO2,Carbon dioxide,2018,120530.9639
+ZWE,Zimbabwe,CO2,Carbon dioxide,2018,11965.17169
+AUS,Australia,CO2,Carbon dioxide,2015,400650.7976
+AUT,Austria,CO2,Carbon dioxide,2015,66163.66448
+BEL,Belgium,CO2,Carbon dioxide,2015,101398.1576
+CAN,Canada,CO2,Carbon dioxide,2015,563159.1789
+CHL,Chile,CO2,Carbon dioxide,2015,78540.67
+COL,Colombia,CO2,Carbon dioxide,2015,90380.01
+CRI,Costa Rica,CO2,Carbon dioxide,2015,6434.18
+CZE,Czechia,CO2,Carbon dioxide,2015,105023.1831
+DNK,Denmark,CO2,Carbon dioxide,2015,36364.55174
+EST,Estonia,CO2,Carbon dioxide,2015,15779.31617
+FIN,Finland,CO2,Carbon dioxide,2015,44192.22296
+FRA,France,CO2,Carbon dioxide,2015,347569.6269
+DEU,Germany,CO2,Carbon dioxide,2015,798770.5815
+GRC,Greece,CO2,Carbon dioxide,2015,74932.22331
+HUN,Hungary,CO2,Carbon dioxide,2015,46563.66513
+ISL,Iceland,CO2,Carbon dioxide,2015,3546.78302
+IRL,Ireland,CO2,Carbon dioxide,2015,38580.38583
+ISR,Israel,CO2,Carbon dioxide,2015,66242.67
+ITA,Italy,CO2,Carbon dioxide,2015,359658.463
+JPN,Japan,CO2,Carbon dioxide,2015,1218023.961
+KOR,Korea,CO2,Carbon dioxide,2015,650168.57
+LVA,Latvia,CO2,Carbon dioxide,2015,7262.166486
+LTU,Lithuania,CO2,Carbon dioxide,2015,13045.22009
+LUX,Luxembourg,CO2,Carbon dioxide,2015,9335.573415
+MEX,Mexico,CO2,Carbon dioxide,2015,338182.93
+NLD,Netherlands,CO2,Carbon dioxide,2015,163917.3113
+NZL,New Zealand,CO2,Carbon dioxide,2015,35826.05956
+NOR,Norway,CO2,Carbon dioxide,2015,45248.16658
+POL,Poland,CO2,Carbon dioxide,2015,312536.5375
+PRT,Portugal,CO2,Carbon dioxide,2015,52130.13172
+SVN,Slovenia,CO2,Carbon dioxide,2015,13659.19257
+ESP,Spain,CO2,Carbon dioxide,2015,266809.3633
+SWE,Sweden,CO2,Carbon dioxide,2015,43251.12813
+CHE,Switzerland,CO2,Carbon dioxide,2015,38756.42675
+TUR,Türkiye,CO2,Carbon dioxide,2015,389896.3046
+GBR,United Kingdom,CO2,Carbon dioxide,2015,421463.7032
+USA,United States,CO2,Carbon dioxide,2015,5368292.86
+DZA,Algeria,CO2,Carbon dioxide,2015,161575.8534
+ARG,Argentina,CO2,Carbon dioxide,2015,198015.977
+BRA,Brazil,CO2,Carbon dioxide,2015,538913.7365
+BRN,Brunei Darussalam,CO2,Carbon dioxide,2015,9165.867912
+BGR,Bulgaria,CO2,Carbon dioxide,2015,48127.27285
+CIV,Côte d’Ivoire,CO2,Carbon dioxide,2015,6888.669657
+HRV,Croatia,CO2,Carbon dioxide,2015,17793.8906
+CUB,Cuba,CO2,Carbon dioxide,2015,32873.21067
+CYP,Cyprus,CO2,Carbon dioxide,2015,6956.470853
+EGY,Egypt,CO2,Carbon dioxide,2015,248465.4219
+GEO,Georgia,CO2,Carbon dioxide,2015,10493.9742
+GHA,Ghana,CO2,Carbon dioxide,2015,13492.63907
+GTM,Guatemala,CO2,Carbon dioxide,2015,18346.14503
+GNB,Guinea-Bissau,CO2,Carbon dioxide,2015,173.3206715
+GUY,Guyana,CO2,Carbon dioxide,2015,2122.679097
+VAT,Holy See,CO2,Carbon dioxide,2015,16.06065342
+IDN,Indonesia,CO2,Carbon dioxide,2015,562928.1227
+KAZ,Kazakhstan,CO2,Carbon dioxide,2015,334450.2347
+KEN,Kenya,CO2,Carbon dioxide,2015,16604.16529
+LIE,Liechtenstein,CO2,Carbon dioxide,2015,159.76042
+MYS,Malaysia,CO2,Carbon dioxide,2015,253220.5338
+MDV,Maldives,CO2,Carbon dioxide,2015,1476.330105
+MLT,Malta,CO2,Carbon dioxide,2015,1697.5177
+MUS,Mauritius,CO2,Carbon dioxide,2015,4036.690004
+MDA,Moldova,CO2,Carbon dioxide,2015,9024.654859
+MCO,Monaco,CO2,Carbon dioxide,2015,76.34559172
+NAM,Namibia,CO2,Carbon dioxide,2015,3823.982102
+NPL,Nepal,CO2,Carbon dioxide,2015,6953.534427
+NGA,Nigeria,CO2,Carbon dioxide,2015,118220.7043
+PAN,Panama,CO2,Carbon dioxide,2015,12114.04849
+PER,Peru,CO2,Carbon dioxide,2015,145968.0079
+ROU,Romania,CO2,Carbon dioxide,2015,73425.60966
+RWA,Rwanda,CO2,Carbon dioxide,2015,-3190.133939
+SRB,Serbia,CO2,Carbon dioxide,2015,49921.39478
+SGP,Singapore,CO2,Carbon dioxide,2015,50228.81497
+SLB,Solomon Islands,CO2,Carbon dioxide,2015,-26043.81015
+ZAF,South Africa,CO2,Carbon dioxide,2015,427285.4067
+UKR,Ukraine,CO2,Carbon dioxide,2015,223849.8065
+UZB,Uzbekistan,CO2,Carbon dioxide,2015,102516.9879
+VEN,Venezuela,CO2,Carbon dioxide,2015,166701.6267
+ZWE,Zimbabwe,CO2,Carbon dioxide,2015,11587.22984
+AUS,Australia,CO2,Carbon dioxide,2017,413472.1978
+AUT,Austria,CO2,Carbon dioxide,2017,69422.41324
+BEL,Belgium,CO2,Carbon dioxide,2017,99358.66894
+CAN,Canada,CO2,Carbon dioxide,2017,566619.0422
+CHL,Chile,CO2,Carbon dioxide,2017,82259.41
+COL,Colombia,CO2,Carbon dioxide,2017,83392.54
+CRI,Costa Rica,CO2,Carbon dioxide,2017,5623.39
+CZE,Czechia,CO2,Carbon dioxide,2017,107777.5583
+DNK,Denmark,CO2,Carbon dioxide,2017,36053.35658
+EST,Estonia,CO2,Carbon dioxide,2017,18615.42682
+FIN,Finland,CO2,Carbon dioxide,2017,44657.83964
+FRA,France,CO2,Carbon dioxide,2017,354792.108
+DEU,Germany,CO2,Carbon dioxide,2017,788560.8523
+GRC,Greece,CO2,Carbon dioxide,2017,74847.37967
+HUN,Hungary,CO2,Carbon dioxide,2017,49424.54731
+ISL,Iceland,CO2,Carbon dioxide,2017,3614.893698
+IRL,Ireland,CO2,Carbon dioxide,2017,38890.98833
+ISR,Israel,CO2,Carbon dioxide,2017,64986.37
+ITA,Italy,CO2,Carbon dioxide,2017,350864.926
+JPN,Japan,CO2,Carbon dioxide,2017,1182265.517
+KOR,Korea,CO2,Carbon dioxide,2017,677013.59
+LVA,Latvia,CO2,Carbon dioxide,2017,7215.314492
+LTU,Lithuania,CO2,Carbon dioxide,2017,13277.39837
+LUX,Luxembourg,CO2,Carbon dioxide,2017,9250.760976
+MEX,Mexico,CO2,Carbon dioxide,2017,363788.38
+NLD,Netherlands,CO2,Carbon dioxide,2017,162237.0709
+NZL,New Zealand,CO2,Carbon dioxide,2017,35655.58683
+NOR,Norway,CO2,Carbon dioxide,2017,43912.52757
+POL,Poland,CO2,Carbon dioxide,2017,336471.3526
+PRT,Portugal,CO2,Carbon dioxide,2017,55071.29399
+SVN,Slovenia,CO2,Carbon dioxide,2017,14639.88015
+ESP,Spain,CO2,Carbon dioxide,2017,270522.3082
+SWE,Sweden,CO2,Carbon dioxide,2017,42293.28767
+CHE,Switzerland,CO2,Carbon dioxide,2017,38234.43864
+TUR,Türkiye,CO2,Carbon dioxide,2017,433253.8912
+GBR,United Kingdom,CO2,Carbon dioxide,2017,385049.3424
+USA,United States,CO2,Carbon dioxide,2017,5196539.83
+DZA,Algeria,CO2,Carbon dioxide,2017,163543.8768
+ARG,Argentina,CO2,Carbon dioxide,2017,191850.1938
+BRA,Brazil,CO2,Carbon dioxide,2017,518409.7415
+BRN,Brunei Darussalam,CO2,Carbon dioxide,2017,9504.890224
+BGR,Bulgaria,CO2,Carbon dioxide,2017,47445.92136
+CIV,Côte d’Ivoire,CO2,Carbon dioxide,2017,6888.669657
+HRV,Croatia,CO2,Carbon dioxide,2017,18713.1248
+CUB,Cuba,CO2,Carbon dioxide,2017,30083.35028
+CYP,Cyprus,CO2,Carbon dioxide,2017,7473.116612
+EGY,Egypt,CO2,Carbon dioxide,2017,264703.5777
+GEO,Georgia,CO2,Carbon dioxide,2017,10726.32203
+GHA,Ghana,CO2,Carbon dioxide,2017,16948.45207
+GTM,Guatemala,CO2,Carbon dioxide,2017,18922.50516
+GNB,Guinea-Bissau,CO2,Carbon dioxide,2017,206.5211985
+GUY,Guyana,CO2,Carbon dioxide,2017,2349.611224
+VAT,Holy See,CO2,Carbon dioxide,2017,15.32770405
+IDN,Indonesia,CO2,Carbon dioxide,2017,603078.1487
+KAZ,Kazakhstan,CO2,Carbon dioxide,2017,339496.7781
+KEN,Kenya,CO2,Carbon dioxide,2017,18049.62043
+LIE,Liechtenstein,CO2,Carbon dioxide,2017,155.9267993
+MYS,Malaysia,CO2,Carbon dioxide,2017,252575.1369
+MDV,Maldives,CO2,Carbon dioxide,2017,1735.11359
+MLT,Malta,CO2,Carbon dioxide,2017,1537.277002
+MUS,Mauritius,CO2,Carbon dioxide,2017,4483.703435
+MDA,Moldova,CO2,Carbon dioxide,2017,8694.855512
+MCO,Monaco,CO2,Carbon dioxide,2017,73.33014027
+NAM,Namibia,CO2,Carbon dioxide,2017,3820.068537
+NPL,Nepal,CO2,Carbon dioxide,2017,9737.318501
+NGA,Nigeria,CO2,Carbon dioxide,2017,118908.8934
+PAN,Panama,CO2,Carbon dioxide,2017,11904.64747
+PER,Peru,CO2,Carbon dioxide,2017,146381.9748
+ROU,Romania,CO2,Carbon dioxide,2017,75152.70887
+RWA,Rwanda,CO2,Carbon dioxide,2017,-2936.194929
+SRB,Serbia,CO2,Carbon dioxide,2017,52562.98692
+SGP,Singapore,CO2,Carbon dioxide,2017,50897.79549
+SLB,Solomon Islands,CO2,Carbon dioxide,2017,-23322.46324
+ZAF,South Africa,CO2,Carbon dioxide,2017,415015.8984
+UKR,Ukraine,CO2,Carbon dioxide,2017,223287.8232
+UZB,Uzbekistan,CO2,Carbon dioxide,2017,103598.4795
+VEN,Venezuela,CO2,Carbon dioxide,2017,150839.9196
+ZWE,Zimbabwe,CO2,Carbon dioxide,2017,10724.32165
+EST,Estonia,CO2,Carbon dioxide,2023,8748.131023
+FIN,Finland,CO2,Carbon dioxide,2023,31873.79932
+DEU,Germany,CO2,Carbon dioxide,2023,591373.0151
+GRC,Greece,CO2,Carbon dioxide,2023,51964.97812
+ISL,Iceland,CO2,Carbon dioxide,2023,3508.449072
+IRL,Ireland,CO2,Carbon dioxide,2023,33382.81535
+ISR,Israel,CO2,Carbon dioxide,2023,61941.21
+ITA,Italy,CO2,Carbon dioxide,2023,309321.1864
+JPN,Japan,CO2,Carbon dioxide,2023,986305.0968
+KOR,Korea,CO2,Carbon dioxide,2023,621683.9
+LVA,Latvia,CO2,Carbon dioxide,2023,6592.525246
+LUX,Luxembourg,CO2,Carbon dioxide,2023,6823.201812
+NZL,New Zealand,CO2,Carbon dioxide,2023,31326.17006
+SVN,Slovenia,CO2,Carbon dioxide,2023,11997.11981
+SWE,Sweden,CO2,Carbon dioxide,2023,35418.55177
+TUR,Türkiye,CO2,Carbon dioxide,2023,445055.9497
+HRV,Croatia,CO2,Carbon dioxide,2023,18467.47752
+CYP,Cyprus,CO2,Carbon dioxide,2023,7103.794655
+KAZ,Kazakhstan,CO2,Carbon dioxide,2023,287397.4758
+LIE,Liechtenstein,CO2,Carbon dioxide,2023,131.2531254
+MLT,Malta,CO2,Carbon dioxide,2023,1738.692532
+MCO,Monaco,CO2,Carbon dioxide,2023,51.65379834
+SRB,Serbia,CO2,Carbon dioxide,2023,51009.87115
+UKR,Ukraine,CO2,Carbon dioxide,2023,139820.6793
+CZE,Czechia,CO2,Carbon dioxide,2023,83259.41397
+DNK,Denmark,CO2,Carbon dioxide,2023,27221.97112
+PRT,Portugal,CO2,Carbon dioxide,2023,37595.01278
+HUN,Hungary,CO2,Carbon dioxide,2023,40337.53282
+CAN,Canada,CO2,Carbon dioxide,2023,541140.1745
+BEL,Belgium,CO2,Carbon dioxide,2023,84606.92258
+AUT,Austria,CO2,Carbon dioxide,2023,56647.34816
+GBR,United Kingdom,CO2,Carbon dioxide,2023,307441.6538
+CHE,Switzerland,CO2,Carbon dioxide,2023,31995.70497
+ROU,Romania,CO2,Carbon dioxide,2023,64386.5914
+POL,Poland,CO2,Carbon dioxide,2023,283685.7362
+LTU,Lithuania,CO2,Carbon dioxide,2023,12507.51716
+FRA,France,CO2,Carbon dioxide,2023,284612.0889
+AUS,Australia,CO2,Carbon dioxide,2023,385860.9839
+ESP,Spain,CO2,Carbon dioxide,2023,211737.0546
+BGR,Bulgaria,CO2,Carbon dioxide,2023,34527.2803
+NLD,Netherlands,CO2,Carbon dioxide,2023,116772.9047
+NOR,Norway,CO2,Carbon dioxide,2023,38666.40103
+NOR,Norway,CO2,Carbon dioxide,2024,36764.85446
+NLD,Netherlands,CO2,Carbon dioxide,2024,115124.8855
+BGR,Bulgaria,CO2,Carbon dioxide,2024,32662.16447
+ESP,Spain,CO2,Carbon dioxide,2024,208652.1772
+AUS,Australia,CO2,Carbon dioxide,2024,384286.2695
+FRA,France,CO2,Carbon dioxide,2024,272968.1741
+LTU,Lithuania,CO2,Carbon dioxide,2024,12882.29949
+POL,Poland,CO2,Carbon dioxide,2024,278477.8805
+ROU,Romania,CO2,Carbon dioxide,2024,64574.26113
+GBR,United Kingdom,CO2,Carbon dioxide,2024,299147.673
+AUT,Austria,CO2,Carbon dioxide,2024,54826.40904
+BEL,Belgium,CO2,Carbon dioxide,2024,85499.46227
+CAN,Canada,CO2,Carbon dioxide,2024,540000.2851
+PRT,Portugal,CO2,Carbon dioxide,2024,36096.74982
+DNK,Denmark,CO2,Carbon dioxide,2024,24759.4346
+HUN,Hungary,CO2,Carbon dioxide,2024,39482.35386
+CHE,Switzerland,CO2,Carbon dioxide,2024,31334.81573
+CZE,Czechia,CO2,Carbon dioxide,2024,77221.8946
+EST,Estonia,CO2,Carbon dioxide,2024,8092.587757
+FIN,Finland,CO2,Carbon dioxide,2024,29902.8495
+DEU,Germany,CO2,Carbon dioxide,2024,573924.9449
+GRC,Greece,CO2,Carbon dioxide,2024,53712.53464
+ISL,Iceland,CO2,Carbon dioxide,2024,3676.92989
+IRL,Ireland,CO2,Carbon dioxide,2024,32639.24508
+ISR,Israel,CO2,Carbon dioxide,2024,61999.45
+ITA,Italy,CO2,Carbon dioxide,2024,298490.1139
+JPN,Japan,CO2,Carbon dioxide,2024,969621.4703
+LVA,Latvia,CO2,Carbon dioxide,2024,6299.208223
+LUX,Luxembourg,CO2,Carbon dioxide,2024,6525.402987
+NZL,New Zealand,CO2,Carbon dioxide,2024,31436.16153
+SVN,Slovenia,CO2,Carbon dioxide,2024,12701.6864
+SWE,Sweden,CO2,Carbon dioxide,2024,38832.14222
+TUR,Türkiye,CO2,Carbon dioxide,2024,467814.1558
+HRV,Croatia,CO2,Carbon dioxide,2024,18253.22245
+CYP,Cyprus,CO2,Carbon dioxide,2024,7134.575611
+KAZ,Kazakhstan,CO2,Carbon dioxide,2024,281042.8767
+LIE,Liechtenstein,CO2,Carbon dioxide,2024,114.6989138
+MLT,Malta,CO2,Carbon dioxide,2024,1701.041829
+MCO,Monaco,CO2,Carbon dioxide,2024,52.33464651
+UKR,Ukraine,CO2,Carbon dioxide,2024,134084.7783
+AUS,Australia,CO2,Carbon dioxide,2020,399701.8332
+AUT,Austria,CO2,Carbon dioxide,2020,61995.89414
+BEL,Belgium,CO2,Carbon dioxide,2020,91328.77313
+CAN,Canada,CO2,Carbon dioxide,2020,523540.4359
+CHL,Chile,CO2,Carbon dioxide,2020,78678.52
+COL,Colombia,CO2,Carbon dioxide,2020,83030.79
+CRI,Costa Rica,CO2,Carbon dioxide,2020,4108.78
+CZE,Czechia,CO2,Carbon dioxide,2020,91709.05553
+DNK,Denmark,CO2,Carbon dioxide,2020,29885.89433
+EST,Estonia,CO2,Carbon dioxide,2020,9199.318609
+FIN,Finland,CO2,Carbon dioxide,2020,37718.0915
+FRA,France,CO2,Carbon dioxide,2020,296460.3405
+DEU,Germany,CO2,Carbon dioxide,2020,646682.8355
+GRC,Greece,CO2,Carbon dioxide,2020,55584.17844
+HUN,Hungary,CO2,Carbon dioxide,2020,47106.09608
+ISL,Iceland,CO2,Carbon dioxide,2020,3337.370958
+IRL,Ireland,CO2,Carbon dioxide,2020,34911.63067
+ISR,Israel,CO2,Carbon dioxide,2020,62782.09
+ITA,Italy,CO2,Carbon dioxide,2020,300706.1327
+JPN,Japan,CO2,Carbon dioxide,2020,1035552.413
+KOR,Korea,CO2,Carbon dioxide,2020,623833.06
+LVA,Latvia,CO2,Carbon dioxide,2020,6999.653429
+LTU,Lithuania,CO2,Carbon dioxide,2020,13432.34008
+LUX,Luxembourg,CO2,Carbon dioxide,2020,8072.79167
+MEX,Mexico,CO2,Carbon dioxide,2020,295786.21
+NLD,Netherlands,CO2,Carbon dioxide,2020,136917.6982
+NZL,New Zealand,CO2,Carbon dioxide,2020,34126.56991
+NOR,Norway,CO2,Carbon dioxide,2020,40984.80636
+POL,Poland,CO2,Carbon dioxide,2020,301972.8628
+PRT,Portugal,CO2,Carbon dioxide,2020,41645.86907
+SVN,Slovenia,CO2,Carbon dioxide,2020,12873.62781
+ESP,Spain,CO2,Carbon dioxide,2020,209435.2299
+SWE,Sweden,CO2,Carbon dioxide,2020,36595.48695
+CHE,Switzerland,CO2,Carbon dioxide,2020,34344.273
+TUR,Türkiye,CO2,Carbon dioxide,2020,418520.4827
+GBR,United Kingdom,CO2,Carbon dioxide,2020,326393.8984
+USA,United States,CO2,Carbon dioxide,2020,4688969.21
+DZA,Algeria,CO2,Carbon dioxide,2020,174951.855
+ARG,Argentina,CO2,Carbon dioxide,2020,164475.9373
+AZE,Azerbaijan,CO2,Carbon dioxide,2020,41926.86556
+BTN,Bhutan,CO2,Carbon dioxide,2020,1283.154391
+BRA,Brazil,CO2,Carbon dioxide,2020,477997.6994
+BRN,Brunei Darussalam,CO2,Carbon dioxide,2020,12964.09448
+BGR,Bulgaria,CO2,Carbon dioxide,2020,36570.93194
+CHN,China (People’s Republic of),CO2,Carbon dioxide,2020,11201668.4
+CIV,Côte d’Ivoire,CO2,Carbon dioxide,2020,6888.669657
+HRV,Croatia,CO2,Carbon dioxide,2020,16870.10453
+CUB,Cuba,CO2,Carbon dioxide,2020,26455.46027
+CYP,Cyprus,CO2,Carbon dioxide,2020,6903.067099
+EGY,Egypt,CO2,Carbon dioxide,2020,251445.9333
+GEO,Georgia,CO2,Carbon dioxide,2020,11048.32689
+GHA,Ghana,CO2,Carbon dioxide,2020,22157.00324
+GTM,Guatemala,CO2,Carbon dioxide,2020,18724.2591
+GNB,Guinea-Bissau,CO2,Carbon dioxide,2020,280.6181118
+GUY,Guyana,CO2,Carbon dioxide,2020,4028.286262
+VAT,Holy See,CO2,Carbon dioxide,2020,12.64583623
+IND,India,CO2,Carbon dioxide,2020,2298059.5
+IDN,Indonesia,CO2,Carbon dioxide,2020,641958.5945
+IRQ,Iraq,CO2,Carbon dioxide,2020,158784.5091
+KAZ,Kazakhstan,CO2,Carbon dioxide,2020,289447.5414
+KEN,Kenya,CO2,Carbon dioxide,2020,18217.88025
+LBN,Lebanon,CO2,Carbon dioxide,2020,21043.44568
+LIE,Liechtenstein,CO2,Carbon dioxide,2020,142.136465
+MYS,Malaysia,CO2,Carbon dioxide,2020,272818.2865
+MDV,Maldives,CO2,Carbon dioxide,2020,1436.810689
+MLT,Malta,CO2,Carbon dioxide,2020,1600.979925
+MUS,Mauritius,CO2,Carbon dioxide,2020,4237.011103
+MDA,Moldova,CO2,Carbon dioxide,2020,9657.375381
+MCO,Monaco,CO2,Carbon dioxide,2020,60.05698025
+MAR,Morocco,CO2,Carbon dioxide,2020,67110.70629
+NAM,Namibia,CO2,Carbon dioxide,2020,3553.869127
+NPL,Nepal,CO2,Carbon dioxide,2020,13098.70752
+NGA,Nigeria,CO2,Carbon dioxide,2020,120730.833
+PAN,Panama,CO2,Carbon dioxide,2020,11675.82263
+PER,Peru,CO2,Carbon dioxide,2020,164652.9974
+ROU,Romania,CO2,Carbon dioxide,2020,68289.85747
+RWA,Rwanda,CO2,Carbon dioxide,2020,-2557.130467
+SAU,Saudi Arabia,CO2,Carbon dioxide,2020,624542.2656
+SRB,Serbia,CO2,Carbon dioxide,2020,51390.12499
+SGP,Singapore,CO2,Carbon dioxide,2020,47731.95749
+SLB,Solomon Islands,CO2,Carbon dioxide,2020,-27666.0678
+ZAF,South Africa,CO2,Carbon dioxide,2020,386728.192
+THA,Thailand,CO2,Carbon dioxide,2020,272538.8503
+UKR,Ukraine,CO2,Carbon dioxide,2020,207100.6519
+URY,Uruguay,CO2,Carbon dioxide,2020,6875.832561
+UZB,Uzbekistan,CO2,Carbon dioxide,2020,118377.6961
+VEN,Venezuela,CO2,Carbon dioxide,2020,88418.80929
+ZWE,Zimbabwe,CO2,Carbon dioxide,2020,9320.533244
+AUS,Australia,CO2,Carbon dioxide,2021,390001.2789
+AUT,Austria,CO2,Carbon dioxide,2021,65530.5238
+BEL,Belgium,CO2,Carbon dioxide,2021,94904.03215
+CAN,Canada,CO2,Carbon dioxide,2021,535827.1896
+CHL,Chile,CO2,Carbon dioxide,2021,84738.63
+COL,Colombia,CO2,Carbon dioxide,2021,90488.85
+CRI,Costa Rica,CO2,Carbon dioxide,2021,5115.3
+CZE,Czechia,CO2,Carbon dioxide,2021,96657.28855
+DNK,Denmark,CO2,Carbon dioxide,2021,31141.68008
+EST,Estonia,CO2,Carbon dioxide,2021,10391.93408
+FIN,Finland,CO2,Carbon dioxide,2021,37822.7034
+FRA,France,CO2,Carbon dioxide,2021,322142.7835
+DEU,Germany,CO2,Carbon dioxide,2021,679946.2639
+GRC,Greece,CO2,Carbon dioxide,2021,57532.73127
+HUN,Hungary,CO2,Carbon dioxide,2021,48327.08243
+ISL,Iceland,CO2,Carbon dioxide,2021,3490.844791
+IRL,Ireland,CO2,Carbon dioxide,2021,37324.0536
+ISR,Israel,CO2,Carbon dioxide,2021,62328.76
+ITA,Italy,CO2,Carbon dioxide,2021,334094.6794
+JPN,Japan,CO2,Carbon dioxide,2021,1056645.842
+KOR,Korea,CO2,Carbon dioxide,2021,650976.15
+LVA,Latvia,CO2,Carbon dioxide,2021,7218.66286
+LTU,Lithuania,CO2,Carbon dioxide,2021,13719.23166
+LUX,Luxembourg,CO2,Carbon dioxide,2021,8414.165017
+MEX,Mexico,CO2,Carbon dioxide,2021,291004.58
+NLD,Netherlands,CO2,Carbon dioxide,2021,139862.3223
+NZL,New Zealand,CO2,Carbon dioxide,2021,34558.42642
+NOR,Norway,CO2,Carbon dioxide,2021,40745.49636
+POL,Poland,CO2,Carbon dioxide,2021,330626.6798
+PRT,Portugal,CO2,Carbon dioxide,2021,40173.3424
+SVN,Slovenia,CO2,Carbon dioxide,2021,13076.83538
+ESP,Spain,CO2,Carbon dioxide,2021,226324.2199
+SWE,Sweden,CO2,Carbon dioxide,2021,38546.79314
+CHE,Switzerland,CO2,Carbon dioxide,2021,35915.70988
+TUR,Türkiye,CO2,Carbon dioxide,2021,458924.4118
+GBR,United Kingdom,CO2,Carbon dioxide,2021,342988.1004
+USA,United States,CO2,Carbon dioxide,2021,5017202.08
+DZA,Algeria,CO2,Carbon dioxide,2021,189196.1482
+ARG,Argentina,CO2,Carbon dioxide,2021,185563.2586
+AZE,Azerbaijan,CO2,Carbon dioxide,2021,44346.40018
+BTN,Bhutan,CO2,Carbon dioxide,2021,1301.624621
+BRA,Brazil,CO2,Carbon dioxide,2021,535810.6134
+BRN,Brunei Darussalam,CO2,Carbon dioxide,2021,13305.4507
+BGR,Bulgaria,CO2,Carbon dioxide,2021,42364.94461
+CHN,China (People’s Republic of),CO2,Carbon dioxide,2021,11628009.26
+CIV,Côte d’Ivoire,CO2,Carbon dioxide,2021,37378.24252
+HRV,Croatia,CO2,Carbon dioxide,2021,17402.97147
+CUB,Cuba,CO2,Carbon dioxide,2021,26212.88342
+CYP,Cyprus,CO2,Carbon dioxide,2021,7057.800893
+EGY,Egypt,CO2,Carbon dioxide,2021,274175.6866
+GEO,Georgia,CO2,Carbon dioxide,2021,11542.47054
+GHA,Ghana,CO2,Carbon dioxide,2021,22243.74022
+GTM,Guatemala,CO2,Carbon dioxide,2021,21919.7647
+GNB,Guinea-Bissau,CO2,Carbon dioxide,2021,309.4559534
+GUY,Guyana,CO2,Carbon dioxide,2021,3303.97634
+VAT,Holy See,CO2,Carbon dioxide,2021,14.47164562
+IND,India,CO2,Carbon dioxide,2021,2471411.24
+IDN,Indonesia,CO2,Carbon dioxide,2021,663613.6374
+IRQ,Iraq,CO2,Carbon dioxide,2021,163027.3912
+KAZ,Kazakhstan,CO2,Carbon dioxide,2021,248853.9507
+KEN,Kenya,CO2,Carbon dioxide,2021,20735.11388
+LBN,Lebanon,CO2,Carbon dioxide,2021,17211.86794
+LIE,Liechtenstein,CO2,Carbon dioxide,2021,145.9465489
+MYS,Malaysia,CO2,Carbon dioxide,2021,272861.7499
+MDV,Maldives,CO2,Carbon dioxide,2021,2176.98851
+MLT,Malta,CO2,Carbon dioxide,2021,1611.496189
+MUS,Mauritius,CO2,Carbon dioxide,2021,4394.451549
+MDA,Moldova,CO2,Carbon dioxide,2021,10627.51414
+MCO,Monaco,CO2,Carbon dioxide,2021,64.33664728
+MAR,Morocco,CO2,Carbon dioxide,2021,73420.92878
+NAM,Namibia,CO2,Carbon dioxide,2021,3732.019329
+NPL,Nepal,CO2,Carbon dioxide,2021,17334.66997
+NGA,Nigeria,CO2,Carbon dioxide,2021,131533.7139
+PAN,Panama,CO2,Carbon dioxide,2021,13765.89334
+PER,Peru,CO2,Carbon dioxide,2021,143768.9414
+ROU,Romania,CO2,Carbon dioxide,2021,72501.60934
+RWA,Rwanda,CO2,Carbon dioxide,2021,-2399.973453
+SAU,Saudi Arabia,CO2,Carbon dioxide,2021,650222.3595
+SRB,Serbia,CO2,Carbon dioxide,2021,50388.57879
+SGP,Singapore,CO2,Carbon dioxide,2021,51199.16379
+SLB,Solomon Islands,CO2,Carbon dioxide,2021,-29235.02363
+ZAF,South Africa,CO2,Carbon dioxide,2021,402212.3878
+THA,Thailand,CO2,Carbon dioxide,2021,259209.6822
+UKR,Ukraine,CO2,Carbon dioxide,2021,210636.0705
+URY,Uruguay,CO2,Carbon dioxide,2021,8422.131777
+UZB,Uzbekistan,CO2,Carbon dioxide,2021,139234.8664
+VEN,Venezuela,CO2,Carbon dioxide,2021,82176.1357
+ZWE,Zimbabwe,CO2,Carbon dioxide,2021,10521.85907

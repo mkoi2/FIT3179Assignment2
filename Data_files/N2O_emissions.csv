@@ -1,0 +1,734 @@
+REF_AREA,Reference area,POLLUTANT,Pollutant.1,TIME_PERIOD,OBS_VALUE
+AUS,Australia,N2O,Nitrous oxide,2019,13891.62099
+AUT,Austria,N2O,Nitrous oxide,2019,3582.484296
+BEL,Belgium,N2O,Nitrous oxide,2019,4524.815871
+CAN,Canada,N2O,Nitrous oxide,2019,27224.15567
+CHL,Chile,N2O,Nitrous oxide,2019,5890.24
+COL,Colombia,N2O,Nitrous oxide,2019,13368.84
+CRI,Costa Rica,N2O,Nitrous oxide,2019,837.07
+CZE,Czechia,N2O,Nitrous oxide,2019,3660.978429
+DNK,Denmark,N2O,Nitrous oxide,2019,5478.129151
+EST,Estonia,N2O,Nitrous oxide,2019,833.4957686
+FIN,Finland,N2O,Nitrous oxide,2019,4312.816742
+FRA,France,N2O,Nitrous oxide,2019,30453.91949
+DEU,Germany,N2O,Nitrous oxide,2019,26512.85382
+GRC,Greece,N2O,Nitrous oxide,2019,3914.526394
+HUN,Hungary,N2O,Nitrous oxide,2019,4643.597233
+ISL,Iceland,N2O,Nitrous oxide,2019,365.2710574
+IRL,Ireland,N2O,Nitrous oxide,2019,5685.311065
+ISR,Israel,N2O,Nitrous oxide,2019,1484.8
+ITA,Italy,N2O,Nitrous oxide,2019,14827.60743
+JPN,Japan,N2O,Nitrous oxide,2019,17293.53823
+KOR,Korea,N2O,Nitrous oxide,2019,10844.56
+LVA,Latvia,N2O,Nitrous oxide,2019,1160.707816
+LTU,Lithuania,N2O,Nitrous oxide,2019,2218.286393
+LUX,Luxembourg,N2O,Nitrous oxide,2019,420.7772642
+MEX,Mexico,N2O,Nitrous oxide,2019,37350.35
+NLD,Netherlands,N2O,Nitrous oxide,2019,7584.638172
+NZL,New Zealand,N2O,Nitrous oxide,2019,7063.48232
+NOR,Norway,N2O,Nitrous oxide,2019,2290.674409
+POL,Poland,N2O,Nitrous oxide,2019,20126.19794
+PRT,Portugal,N2O,Nitrous oxide,2019,3540.953585
+SVN,Slovenia,N2O,Nitrous oxide,2019,770.7297435
+ESP,Spain,N2O,Nitrous oxide,2019,13867.31569
+SWE,Sweden,N2O,Nitrous oxide,2019,3523.159409
+CHE,Switzerland,N2O,Nitrous oxide,2019,3237.888482
+TUR,Türkiye,N2O,Nitrous oxide,2019,32829.8703
+GBR,United Kingdom,N2O,Nitrous oxide,2019,21558.46635
+USA,United States,N2O,Nitrous oxide,2019,416377.48
+DZA,Algeria,N2O,Nitrous oxide,2019,5338.678281
+ARG,Argentina,N2O,Nitrous oxide,2019,23947.47853
+BTN,Bhutan,N2O,Nitrous oxide,2019,29.36533696
+BRA,Brazil,N2O,Nitrous oxide,2019,149724.2106
+BRN,Brunei Darussalam,N2O,Nitrous oxide,2019,52.1318419
+BGR,Bulgaria,N2O,Nitrous oxide,2019,4449.115546
+CIV,Côte d’Ivoire,N2O,Nitrous oxide,2019,1296.171543
+HRV,Croatia,N2O,Nitrous oxide,2019,1411.605442
+CUB,Cuba,N2O,Nitrous oxide,2019,5572.728143
+CYP,Cyprus,N2O,Nitrous oxide,2019,170.7460325
+EGY,Egypt,N2O,Nitrous oxide,2019,23544.96374
+GEO,Georgia,N2O,Nitrous oxide,2019,892.8123708
+GHA,Ghana,N2O,Nitrous oxide,2019,7249.399841
+GTM,Guatemala,N2O,Nitrous oxide,2019,2509.670585
+GNB,Guinea-Bissau,N2O,Nitrous oxide,2019,76.89197995
+GUY,Guyana,N2O,Nitrous oxide,2019,528.9214075
+VAT,Holy See,N2O,Nitrous oxide,2019,0.078329595
+IDN,Indonesia,N2O,Nitrous oxide,2019,50423.64877
+KAZ,Kazakhstan,N2O,Nitrous oxide,2019,13322.59629
+KEN,Kenya,N2O,Nitrous oxide,2019,3879.860482
+LIE,Liechtenstein,N2O,Nitrous oxide,2019,7.316279921
+MYS,Malaysia,N2O,Nitrous oxide,2019,6341.544388
+MDV,Maldives,N2O,Nitrous oxide,2019,19.74767486
+MLT,Malta,N2O,Nitrous oxide,2019,42.00390291
+MUS,Mauritius,N2O,Nitrous oxide,2019,100.8532831
+MDA,Moldova,N2O,Nitrous oxide,2019,1274.356007
+MCO,Monaco,N2O,Nitrous oxide,2019,2.582476879
+NAM,Namibia,N2O,Nitrous oxide,2019,1737.615903
+NPL,Nepal,N2O,Nitrous oxide,2019,4612.105065
+NGA,Nigeria,N2O,Nitrous oxide,2019,29757.02809
+PAN,Panama,N2O,Nitrous oxide,2019,787.338023
+PER,Peru,N2O,Nitrous oxide,2019,12062.59471
+ROU,Romania,N2O,Nitrous oxide,2019,9752.513801
+RWA,Rwanda,N2O,Nitrous oxide,2019,1371.131511
+SAU,Saudi Arabia,N2O,Nitrous oxide,2019,7567.006063
+SRB,Serbia,N2O,Nitrous oxide,2019,2804.820542
+SGP,Singapore,N2O,Nitrous oxide,2019,556.1957541
+SLB,Solomon Islands,N2O,Nitrous oxide,2019,44.08520811
+ZAF,South Africa,N2O,Nitrous oxide,2019,17699.82999
+UKR,Ukraine,N2O,Nitrous oxide,2019,34626.35379
+UZB,Uzbekistan,N2O,Nitrous oxide,2019,11779.87886
+VEN,Venezuela,N2O,Nitrous oxide,2019,2786.733887
+ZWE,Zimbabwe,N2O,Nitrous oxide,2019,2529.390615
+AUS,Australia,N2O,Nitrous oxide,2018,14369.0393
+AUT,Austria,N2O,Nitrous oxide,2018,3557.069142
+BEL,Belgium,N2O,Nitrous oxide,2018,4576.066462
+CAN,Canada,N2O,Nitrous oxide,2018,27261.74835
+CHL,Chile,N2O,Nitrous oxide,2018,5237.31
+COL,Colombia,N2O,Nitrous oxide,2018,13015.66
+CRI,Costa Rica,N2O,Nitrous oxide,2018,839.97
+CZE,Czechia,N2O,Nitrous oxide,2018,3326.402152
+DNK,Denmark,N2O,Nitrous oxide,2018,5388.825512
+EST,Estonia,N2O,Nitrous oxide,2018,773.9008818
+FIN,Finland,N2O,Nitrous oxide,2018,4241.847545
+FRA,France,N2O,Nitrous oxide,2018,30866.939
+DEU,Germany,N2O,Nitrous oxide,2018,26572.6749
+GRC,Greece,N2O,Nitrous oxide,2018,3924.408075
+HUN,Hungary,N2O,Nitrous oxide,2018,4633.53336
+ISL,Iceland,N2O,Nitrous oxide,2018,375.4901321
+IRL,Ireland,N2O,Nitrous oxide,2018,5883.424192
+ISR,Israel,N2O,Nitrous oxide,2018,1508.73
+ITA,Italy,N2O,Nitrous oxide,2018,15070.05048
+JPN,Japan,N2O,Nitrous oxide,2018,17698.79852
+KOR,Korea,N2O,Nitrous oxide,2018,10724.15
+LVA,Latvia,N2O,Nitrous oxide,2018,1074.863287
+LTU,Lithuania,N2O,Nitrous oxide,2018,2183.325896
+LUX,Luxembourg,N2O,Nitrous oxide,2018,399.3826386
+MEX,Mexico,N2O,Nitrous oxide,2018,38466.32
+NLD,Netherlands,N2O,Nitrous oxide,2018,7726.181232
+NZL,New Zealand,N2O,Nitrous oxide,2018,7052.508729
+NOR,Norway,N2O,Nitrous oxide,2018,2255.303787
+POL,Poland,N2O,Nitrous oxide,2018,21077.55384
+PRT,Portugal,N2O,Nitrous oxide,2018,3470.65434
+SVN,Slovenia,N2O,Nitrous oxide,2018,728.0144803
+ESP,Spain,N2O,Nitrous oxide,2018,13952.79785
+SWE,Sweden,N2O,Nitrous oxide,2018,3462.803327
+CHE,Switzerland,N2O,Nitrous oxide,2018,3172.885771
+TUR,Türkiye,N2O,Nitrous oxide,2018,31501.10303
+GBR,United Kingdom,N2O,Nitrous oxide,2018,21478.08849
+USA,United States,N2O,Nitrous oxide,2018,439453.21
+DZA,Algeria,N2O,Nitrous oxide,2018,5301.396774
+ARG,Argentina,N2O,Nitrous oxide,2018,22390.36142
+BRA,Brazil,N2O,Nitrous oxide,2018,147880.4111
+BRN,Brunei Darussalam,N2O,Nitrous oxide,2018,51.68213834
+BGR,Bulgaria,N2O,Nitrous oxide,2018,4433.499069
+CIV,Côte d’Ivoire,N2O,Nitrous oxide,2018,1296.171543
+HRV,Croatia,N2O,Nitrous oxide,2018,1408.72225
+CUB,Cuba,N2O,Nitrous oxide,2018,5886.615921
+CYP,Cyprus,N2O,Nitrous oxide,2018,164.7494919
+EGY,Egypt,N2O,Nitrous oxide,2018,24568.92996
+GEO,Georgia,N2O,Nitrous oxide,2018,904.7627206
+GHA,Ghana,N2O,Nitrous oxide,2018,6722.329537
+GTM,Guatemala,N2O,Nitrous oxide,2018,2616.019746
+GNB,Guinea-Bissau,N2O,Nitrous oxide,2018,72.83725202
+GUY,Guyana,N2O,Nitrous oxide,2018,523.6608808
+VAT,Holy See,N2O,Nitrous oxide,2018,0.080466559
+IDN,Indonesia,N2O,Nitrous oxide,2018,50977.19539
+KAZ,Kazakhstan,N2O,Nitrous oxide,2018,13505.78739
+KEN,Kenya,N2O,Nitrous oxide,2018,3739.428429
+LIE,Liechtenstein,N2O,Nitrous oxide,2018,7.21074727
+MYS,Malaysia,N2O,Nitrous oxide,2018,6867.433221
+MDV,Maldives,N2O,Nitrous oxide,2018,18.52488134
+MLT,Malta,N2O,Nitrous oxide,2018,39.82552632
+MUS,Mauritius,N2O,Nitrous oxide,2018,99.25024266
+MDA,Moldova,N2O,Nitrous oxide,2018,1270.891713
+MCO,Monaco,N2O,Nitrous oxide,2018,2.782401454
+MAR,Morocco,N2O,Nitrous oxide,2018,11158.05001
+NAM,Namibia,N2O,Nitrous oxide,2018,1885.914385
+NPL,Nepal,N2O,Nitrous oxide,2018,4437.494011
+NGA,Nigeria,N2O,Nitrous oxide,2018,29342.35918
+PAN,Panama,N2O,Nitrous oxide,2018,748.8320866
+PER,Peru,N2O,Nitrous oxide,2018,11452.06477
+ROU,Romania,N2O,Nitrous oxide,2018,10081.04859
+RWA,Rwanda,N2O,Nitrous oxide,2018,1180.623938
+SRB,Serbia,N2O,Nitrous oxide,2018,2928.159688
+SGP,Singapore,N2O,Nitrous oxide,2018,491.086368
+SLB,Solomon Islands,N2O,Nitrous oxide,2018,41.28801779
+ZAF,South Africa,N2O,Nitrous oxide,2018,17750.0598
+UKR,Ukraine,N2O,Nitrous oxide,2018,32886.44043
+UZB,Uzbekistan,N2O,Nitrous oxide,2018,11477.08532
+VEN,Venezuela,N2O,Nitrous oxide,2018,2999.636334
+ZWE,Zimbabwe,N2O,Nitrous oxide,2018,2752.508694
+AUS,Australia,N2O,Nitrous oxide,2022,15279.00841
+AUT,Austria,N2O,Nitrous oxide,2022,3362.693603
+BEL,Belgium,N2O,Nitrous oxide,2022,4034.538577
+CAN,Canada,N2O,Nitrous oxide,2022,28236.54368
+CHL,Chile,N2O,Nitrous oxide,2022,5141.43
+CZE,Czechia,N2O,Nitrous oxide,2022,3791.972366
+DNK,Denmark,N2O,Nitrous oxide,2022,5145.167827
+EST,Estonia,N2O,Nitrous oxide,2022,888.9740541
+FIN,Finland,N2O,Nitrous oxide,2022,3983.771475
+FRA,France,N2O,Nitrous oxide,2022,28690.96506
+DEU,Germany,N2O,Nitrous oxide,2022,24094.67825
+GRC,Greece,N2O,Nitrous oxide,2022,3745.307259
+HUN,Hungary,N2O,Nitrous oxide,2022,3993.85357
+ISL,Iceland,N2O,Nitrous oxide,2022,364.3579245
+IRL,Ireland,N2O,Nitrous oxide,2022,5458.782578
+ISR,Israel,N2O,Nitrous oxide,2022,1389.29
+ITA,Italy,N2O,Nitrous oxide,2022,13557.82599
+JPN,Japan,N2O,Nitrous oxide,2022,16044.11175
+KOR,Korea,N2O,Nitrous oxide,2022,10587.46
+LVA,Latvia,N2O,Nitrous oxide,2022,1266.983657
+LTU,Lithuania,N2O,Nitrous oxide,2022,1942.501339
+LUX,Luxembourg,N2O,Nitrous oxide,2022,313.5804631
+MEX,Mexico,N2O,Nitrous oxide,2022,38735.33
+NLD,Netherlands,N2O,Nitrous oxide,2022,6618.929169
+NZL,New Zealand,N2O,Nitrous oxide,2022,6811.416277
+NOR,Norway,N2O,Nitrous oxide,2022,2257.168143
+POL,Poland,N2O,Nitrous oxide,2022,20437.17363
+PRT,Portugal,N2O,Nitrous oxide,2022,3343.04848
+SVN,Slovenia,N2O,Nitrous oxide,2022,745.9837972
+ESP,Spain,N2O,Nitrous oxide,2022,12546.90487
+SWE,Sweden,N2O,Nitrous oxide,2022,3497.642453
+CHE,Switzerland,N2O,Nitrous oxide,2022,2537.422302
+TUR,Türkiye,N2O,Nitrous oxide,2022,34240.26554
+GBR,United Kingdom,N2O,Nitrous oxide,2022,20068.68705
+USA,United States,N2O,Nitrous oxide,2022,389707.86
+DZA,Algeria,N2O,Nitrous oxide,2022,4130.023989
+ARG,Argentina,N2O,Nitrous oxide,2022,24287.93913
+AZE,Azerbaijan,N2O,Nitrous oxide,2022,1397.683998
+BTN,Bhutan,N2O,Nitrous oxide,2022,24.38873797
+BRA,Brazil,N2O,Nitrous oxide,2022,161506.5361
+BRN,Brunei Darussalam,N2O,Nitrous oxide,2022,81.50968361
+BGR,Bulgaria,N2O,Nitrous oxide,2022,4296.101798
+CIV,Côte d’Ivoire,N2O,Nitrous oxide,2022,1889.597124
+HRV,Croatia,N2O,Nitrous oxide,2022,1314.849484
+CUB,Cuba,N2O,Nitrous oxide,2022,4995.32858
+CYP,Cyprus,N2O,Nitrous oxide,2022,175.793032
+EGY,Egypt,N2O,Nitrous oxide,2022,28403.97259
+GEO,Georgia,N2O,Nitrous oxide,2022,882.8052052
+GHA,Ghana,N2O,Nitrous oxide,2022,7340.028388
+GTM,Guatemala,N2O,Nitrous oxide,2022,2119.388389
+GNB,Guinea-Bissau,N2O,Nitrous oxide,2022,68.64553287
+GUY,Guyana,N2O,Nitrous oxide,2022,509.3142939
+VAT,Holy See,N2O,Nitrous oxide,2022,0.076589878
+IND,India,N2O,Nitrous oxide,2022,124655.4719
+IDN,Indonesia,N2O,Nitrous oxide,2022,51732.42064
+KAZ,Kazakhstan,N2O,Nitrous oxide,2022,13933.66362
+KEN,Kenya,N2O,Nitrous oxide,2022,4046.448084
+LBN,Lebanon,N2O,Nitrous oxide,2022,544.6957373
+LIE,Liechtenstein,N2O,Nitrous oxide,2022,7.292927507
+MDV,Maldives,N2O,Nitrous oxide,2022,21.3289339
+MLT,Malta,N2O,Nitrous oxide,2022,42.90195998
+MUS,Mauritius,N2O,Nitrous oxide,2022,101.5421391
+MDA,Moldova,N2O,Nitrous oxide,2022,1024.097709
+MCO,Monaco,N2O,Nitrous oxide,2022,2.261517584
+MAR,Morocco,N2O,Nitrous oxide,2022,10185.22042
+NAM,Namibia,N2O,Nitrous oxide,2022,2265.587454
+NPL,Nepal,N2O,Nitrous oxide,2022,5065.484841
+NGA,Nigeria,N2O,Nitrous oxide,2022,31444.17277
+ROU,Romania,N2O,Nitrous oxide,2022,8767.611797
+RWA,Rwanda,N2O,Nitrous oxide,2022,1473.765279
+SRB,Serbia,N2O,Nitrous oxide,2022,2670.620043
+SGP,Singapore,N2O,Nitrous oxide,2022,589.7018809
+SLB,Solomon Islands,N2O,Nitrous oxide,2022,45.10919498
+ZAF,South Africa,N2O,Nitrous oxide,2022,16743.62727
+THA,Thailand,N2O,Nitrous oxide,2022,14654.67416
+UKR,Ukraine,N2O,Nitrous oxide,2022,26874.8292
+URY,Uruguay,N2O,Nitrous oxide,2022,7677.676627
+UZB,Uzbekistan,N2O,Nitrous oxide,2022,12742.40003
+VEN,Venezuela,N2O,Nitrous oxide,2022,2792.991554
+ZWE,Zimbabwe,N2O,Nitrous oxide,2022,2747.565874
+AUS,Australia,N2O,Nitrous oxide,2016,14088.24211
+AUT,Austria,N2O,Nitrous oxide,2016,3563.203038
+BEL,Belgium,N2O,Nitrous oxide,2016,4756.812647
+CAN,Canada,N2O,Nitrous oxide,2016,26887.5998
+CHL,Chile,N2O,Nitrous oxide,2016,5276.79
+COL,Colombia,N2O,Nitrous oxide,2016,12416.53
+CRI,Costa Rica,N2O,Nitrous oxide,2016,838.53
+CZE,Czechia,N2O,Nitrous oxide,2016,4489.252965
+DNK,Denmark,N2O,Nitrous oxide,2016,5545.976579
+EST,Estonia,N2O,Nitrous oxide,2016,739.1817673
+FIN,Finland,N2O,Nitrous oxide,2016,4236.427073
+FRA,France,N2O,Nitrous oxide,2016,31089.79924
+DEU,Germany,N2O,Nitrous oxide,2016,29077.15732
+GRC,Greece,N2O,Nitrous oxide,2016,3952.13697
+HUN,Hungary,N2O,Nitrous oxide,2016,4532.041251
+ISL,Iceland,N2O,Nitrous oxide,2016,372.0133066
+IRL,Ireland,N2O,Nitrous oxide,2016,5344.780477
+ISR,Israel,N2O,Nitrous oxide,2016,1525.54
+ITA,Italy,N2O,Nitrous oxide,2016,15645.84467
+JPN,Japan,N2O,Nitrous oxide,2016,18359.78331
+KOR,Korea,N2O,Nitrous oxide,2016,10196.03
+LVA,Latvia,N2O,Nitrous oxide,2016,1145.114925
+LTU,Lithuania,N2O,Nitrous oxide,2016,2274.696897
+LUX,Luxembourg,N2O,Nitrous oxide,2016,338.7178284
+MEX,Mexico,N2O,Nitrous oxide,2016,35384.5
+NLD,Netherlands,N2O,Nitrous oxide,2016,7709.782116
+NZL,New Zealand,N2O,Nitrous oxide,2016,6904.613456
+NOR,Norway,N2O,Nitrous oxide,2016,2316.95327
+POL,Poland,N2O,Nitrous oxide,2016,19798.49187
+PRT,Portugal,N2O,Nitrous oxide,2016,3347.431485
+SVN,Slovenia,N2O,Nitrous oxide,2016,712.3882842
+ESP,Spain,N2O,Nitrous oxide,2016,13225.3644
+SWE,Sweden,N2O,Nitrous oxide,2016,3546.680795
+CHE,Switzerland,N2O,Nitrous oxide,2016,3226.518136
+TUR,Türkiye,N2O,Nitrous oxide,2016,30529.99855
+GBR,United Kingdom,N2O,Nitrous oxide,2016,21214.63354
+USA,United States,N2O,Nitrous oxide,2016,413408.29
+DZA,Algeria,N2O,Nitrous oxide,2016,4831.241535
+ARG,Argentina,N2O,Nitrous oxide,2016,21241.99086
+BRA,Brazil,N2O,Nitrous oxide,2016,147077.8534
+BRN,Brunei Darussalam,N2O,Nitrous oxide,2016,53.41274475
+BGR,Bulgaria,N2O,Nitrous oxide,2016,4513.773817
+CIV,Côte d’Ivoire,N2O,Nitrous oxide,2016,1296.171543
+HRV,Croatia,N2O,Nitrous oxide,2016,1342.78661
+CUB,Cuba,N2O,Nitrous oxide,2016,6170.070757
+CYP,Cyprus,N2O,Nitrous oxide,2016,155.817044
+EGY,Egypt,N2O,Nitrous oxide,2016,23199.81782
+GEO,Georgia,N2O,Nitrous oxide,2016,975.1215854
+GHA,Ghana,N2O,Nitrous oxide,2016,6294.308461
+GTM,Guatemala,N2O,Nitrous oxide,2016,2608.136734
+GNB,Guinea-Bissau,N2O,Nitrous oxide,2016,62.99880251
+GUY,Guyana,N2O,Nitrous oxide,2016,557.2289867
+VAT,Holy See,N2O,Nitrous oxide,2016,0.08286774
+IND,India,N2O,Nitrous oxide,2016,124815
+IDN,Indonesia,N2O,Nitrous oxide,2016,46973.38996
+KAZ,Kazakhstan,N2O,Nitrous oxide,2016,12886.25664
+KEN,Kenya,N2O,Nitrous oxide,2016,3519.001276
+LIE,Liechtenstein,N2O,Nitrous oxide,2016,7.072498348
+MYS,Malaysia,N2O,Nitrous oxide,2016,6588.544816
+MDV,Maldives,N2O,Nitrous oxide,2016,16.68249315
+MLT,Malta,N2O,Nitrous oxide,2016,39.84891155
+MUS,Mauritius,N2O,Nitrous oxide,2016,104.6118756
+MDA,Moldova,N2O,Nitrous oxide,2016,1110.038561
+MCO,Monaco,N2O,Nitrous oxide,2016,3.029553698
+MAR,Morocco,N2O,Nitrous oxide,2016,9757.104214
+NAM,Namibia,N2O,Nitrous oxide,2016,2384.271962
+NPL,Nepal,N2O,Nitrous oxide,2016,4036.480563
+NGA,Nigeria,N2O,Nitrous oxide,2016,27455.02079
+PAN,Panama,N2O,Nitrous oxide,2016,740.3742227
+PER,Peru,N2O,Nitrous oxide,2016,11477.58178
+ROU,Romania,N2O,Nitrous oxide,2016,8955.098428
+RWA,Rwanda,N2O,Nitrous oxide,2016,1197.846497
+SRB,Serbia,N2O,Nitrous oxide,2016,3586.807949
+SGP,Singapore,N2O,Nitrous oxide,2016,343.116786
+SLB,Solomon Islands,N2O,Nitrous oxide,2016,39.07730096
+ZAF,South Africa,N2O,Nitrous oxide,2016,16814.01914
+UKR,Ukraine,N2O,Nitrous oxide,2016,31233.84987
+UZB,Uzbekistan,N2O,Nitrous oxide,2016,10881.05071
+VEN,Venezuela,N2O,Nitrous oxide,2016,3927.688719
+ZWE,Zimbabwe,N2O,Nitrous oxide,2016,2679.917683
+AUS,Australia,N2O,Nitrous oxide,2017,15004.19652
+AUT,Austria,N2O,Nitrous oxide,2017,3545.186331
+BEL,Belgium,N2O,Nitrous oxide,2017,4755.58319
+CAN,Canada,N2O,Nitrous oxide,2017,26162.65222
+CHL,Chile,N2O,Nitrous oxide,2017,5314.78
+COL,Colombia,N2O,Nitrous oxide,2017,12112.61
+CRI,Costa Rica,N2O,Nitrous oxide,2017,831.7
+CZE,Czechia,N2O,Nitrous oxide,2017,4433.317628
+DNK,Denmark,N2O,Nitrous oxide,2017,5604.060425
+EST,Estonia,N2O,Nitrous oxide,2017,776.547576
+FIN,Finland,N2O,Nitrous oxide,2017,4250.929006
+FRA,France,N2O,Nitrous oxide,2017,32004.50945
+DEU,Germany,N2O,Nitrous oxide,2017,29132.61919
+GRC,Greece,N2O,Nitrous oxide,2017,4016.620202
+HUN,Hungary,N2O,Nitrous oxide,2017,4548.513636
+ISL,Iceland,N2O,Nitrous oxide,2017,385.4469063
+IRL,Ireland,N2O,Nitrous oxide,2017,5643.23093
+ISR,Israel,N2O,Nitrous oxide,2017,1479.52
+ITA,Italy,N2O,Nitrous oxide,2017,15097.60084
+JPN,Japan,N2O,Nitrous oxide,2017,18563.42991
+KOR,Korea,N2O,Nitrous oxide,2017,10458.96
+LVA,Latvia,N2O,Nitrous oxide,2017,1138.312923
+LTU,Lithuania,N2O,Nitrous oxide,2017,2309.829001
+LUX,Luxembourg,N2O,Nitrous oxide,2017,367.6395168
+MEX,Mexico,N2O,Nitrous oxide,2017,36755.41
+NLD,Netherlands,N2O,Nitrous oxide,2017,7906.86528
+NZL,New Zealand,N2O,Nitrous oxide,2017,6960.972265
+NOR,Norway,N2O,Nitrous oxide,2017,2266.776847
+POL,Poland,N2O,Nitrous oxide,2017,20763.15854
+PRT,Portugal,N2O,Nitrous oxide,2017,3450.33521
+SVN,Slovenia,N2O,Nitrous oxide,2017,704.5127345
+ESP,Spain,N2O,Nitrous oxide,2017,13815.00571
+SWE,Sweden,N2O,Nitrous oxide,2017,3679.170975
+CHE,Switzerland,N2O,Nitrous oxide,2017,3356.122349
+TUR,Türkiye,N2O,Nitrous oxide,2017,31500.72879
+GBR,United Kingdom,N2O,Nitrous oxide,2017,21581.59567
+USA,United States,N2O,Nitrous oxide,2017,417818.94
+DZA,Algeria,N2O,Nitrous oxide,2017,5115.258086
+ARG,Argentina,N2O,Nitrous oxide,2017,21781.38044
+BRA,Brazil,N2O,Nitrous oxide,2017,149687.7881
+BRN,Brunei Darussalam,N2O,Nitrous oxide,2017,53.26271598
+BGR,Bulgaria,N2O,Nitrous oxide,2017,4512.042666
+CIV,Côte d’Ivoire,N2O,Nitrous oxide,2017,1296.171543
+HRV,Croatia,N2O,Nitrous oxide,2017,1448.894798
+CUB,Cuba,N2O,Nitrous oxide,2017,6051.651258
+CYP,Cyprus,N2O,Nitrous oxide,2017,162.2038293
+EGY,Egypt,N2O,Nitrous oxide,2017,23354.49067
+GEO,Georgia,N2O,Nitrous oxide,2017,921.1104137
+GHA,Ghana,N2O,Nitrous oxide,2017,6545.268469
+GTM,Guatemala,N2O,Nitrous oxide,2017,2572.661318
+GNB,Guinea-Bissau,N2O,Nitrous oxide,2017,68.46124025
+GUY,Guyana,N2O,Nitrous oxide,2017,568.8375974
+VAT,Holy See,N2O,Nitrous oxide,2017,0.084350854
+IDN,Indonesia,N2O,Nitrous oxide,2017,51659.3913
+KAZ,Kazakhstan,N2O,Nitrous oxide,2017,13373.93765
+KEN,Kenya,N2O,Nitrous oxide,2017,3596.932416
+LIE,Liechtenstein,N2O,Nitrous oxide,2017,7.061380398
+MYS,Malaysia,N2O,Nitrous oxide,2017,7040.025789
+MDV,Maldives,N2O,Nitrous oxide,2017,17.4377798
+MLT,Malta,N2O,Nitrous oxide,2017,38.13730755
+MUS,Mauritius,N2O,Nitrous oxide,2017,108.4263002
+MDA,Moldova,N2O,Nitrous oxide,2017,1225.402802
+MCO,Monaco,N2O,Nitrous oxide,2017,2.578119098
+NAM,Namibia,N2O,Nitrous oxide,2017,1911.785857
+NPL,Nepal,N2O,Nitrous oxide,2017,4193.670509
+NGA,Nigeria,N2O,Nitrous oxide,2017,28864.86025
+PAN,Panama,N2O,Nitrous oxide,2017,747.7810591
+PER,Peru,N2O,Nitrous oxide,2017,11782.13893
+ROU,Romania,N2O,Nitrous oxide,2017,9387.241791
+RWA,Rwanda,N2O,Nitrous oxide,2017,1270.958842
+SRB,Serbia,N2O,Nitrous oxide,2017,3351.897292
+SGP,Singapore,N2O,Nitrous oxide,2017,442.5959726
+SLB,Solomon Islands,N2O,Nitrous oxide,2017,39.69106407
+ZAF,South Africa,N2O,Nitrous oxide,2017,16930.00567
+UKR,Ukraine,N2O,Nitrous oxide,2017,29935.33802
+UZB,Uzbekistan,N2O,Nitrous oxide,2017,11103.95807
+VEN,Venezuela,N2O,Nitrous oxide,2017,3712.468636
+ZWE,Zimbabwe,N2O,Nitrous oxide,2017,2890.21008
+AUS,Australia,N2O,Nitrous oxide,2015,14149.31174
+AUT,Austria,N2O,Nitrous oxide,2015,3435.275826
+BEL,Belgium,N2O,Nitrous oxide,2015,4836.872767
+CAN,Canada,N2O,Nitrous oxide,2015,26661.01082
+CHL,Chile,N2O,Nitrous oxide,2015,5209.78
+COL,Colombia,N2O,Nitrous oxide,2015,11986.11
+CRI,Costa Rica,N2O,Nitrous oxide,2015,827.95
+CZE,Czechia,N2O,Nitrous oxide,2015,3538.52551
+DNK,Denmark,N2O,Nitrous oxide,2015,5398.990244
+EST,Estonia,N2O,Nitrous oxide,2015,765.7088367
+FIN,Finland,N2O,Nitrous oxide,2015,4315.86613
+FRA,France,N2O,Nitrous oxide,2015,31932.95221
+DEU,Germany,N2O,Nitrous oxide,2015,28544.47907
+GRC,Greece,N2O,Nitrous oxide,2015,3904.738262
+HUN,Hungary,N2O,Nitrous oxide,2015,4253.293011
+ISL,Iceland,N2O,Nitrous oxide,2015,376.6568393
+IRL,Ireland,N2O,Nitrous oxide,2015,5202.061391
+ISR,Israel,N2O,Nitrous oxide,2015,1541.01
+ITA,Italy,N2O,Nitrous oxide,2015,15090.79735
+JPN,Japan,N2O,Nitrous oxide,2015,18814.07202
+KOR,Korea,N2O,Nitrous oxide,2015,9947.52
+LVA,Latvia,N2O,Nitrous oxide,2015,1164.607883
+LTU,Lithuania,N2O,Nitrous oxide,2015,2318.882086
+LUX,Luxembourg,N2O,Nitrous oxide,2015,312.2620509
+MEX,Mexico,N2O,Nitrous oxide,2015,38086.15
+NLD,Netherlands,N2O,Nitrous oxide,2015,7981.702665
+NZL,New Zealand,N2O,Nitrous oxide,2015,6932.046751
+NOR,Norway,N2O,Nitrous oxide,2015,2381.761664
+POL,Poland,N2O,Nitrous oxide,2015,19334.34399
+PRT,Portugal,N2O,Nitrous oxide,2015,3377.936584
+SVN,Slovenia,N2O,Nitrous oxide,2015,692.1601313
+ESP,Spain,N2O,Nitrous oxide,2015,13383.73546
+SWE,Sweden,N2O,Nitrous oxide,2015,3583.60415
+CHE,Switzerland,N2O,Nitrous oxide,2015,3226.273228
+TUR,Türkiye,N2O,Nitrous oxide,2015,28683.21703
+GBR,United Kingdom,N2O,Nitrous oxide,2015,21769.79953
+USA,United States,N2O,Nitrous oxide,2015,426965.96
+DZA,Algeria,N2O,Nitrous oxide,2015,4867.162256
+ARG,Argentina,N2O,Nitrous oxide,2015,19698.6962
+BRA,Brazil,N2O,Nitrous oxide,2015,143105.7656
+BRN,Brunei Darussalam,N2O,Nitrous oxide,2015,54.90420274
+BGR,Bulgaria,N2O,Nitrous oxide,2015,4214.471375
+CIV,Côte d’Ivoire,N2O,Nitrous oxide,2015,1296.171543
+HRV,Croatia,N2O,Nitrous oxide,2015,1568.929914
+CUB,Cuba,N2O,Nitrous oxide,2015,6101.657361
+CYP,Cyprus,N2O,Nitrous oxide,2015,153.4208646
+EGY,Egypt,N2O,Nitrous oxide,2015,23617.72796
+GEO,Georgia,N2O,Nitrous oxide,2015,1048.055686
+GHA,Ghana,N2O,Nitrous oxide,2015,6044.86575
+GTM,Guatemala,N2O,Nitrous oxide,2015,2441.47152
+GNB,Guinea-Bissau,N2O,Nitrous oxide,2015,75.37344798
+GUY,Guyana,N2O,Nitrous oxide,2015,589.5698326
+VAT,Holy See,N2O,Nitrous oxide,2015,0.085569578
+IDN,Indonesia,N2O,Nitrous oxide,2015,47296.88808
+KAZ,Kazakhstan,N2O,Nitrous oxide,2015,12164.31775
+KEN,Kenya,N2O,Nitrous oxide,2015,3301.398835
+LIE,Liechtenstein,N2O,Nitrous oxide,2015,7.212242964
+MYS,Malaysia,N2O,Nitrous oxide,2015,6525.350596
+MDV,Maldives,N2O,Nitrous oxide,2015,13.37990136
+MLT,Malta,N2O,Nitrous oxide,2015,39.88560503
+MUS,Mauritius,N2O,Nitrous oxide,2015,115.9403765
+MDA,Moldova,N2O,Nitrous oxide,2015,994.0843159
+MCO,Monaco,N2O,Nitrous oxide,2015,3.257785098
+NAM,Namibia,N2O,Nitrous oxide,2015,2114.585292
+NPL,Nepal,N2O,Nitrous oxide,2015,3826.069248
+NGA,Nigeria,N2O,Nitrous oxide,2015,26373.64372
+PAN,Panama,N2O,Nitrous oxide,2015,690.5851982
+PER,Peru,N2O,Nitrous oxide,2015,11640.75537
+ROU,Romania,N2O,Nitrous oxide,2015,8965.769537
+RWA,Rwanda,N2O,Nitrous oxide,2015,1209.942387
+SRB,Serbia,N2O,Nitrous oxide,2015,3377.499182
+SGP,Singapore,N2O,Nitrous oxide,2015,337.6660949
+SLB,Solomon Islands,N2O,Nitrous oxide,2015,34.93892585
+ZAF,South Africa,N2O,Nitrous oxide,2015,17064.03765
+UKR,Ukraine,N2O,Nitrous oxide,2015,28516.78965
+UZB,Uzbekistan,N2O,Nitrous oxide,2015,10588.46701
+VEN,Venezuela,N2O,Nitrous oxide,2015,4168.440768
+ZWE,Zimbabwe,N2O,Nitrous oxide,2015,2674.885751
+AUS,Australia,N2O,Nitrous oxide,2023,15332.21107
+AUT,Austria,N2O,Nitrous oxide,2023,3258.433037
+BEL,Belgium,N2O,Nitrous oxide,2023,3950.579514
+CAN,Canada,N2O,Nitrous oxide,2023,27905.19884
+CZE,Czechia,N2O,Nitrous oxide,2023,3732.151844
+DNK,Denmark,N2O,Nitrous oxide,2023,4857.652116
+EST,Estonia,N2O,Nitrous oxide,2023,865.6768161
+FIN,Finland,N2O,Nitrous oxide,2023,4090.049226
+FRA,France,N2O,Nitrous oxide,2023,28304.27907
+DEU,Germany,N2O,Nitrous oxide,2023,24240.04099
+GRC,Greece,N2O,Nitrous oxide,2023,3787.367519
+HUN,Hungary,N2O,Nitrous oxide,2023,3901.757377
+ISL,Iceland,N2O,Nitrous oxide,2023,352.6900244
+IRL,Ireland,N2O,Nitrous oxide,2023,5018.188139
+ISR,Israel,N2O,Nitrous oxide,2023,1308.5
+ITA,Italy,N2O,Nitrous oxide,2023,14267.59467
+JPN,Japan,N2O,Nitrous oxide,2023,15176.24001
+KOR,Korea,N2O,Nitrous oxide,2023,10614.33
+LVA,Latvia,N2O,Nitrous oxide,2023,1218.829336
+LTU,Lithuania,N2O,Nitrous oxide,2023,1911.459548
+LUX,Luxembourg,N2O,Nitrous oxide,2023,310.3114246
+NLD,Netherlands,N2O,Nitrous oxide,2023,6508.428129
+NZL,New Zealand,N2O,Nitrous oxide,2023,6634.585069
+POL,Poland,N2O,Nitrous oxide,2023,20886.41354
+PRT,Portugal,N2O,Nitrous oxide,2023,3406.087046
+SVN,Slovenia,N2O,Nitrous oxide,2023,710.6122179
+SWE,Sweden,N2O,Nitrous oxide,2023,3347.52054
+CHE,Switzerland,N2O,Nitrous oxide,2023,2529.282994
+TUR,Türkiye,N2O,Nitrous oxide,2023,35205.97285
+HRV,Croatia,N2O,Nitrous oxide,2023,1324.076944
+CYP,Cyprus,N2O,Nitrous oxide,2023,175.6893694
+KAZ,Kazakhstan,N2O,Nitrous oxide,2023,13653.34051
+LIE,Liechtenstein,N2O,Nitrous oxide,2023,7.13337023
+MLT,Malta,N2O,Nitrous oxide,2023,40.25762378
+MCO,Monaco,N2O,Nitrous oxide,2023,1.914291598
+ROU,Romania,N2O,Nitrous oxide,2023,8813.458024
+SRB,Serbia,N2O,Nitrous oxide,2023,2545.184147
+UKR,Ukraine,N2O,Nitrous oxide,2023,28296.0089
+BGR,Bulgaria,N2O,Nitrous oxide,2023,4308.543427
+GBR,United Kingdom,N2O,Nitrous oxide,2023,20001.45402
+NOR,Norway,N2O,Nitrous oxide,2023,2094.024428
+ESP,Spain,N2O,Nitrous oxide,2023,12036.09255
+ESP,Spain,N2O,Nitrous oxide,2024,12634.58496
+NOR,Norway,N2O,Nitrous oxide,2024,2222.143259
+GBR,United Kingdom,N2O,Nitrous oxide,2024,19647.26391
+BGR,Bulgaria,N2O,Nitrous oxide,2024,4114.716757
+AUS,Australia,N2O,Nitrous oxide,2024,13205.09565
+AUT,Austria,N2O,Nitrous oxide,2024,3253.58925
+BEL,Belgium,N2O,Nitrous oxide,2024,3783.073933
+CAN,Canada,N2O,Nitrous oxide,2024,28627.84199
+CZE,Czechia,N2O,Nitrous oxide,2024,4317.201324
+DNK,Denmark,N2O,Nitrous oxide,2024,4931.270999
+EST,Estonia,N2O,Nitrous oxide,2024,880.2085498
+FIN,Finland,N2O,Nitrous oxide,2024,4284.064116
+FRA,France,N2O,Nitrous oxide,2024,27994.45547
+DEU,Germany,N2O,Nitrous oxide,2024,22857.16844
+GRC,Greece,N2O,Nitrous oxide,2024,3839.80429
+HUN,Hungary,N2O,Nitrous oxide,2024,4195.787544
+ISL,Iceland,N2O,Nitrous oxide,2024,364.1695977
+IRL,Ireland,N2O,Nitrous oxide,2024,5082.759699
+ISR,Israel,N2O,Nitrous oxide,2024,1274.31
+ITA,Italy,N2O,Nitrous oxide,2024,13789.07289
+JPN,Japan,N2O,Nitrous oxide,2024,14768.08054
+LVA,Latvia,N2O,Nitrous oxide,2024,1262.330547
+LTU,Lithuania,N2O,Nitrous oxide,2024,2053.279905
+LUX,Luxembourg,N2O,Nitrous oxide,2024,300.7119937
+NLD,Netherlands,N2O,Nitrous oxide,2024,6476.277327
+NZL,New Zealand,N2O,Nitrous oxide,2024,6726.496843
+POL,Poland,N2O,Nitrous oxide,2024,20518.20239
+PRT,Portugal,N2O,Nitrous oxide,2024,3452.641334
+SVN,Slovenia,N2O,Nitrous oxide,2024,680.2212178
+SWE,Sweden,N2O,Nitrous oxide,2024,3369.526512
+CHE,Switzerland,N2O,Nitrous oxide,2024,2654.704563
+TUR,Türkiye,N2O,Nitrous oxide,2024,36125.86242
+HRV,Croatia,N2O,Nitrous oxide,2024,1367.125995
+CYP,Cyprus,N2O,Nitrous oxide,2024,178.6903482
+KAZ,Kazakhstan,N2O,Nitrous oxide,2024,15090.86974
+LIE,Liechtenstein,N2O,Nitrous oxide,2024,6.963226679
+MLT,Malta,N2O,Nitrous oxide,2024,38.76143211
+MCO,Monaco,N2O,Nitrous oxide,2024,1.949150603
+ROU,Romania,N2O,Nitrous oxide,2024,8607.626852
+UKR,Ukraine,N2O,Nitrous oxide,2024,27738.3057
+AUS,Australia,N2O,Nitrous oxide,2021,14541.26995
+AUT,Austria,N2O,Nitrous oxide,2021,3524.707364
+BEL,Belgium,N2O,Nitrous oxide,2021,4333.920392
+CAN,Canada,N2O,Nitrous oxide,2021,27193.74595
+CHL,Chile,N2O,Nitrous oxide,2021,5327
+COL,Colombia,N2O,Nitrous oxide,2021,13317.37
+CRI,Costa Rica,N2O,Nitrous oxide,2021,818.12
+CZE,Czechia,N2O,Nitrous oxide,2021,4469.245652
+DNK,Denmark,N2O,Nitrous oxide,2021,5242.413798
+EST,Estonia,N2O,Nitrous oxide,2021,864.1368472
+FIN,Finland,N2O,Nitrous oxide,2021,4356.319881
+FRA,France,N2O,Nitrous oxide,2021,30270.69412
+DEU,Germany,N2O,Nitrous oxide,2021,25656.1665
+GRC,Greece,N2O,Nitrous oxide,2021,3942.884969
+HUN,Hungary,N2O,Nitrous oxide,2021,4803.345484
+ISL,Iceland,N2O,Nitrous oxide,2021,370.4244457
+IRL,Ireland,N2O,Nitrous oxide,2021,5854.404205
+ISR,Israel,N2O,Nitrous oxide,2021,1410.87
+ITA,Italy,N2O,Nitrous oxide,2021,15210.04463
+JPN,Japan,N2O,Nitrous oxide,2021,16820.24477
+KOR,Korea,N2O,Nitrous oxide,2021,10679.81
+LVA,Latvia,N2O,Nitrous oxide,2021,1227.108987
+LTU,Lithuania,N2O,Nitrous oxide,2021,2271.207016
+LUX,Luxembourg,N2O,Nitrous oxide,2021,378.6167215
+MEX,Mexico,N2O,Nitrous oxide,2021,36962.43
+NLD,Netherlands,N2O,Nitrous oxide,2021,7108.244733
+NZL,New Zealand,N2O,Nitrous oxide,2021,7024.397669
+NOR,Norway,N2O,Nitrous oxide,2021,2247.733035
+POL,Poland,N2O,Nitrous oxide,2021,20938.10528
+PRT,Portugal,N2O,Nitrous oxide,2021,3479.637476
+SVN,Slovenia,N2O,Nitrous oxide,2021,757.9725601
+ESP,Spain,N2O,Nitrous oxide,2021,13800.14824
+SWE,Sweden,N2O,Nitrous oxide,2021,3468.952231
+CHE,Switzerland,N2O,Nitrous oxide,2021,3052.242211
+TUR,Türkiye,N2O,Nitrous oxide,2021,35848.73406
+GBR,United Kingdom,N2O,Nitrous oxide,2021,20945.51531
+USA,United States,N2O,Nitrous oxide,2021,398167.13
+DZA,Algeria,N2O,Nitrous oxide,2021,4792.324592
+ARG,Argentina,N2O,Nitrous oxide,2021,25470.26891
+AZE,Azerbaijan,N2O,Nitrous oxide,2021,1498.912182
+BTN,Bhutan,N2O,Nitrous oxide,2021,27.26779816
+BRA,Brazil,N2O,Nitrous oxide,2021,158137.6921
+BRN,Brunei Darussalam,N2O,Nitrous oxide,2021,59.57494596
+BGR,Bulgaria,N2O,Nitrous oxide,2021,4429.857669
+CHN,China (People’s Republic of),N2O,Nitrous oxide,2021,557063.1649
+CIV,Côte d’Ivoire,N2O,Nitrous oxide,2021,1815.378859
+HRV,Croatia,N2O,Nitrous oxide,2021,1439.344057
+CUB,Cuba,N2O,Nitrous oxide,2021,4836.044479
+CYP,Cyprus,N2O,Nitrous oxide,2021,177.87522
+EGY,Egypt,N2O,Nitrous oxide,2021,29128.68421
+GEO,Georgia,N2O,Nitrous oxide,2021,929.1630307
+GHA,Ghana,N2O,Nitrous oxide,2021,7308.47082
+GTM,Guatemala,N2O,Nitrous oxide,2021,2162.620659
+GNB,Guinea-Bissau,N2O,Nitrous oxide,2021,61.09357895
+GUY,Guyana,N2O,Nitrous oxide,2021,507.4499552
+VAT,Holy See,N2O,Nitrous oxide,2021,0.068171298
+IND,India,N2O,Nitrous oxide,2021,120993.7
+IDN,Indonesia,N2O,Nitrous oxide,2021,52435.12737
+IRQ,Iraq,N2O,Nitrous oxide,2021,5917.068761
+KAZ,Kazakhstan,N2O,Nitrous oxide,2021,14734.85828
+KEN,Kenya,N2O,Nitrous oxide,2021,3993.915807
+LBN,Lebanon,N2O,Nitrous oxide,2021,535.7028488
+LIE,Liechtenstein,N2O,Nitrous oxide,2021,7.230149354
+MYS,Malaysia,N2O,Nitrous oxide,2021,5699.378032
+MDV,Maldives,N2O,Nitrous oxide,2021,20.82126266
+MLT,Malta,N2O,Nitrous oxide,2021,40.65877116
+MUS,Mauritius,N2O,Nitrous oxide,2021,105.4494583
+MDA,Moldova,N2O,Nitrous oxide,2021,1349.332545
+MCO,Monaco,N2O,Nitrous oxide,2021,2.516911589
+MAR,Morocco,N2O,Nitrous oxide,2021,11342.74323
+NAM,Namibia,N2O,Nitrous oxide,2021,1765.393857
+NPL,Nepal,N2O,Nitrous oxide,2021,5036.017975
+NGA,Nigeria,N2O,Nitrous oxide,2021,30741.4538
+PAN,Panama,N2O,Nitrous oxide,2021,825.2806325
+PER,Peru,N2O,Nitrous oxide,2021,12307.83609
+ROU,Romania,N2O,Nitrous oxide,2021,9909.889362
+RWA,Rwanda,N2O,Nitrous oxide,2021,1460.604458
+SAU,Saudi Arabia,N2O,Nitrous oxide,2021,7677.982867
+SRB,Serbia,N2O,Nitrous oxide,2021,2515.130591
+SGP,Singapore,N2O,Nitrous oxide,2021,588.7547911
+SLB,Solomon Islands,N2O,Nitrous oxide,2021,43.72068967
+ZAF,South Africa,N2O,Nitrous oxide,2021,16815.42931
+THA,Thailand,N2O,Nitrous oxide,2021,15297.96129
+UKR,Ukraine,N2O,Nitrous oxide,2021,37589.79913
+URY,Uruguay,N2O,Nitrous oxide,2021,8601.362287
+UZB,Uzbekistan,N2O,Nitrous oxide,2021,12170.62933
+VEN,Venezuela,N2O,Nitrous oxide,2021,2671.770136
+ZWE,Zimbabwe,N2O,Nitrous oxide,2021,2758.917105
+AUS,Australia,N2O,Nitrous oxide,2020,13692.28168
+AUT,Austria,N2O,Nitrous oxide,2020,3507.488669
+BEL,Belgium,N2O,Nitrous oxide,2020,4384.957644
+CAN,Canada,N2O,Nitrous oxide,2020,28147.7259
+CHL,Chile,N2O,Nitrous oxide,2020,5294.21
+COL,Colombia,N2O,Nitrous oxide,2020,13270.15
+CRI,Costa Rica,N2O,Nitrous oxide,2020,795.47
+CZE,Czechia,N2O,Nitrous oxide,2020,4289.054587
+DNK,Denmark,N2O,Nitrous oxide,2020,5559.652796
+EST,Estonia,N2O,Nitrous oxide,2020,827.3834456
+FIN,Finland,N2O,Nitrous oxide,2020,4227.763691
+FRA,France,N2O,Nitrous oxide,2020,29571.39818
+DEU,Germany,N2O,Nitrous oxide,2020,25349.46482
+GRC,Greece,N2O,Nitrous oxide,2020,3961.987689
+HUN,Hungary,N2O,Nitrous oxide,2020,4761.452767
+ISL,Iceland,N2O,Nitrous oxide,2020,363.4391673
+IRL,Ireland,N2O,Nitrous oxide,2020,5675.67893
+ISR,Israel,N2O,Nitrous oxide,2020,1432.43
+ITA,Italy,N2O,Nitrous oxide,2020,15277.17756
+JPN,Japan,N2O,Nitrous oxide,2020,16849.67646
+KOR,Korea,N2O,Nitrous oxide,2020,10555.6
+LVA,Latvia,N2O,Nitrous oxide,2020,1215.218715
+LTU,Lithuania,N2O,Nitrous oxide,2020,2388.456085
+LUX,Luxembourg,N2O,Nitrous oxide,2020,375.973987
+MEX,Mexico,N2O,Nitrous oxide,2020,36271.04
+NLD,Netherlands,N2O,Nitrous oxide,2020,7413.888877
+NZL,New Zealand,N2O,Nitrous oxide,2020,7074.220035
+NOR,Norway,N2O,Nitrous oxide,2020,2238.598409
+POL,Poland,N2O,Nitrous oxide,2020,20692.13816
+PRT,Portugal,N2O,Nitrous oxide,2020,3471.91256
+SVN,Slovenia,N2O,Nitrous oxide,2020,763.9050392
+ESP,Spain,N2O,Nitrous oxide,2020,14168.39074
+SWE,Sweden,N2O,Nitrous oxide,2020,3572.868554
+CHE,Switzerland,N2O,Nitrous oxide,2020,3153.500443
+TUR,Türkiye,N2O,Nitrous oxide,2020,36114.78886
+GBR,United Kingdom,N2O,Nitrous oxide,2020,20571.23788
+USA,United States,N2O,Nitrous oxide,2020,391167.73
+DZA,Algeria,N2O,Nitrous oxide,2020,5113.803697
+ARG,Argentina,N2O,Nitrous oxide,2020,24351.23599
+AZE,Azerbaijan,N2O,Nitrous oxide,2020,1768.755801
+BTN,Bhutan,N2O,Nitrous oxide,2020,27.30473926
+BRA,Brazil,N2O,Nitrous oxide,2020,157168.3052
+BRN,Brunei Darussalam,N2O,Nitrous oxide,2020,61.42578334
+BGR,Bulgaria,N2O,Nitrous oxide,2020,4325.73311
+CHN,China (People’s Republic of),N2O,Nitrous oxide,2020,524440.246
+CIV,Côte d’Ivoire,N2O,Nitrous oxide,2020,1296.171543
+HRV,Croatia,N2O,Nitrous oxide,2020,1446.766344
+CUB,Cuba,N2O,Nitrous oxide,2020,5041.063683
+CYP,Cyprus,N2O,Nitrous oxide,2020,175.1683481
+EGY,Egypt,N2O,Nitrous oxide,2020,26149.22027
+GEO,Georgia,N2O,Nitrous oxide,2020,942.9629497
+GHA,Ghana,N2O,Nitrous oxide,2020,7649.522482
+GTM,Guatemala,N2O,Nitrous oxide,2020,2217.427629
+GNB,Guinea-Bissau,N2O,Nitrous oxide,2020,69.11537899
+GUY,Guyana,N2O,Nitrous oxide,2020,548.7373017
+VAT,Holy See,N2O,Nitrous oxide,2020,0.063185058
+IND,India,N2O,Nitrous oxide,2020,121460.1
+IDN,Indonesia,N2O,Nitrous oxide,2020,50648.36011
+IRQ,Iraq,N2O,Nitrous oxide,2020,6423.303988
+KAZ,Kazakhstan,N2O,Nitrous oxide,2020,14821.95664
+KEN,Kenya,N2O,Nitrous oxide,2020,3972.681618
+LBN,Lebanon,N2O,Nitrous oxide,2020,585.2092217
+LIE,Liechtenstein,N2O,Nitrous oxide,2020,7.228553114
+MYS,Malaysia,N2O,Nitrous oxide,2020,6185.645959
+MDV,Maldives,N2O,Nitrous oxide,2020,15.24491702
+MLT,Malta,N2O,Nitrous oxide,2020,41.65779715
+MUS,Mauritius,N2O,Nitrous oxide,2020,95.98179565
+MDA,Moldova,N2O,Nitrous oxide,2020,1103.034551
+MCO,Monaco,N2O,Nitrous oxide,2020,2.433819448
+MAR,Morocco,N2O,Nitrous oxide,2020,10829.55183
+NAM,Namibia,N2O,Nitrous oxide,2020,1457.376545
+NPL,Nepal,N2O,Nitrous oxide,2020,4801.998032
+NGA,Nigeria,N2O,Nitrous oxide,2020,31024.4323
+PAN,Panama,N2O,Nitrous oxide,2020,772.0554186
+PER,Peru,N2O,Nitrous oxide,2020,11906.30013
+ROU,Romania,N2O,Nitrous oxide,2020,9148.121118
+RWA,Rwanda,N2O,Nitrous oxide,2020,1410.629114
+SAU,Saudi Arabia,N2O,Nitrous oxide,2020,7076.60779
+SRB,Serbia,N2O,Nitrous oxide,2020,3249.699277
+SGP,Singapore,N2O,Nitrous oxide,2020,567.2307609
+SLB,Solomon Islands,N2O,Nitrous oxide,2020,43.28867738
+ZAF,South Africa,N2O,Nitrous oxide,2020,16914.92509
+THA,Thailand,N2O,Nitrous oxide,2020,14848.73045
+UKR,Ukraine,N2O,Nitrous oxide,2020,32795.23456
+URY,Uruguay,N2O,Nitrous oxide,2020,7779.70294
+UZB,Uzbekistan,N2O,Nitrous oxide,2020,11671.1029
+VEN,Venezuela,N2O,Nitrous oxide,2020,2937.286626
+ZWE,Zimbabwe,N2O,Nitrous oxide,2020,2582.951675
