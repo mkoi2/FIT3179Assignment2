@@ -1,0 +1,56 @@
+{
+"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+"title": "Greenhouse Gas Emission Around The World",
+"width": 800,
+"height": 450,
+"projection": {"type": "equalEarth"},
+"data":{
+    "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Chart_files/ne_110m_admin_0_countries.json",
+    "format":{"type": "topojson","feature": "ne_110m_admin_0_countries"}
+},
+    "params": [
+        {
+            "name": "Year_selection",
+            "value": 2024,
+            "bind": {
+                "input": "range",
+                "min": 2015,
+                "max": 2024,
+                "step": 1,
+                "name": "Year"
+            }
+        }
+    ],
+
+    "transform": [
+        {"filter": "datum.TIME_PERIOD == Year_selection"},
+        {
+            "lookup": "properties.NAME",
+            "from":{
+                "data":{
+                    "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/OECD.WASTE_GENERATION.csv"
+                },
+                "key": "Reference area",
+                "fields": ["OBS_VALUE","TIME_PERIOD"]
+            }
+        },
+        {"calculate": "datum.OBS_VALUE + 0.1", "as": "Total Greenhouse Gases Emitted (tonnes)"}
+        
+    ],
+    
+
+    "mark": {"type": "geoshape"},
+    "encoding": {
+        "color": {
+            "field": "Total Greenhouse Gases Emitted (tonnes)",
+            "type": "quantitative",
+            "scale": {"type": "log"}
+        },
+       
+        "tooltip": [
+            {"field": "properties.Name", "type": "nominal", "title": "Country"},
+            {"field": "OBS_VALUE", "type": "quantitative","title": "Total Greenhouse Gases Emitted (tonnes)"},
+            {"field": "TIME_PERIOD", "type": "quantitative","title": "Year"}
+        ]
+    }
+}
