@@ -4,7 +4,7 @@
 "width": 800,
 "height": 450,
 "data":{
-    "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/refs/heads/main/temperature-anomaly.csv"
+    "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Chart_files/temperature-anomaly.csv"
     
 },
 "mark": "line",
