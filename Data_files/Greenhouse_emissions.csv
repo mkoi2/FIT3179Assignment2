@@ -11,7 +11,7 @@ UKR,Ukraine,GHG,Greenhouse gases,2024,226833.0491
 IRL,Ireland,GHG,Greenhouse gases,2024,53825.47082
 KAZ,Kazakhstan,GHG,Greenhouse gases,2024,360318.532
 HRV,Croatia,GHG,Greenhouse gases,2024,25275.41954
-TUR,Türkiye,GHG,Greenhouse gases,2024,584521.3387
+TUR,Turkey,GHG,Greenhouse gases,2024,584521.3387
 LVA,Latvia,GHG,Greenhouse gases,2024,9617.707385
 FIN,Finland,GHG,Greenhouse gases,2024,39234.62181
 SVN,Slovenia,GHG,Greenhouse gases,2024,15483.80569
@@ -22,7 +22,7 @@ JPN,Japan,GHG,Greenhouse gases,2024,1044545.841
 DNK,Denmark,GHG,Greenhouse gases,2024,38181.00604
 CHE,Switzerland,GHG,Greenhouse gases,2024,40019.55922
 ITA,Italy,GHG,Greenhouse gases,2024,362618.3185
-CZE,Czechia,GHG,Greenhouse gases,2024,96210.79115
+CZE,Czech Republic,GHG,Greenhouse gases,2024,96210.79115
 DEU,Germany,GHG,Greenhouse gases,2024,649769.5184
 AUT,Austria,GHG,Greenhouse gases,2024,66637.8313
 HUN,Hungary,GHG,Greenhouse gases,2024,53659.11414
@@ -48,7 +48,7 @@ ROU,Romania,GHG,Greenhouse gases,2023,95762.85102
 CAN,Canada,GHG,Greenhouse gases,2023,686884.7128
 POL,Poland,GHG,Greenhouse gases,2023,346884.6884
 PRT,Portugal,GHG,Greenhouse gases,2023,52962.4919
-KOR,Korea,GHG,Greenhouse gases,2023,707199.78
+KOR,Republic of Korea,GHG,Greenhouse gases,2023,707199.78
 LTU,Lithuania,GHG,Greenhouse gases,2023,17838.57825
 GBR,United Kingdom,GHG,Greenhouse gases,2023,385848.2653
 BEL,Belgium,GHG,Greenhouse gases,2023,97814.74437
@@ -56,7 +56,7 @@ HUN,Hungary,GHG,Greenhouse gases,2023,54240.17127
 AUT,Austria,GHG,Greenhouse gases,2023,68674.0605
 DEU,Germany,GHG,Greenhouse gases,2023,669578.3605
 CHE,Switzerland,GHG,Greenhouse gases,2023,40579.03791
-CZE,Czechia,GHG,Greenhouse gases,2023,101818.5249
+CZE,Czech Republic,GHG,Greenhouse gases,2023,101818.5249
 DNK,Denmark,GHG,Greenhouse gases,2023,40602.37633
 ITA,Italy,GHG,Greenhouse gases,2023,376296.0769
 JPN,Japan,GHG,Greenhouse gases,2023,1064861.152
@@ -67,7 +67,7 @@ FIN,Finland,GHG,Greenhouse gases,2023,41171.56113
 IRL,Ireland,GHG,Greenhouse gases,2023,54886.8712
 SVN,Slovenia,GHG,Greenhouse gases,2023,14870.19269
 LVA,Latvia,GHG,Greenhouse gases,2023,9889.580831
-TUR,Türkiye,GHG,Greenhouse gases,2023,555158.0902
+TUR,Turkey,GHG,Greenhouse gases,2023,555158.0902
 HRV,Croatia,GHG,Greenhouse gases,2023,25342.54712
 KAZ,Kazakhstan,GHG,Greenhouse gases,2023,361591.849
 UKR,Ukraine,GHG,Greenhouse gases,2023,233471.7396
@@ -83,7 +83,7 @@ MCO,Monaco,GHG,Greenhouse gases,2023,60.1818939
 NOR,Norway,GHG,Greenhouse gases,2023,46342.06466
 CHE,Switzerland,GHG,Greenhouse gases,2015,48884.90377
 CHL,Chile,GHG,Greenhouse gases,2015,100804.94
-CZE,Czechia,GHG,Greenhouse gases,2015,124619.7751
+CZE,Czech Republic,GHG,Greenhouse gases,2015,124619.7751
 DNK,Denmark,GHG,Greenhouse gases,2015,51419.41438
 LVA,Latvia,GHG,Greenhouse gases,2015,10654.8147
 MEX,Mexico,GHG,Greenhouse gases,2015,745493.45
@@ -92,7 +92,7 @@ SVN,Slovenia,GHG,Greenhouse gases,2015,16900.64378
 USA,United States,GHG,Greenhouse gases,2015,6736216.78
 GRC,Greece,GHG,Greenhouse gases,2015,96078.30705
 IRL,Ireland,GHG,Greenhouse gases,2015,60277.51831
-TUR,Türkiye,GHG,Greenhouse gases,2015,483932.0157
+TUR,Turkey,GHG,Greenhouse gases,2015,483932.0157
 GHA,Ghana,GHG,Greenhouse gases,2015,32766.40168
 IDN,Indonesia,GHG,Greenhouse gases,2015,825543.0408
 UKR,Ukraine,GHG,Greenhouse gases,2015,324790.6802
@@ -111,7 +111,7 @@ ISL,Iceland,GHG,Greenhouse gases,2015,4820.426084
 ISR,Israel,GHG,Greenhouse gases,2015,81303.08
 DZA,Algeria,GHG,Greenhouse gases,2015,207204.6867
 BRN,Brunei Darussalam,GHG,Greenhouse gases,2015,11085.05377
-CIV,Côte d’Ivoire,GHG,Greenhouse gases,2015,47426.3274
+CIV,Ivory Coast,GHG,Greenhouse gases,2015,47426.3274
 CUB,Cuba,GHG,Greenhouse gases,2015,59362.44143
 CYP,Cyprus,GHG,Greenhouse gases,2015,8330.156254
 EGY,Egypt,GHG,Greenhouse gases,2015,334185.0535
@@ -146,7 +146,7 @@ MYS,Malaysia,GHG,Greenhouse gases,2015,317743.6438
 HUN,Hungary,GHG,Greenhouse gases,2015,62443.29937
 BEL,Belgium,GHG,Greenhouse gases,2015,118419.6061
 LTU,Lithuania,GHG,Greenhouse gases,2015,19622.4743
-KOR,Korea,GHG,Greenhouse gases,2015,725053.11
+KOR,Republic of Korea,GHG,Greenhouse gases,2015,725053.11
 COL,Colombia,GHG,Greenhouse gases,2015,169324.71
 GBR,United Kingdom,GHG,Greenhouse gases,2015,513961.8771
 PRT,Portugal,GHG,Greenhouse gases,2015,67312.6772
@@ -171,7 +171,7 @@ POL,Poland,GHG,Greenhouse gases,2017,406433.193
 PRT,Portugal,GHG,Greenhouse gases,2017,70591.45684
 GBR,United Kingdom,GHG,Greenhouse gases,2017,474866.7633
 COL,Colombia,GHG,Greenhouse gases,2017,167309.73
-KOR,Korea,GHG,Greenhouse gases,2017,756270.39
+KOR,Republic of Korea,GHG,Greenhouse gases,2017,756270.39
 LTU,Lithuania,GHG,Greenhouse gases,2017,19796.06935
 BEL,Belgium,GHG,Greenhouse gases,2017,116379.1899
 HUN,Hungary,GHG,Greenhouse gases,2017,65294.87854
@@ -185,7 +185,7 @@ NZL,New Zealand,GHG,Greenhouse gases,2017,82301.69391
 SWE,Sweden,GHG,Greenhouse gases,2017,52248.97421
 CHE,Switzerland,GHG,Greenhouse gases,2017,48325.99001
 CHL,Chile,GHG,Greenhouse gases,2017,105726.64
-CZE,Czechia,GHG,Greenhouse gases,2017,128176.9779
+CZE,Czech Republic,GHG,Greenhouse gases,2017,128176.9779
 MEX,Mexico,GHG,Greenhouse gases,2017,757975.81
 JPN,Japan,GHG,Greenhouse gases,2017,1266843.701
 SVN,Slovenia,GHG,Greenhouse gases,2017,17896.27432
@@ -194,7 +194,7 @@ FIN,Finland,GHG,Greenhouse gases,2017,55086.57252
 GRC,Greece,GHG,Greenhouse gases,2017,96251.83741
 IRL,Ireland,GHG,Greenhouse gases,2017,61841.70481
 LVA,Latvia,GHG,Greenhouse gases,2017,10645.78663
-TUR,Türkiye,GHG,Greenhouse gases,2017,535157.7449
+TUR,Turkey,GHG,Greenhouse gases,2017,535157.7449
 GHA,Ghana,GHG,Greenhouse gases,2017,37985.32356
 IDN,Indonesia,GHG,Greenhouse gases,2017,872167.6572
 UKR,Ukraine,GHG,Greenhouse gases,2017,328815.0906
@@ -213,7 +213,7 @@ ISL,Iceland,GHG,Greenhouse gases,2017,4861.168322
 ISR,Israel,GHG,Greenhouse gases,2017,80546.85
 DZA,Algeria,GHG,Greenhouse gases,2017,212107.858
 BRN,Brunei Darussalam,GHG,Greenhouse gases,2017,11246.21585
-CIV,Côte d’Ivoire,GHG,Greenhouse gases,2017,46546.63996
+CIV,Ivory Coast,GHG,Greenhouse gases,2017,46546.63996
 CUB,Cuba,GHG,Greenhouse gases,2017,54477.06312
 EGY,Egypt,GHG,Greenhouse gases,2017,356320.0054
 GTM,Guatemala,GHG,Greenhouse gases,2017,30696.53938
@@ -249,7 +249,7 @@ POL,Poland,GHG,Greenhouse gases,2016,392020.9156
 PRT,Portugal,GHG,Greenhouse gases,2016,65476.10291
 GBR,United Kingdom,GHG,Greenhouse gases,2016,486126.4425
 COL,Colombia,GHG,Greenhouse gases,2016,170839.26
-KOR,Korea,GHG,Greenhouse gases,2016,735559.69
+KOR,Republic of Korea,GHG,Greenhouse gases,2016,735559.69
 LTU,Lithuania,GHG,Greenhouse gases,2016,19673.38041
 BEL,Belgium,GHG,Greenhouse gases,2016,116997.6509
 HUN,Hungary,GHG,Greenhouse gases,2016,63080.55311
@@ -262,7 +262,7 @@ NZL,New Zealand,GHG,Greenhouse gases,2016,80820.44571
 SWE,Sweden,GHG,Greenhouse gases,2016,53160.79758
 CHE,Switzerland,GHG,Greenhouse gases,2016,49242.567
 CHL,Chile,GHG,Greenhouse gases,2016,105141.5
-CZE,Czechia,GHG,Greenhouse gases,2016,127012.4851
+CZE,Czech Republic,GHG,Greenhouse gases,2016,127012.4851
 DNK,Denmark,GHG,Greenhouse gases,2016,53442.34828
 MEX,Mexico,GHG,Greenhouse gases,2016,787168.64
 GRC,Greece,GHG,Greenhouse gases,2016,92402.6833
@@ -271,7 +271,7 @@ SVN,Slovenia,GHG,Greenhouse gases,2016,17798.0438
 USA,United States,GHG,Greenhouse gases,2016,6580035.97
 IRL,Ireland,GHG,Greenhouse gases,2016,62593.13323
 LVA,Latvia,GHG,Greenhouse gases,2016,10625.96686
-TUR,Türkiye,GHG,Greenhouse gases,2016,508281.9874
+TUR,Turkey,GHG,Greenhouse gases,2016,508281.9874
 GHA,Ghana,GHG,Greenhouse gases,2016,34923.19762
 IDN,Indonesia,GHG,Greenhouse gases,2016,818618.9789
 UKR,Ukraine,GHG,Greenhouse gases,2016,343276.9513
@@ -291,7 +291,7 @@ EST,Estonia,GHG,Greenhouse gases,2016,19517.73993
 ISL,Iceland,GHG,Greenhouse gases,2016,4778.42185
 ISR,Israel,GHG,Greenhouse gases,2016,81264.36
 BRN,Brunei Darussalam,GHG,Greenhouse gases,2016,11581.10269
-CIV,Côte d’Ivoire,GHG,Greenhouse gases,2016,46652.48471
+CIV,Ivory Coast,GHG,Greenhouse gases,2016,46652.48471
 CUB,Cuba,GHG,Greenhouse gases,2016,57615.19623
 CYP,Cyprus,GHG,Greenhouse gases,2016,8772.002168
 EGY,Egypt,GHG,Greenhouse gases,2016,347903.6761
@@ -322,7 +322,7 @@ ISL,Iceland,GHG,Greenhouse gases,2022,4776.062829
 ISR,Israel,GHG,Greenhouse gases,2022,81563.35
 BTN,Bhutan,GHG,Greenhouse gases,2022,1398.111508
 BRN,Brunei Darussalam,GHG,Greenhouse gases,2022,13511.27038
-CIV,Côte d’Ivoire,GHG,Greenhouse gases,2022,81927.57956
+CIV,Ivory Coast,GHG,Greenhouse gases,2022,81927.57956
 CUB,Cuba,GHG,Greenhouse gases,2022,49396.0906
 EGY,Egypt,GHG,Greenhouse gases,2022,386210.8358
 GTM,Guatemala,GHG,Greenhouse gases,2022,32966.44327
@@ -359,7 +359,7 @@ ARG,Argentina,GHG,Greenhouse gases,2022,349515.9422
 URY,Uruguay,GHG,Greenhouse gases,2022,37513.64215
 KAZ,Kazakhstan,GHG,Greenhouse gases,2022,356057.1332
 HRV,Croatia,GHG,Greenhouse gases,2022,24442.69181
-TUR,Türkiye,GHG,Greenhouse gases,2022,561294.0624
+TUR,Turkey,GHG,Greenhouse gases,2022,561294.0624
 LVA,Latvia,GHG,Greenhouse gases,2022,10024.14243
 UKR,Ukraine,GHG,Greenhouse gases,2022,239295.6318
 IDN,Indonesia,GHG,Greenhouse gases,2022,1070542.932
@@ -376,7 +376,7 @@ JPN,Japan,GHG,Greenhouse gases,2022,1108870.37
 NZL,New Zealand,GHG,Greenhouse gases,2022,77662.69664
 ITA,Italy,GHG,Greenhouse gases,2022,404660.7113
 DNK,Denmark,GHG,Greenhouse gases,2022,44003.46717
-CZE,Czechia,GHG,Greenhouse gases,2022,114094.3742
+CZE,Czech Republic,GHG,Greenhouse gases,2022,114094.3742
 CHL,Chile,GHG,Greenhouse gases,2022,111048.64
 CHE,Switzerland,GHG,Greenhouse gases,2022,41632.29978
 DEU,Germany,GHG,Greenhouse gases,2022,749266.4242
@@ -385,7 +385,7 @@ BRA,Brazil,GHG,Greenhouse gases,2022,1233542.365
 HUN,Hungary,GHG,Greenhouse gases,2022,59631.26728
 BEL,Belgium,GHG,Greenhouse gases,2022,102628.9637
 LTU,Lithuania,GHG,Greenhouse gases,2022,18360.60184
-KOR,Korea,GHG,Greenhouse gases,2022,722032.63
+KOR,Republic of Korea,GHG,Greenhouse gases,2022,722032.63
 GBR,United Kingdom,GHG,Greenhouse gases,2022,406446.5406
 PRT,Portugal,GHG,Greenhouse gases,2022,56008.8484
 POL,Poland,GHG,Greenhouse gases,2022,378755.3066
@@ -409,7 +409,7 @@ POL,Poland,GHG,Greenhouse gases,2018,406360.0527
 PRT,Portugal,GHG,Greenhouse gases,2018,66876.33048
 GBR,United Kingdom,GHG,Greenhouse gases,2018,466425.4663
 COL,Colombia,GHG,Greenhouse gases,2018,177435.53
-KOR,Korea,GHG,Greenhouse gases,2018,780140.33
+KOR,Republic of Korea,GHG,Greenhouse gases,2018,780140.33
 LTU,Lithuania,GHG,Greenhouse gases,2018,19432.74015
 BEL,Belgium,GHG,Greenhouse gases,2018,117150.1759
 HUN,Hungary,GHG,Greenhouse gases,2018,65277.36037
@@ -422,7 +422,7 @@ NZL,New Zealand,GHG,Greenhouse gases,2018,82563.21209
 SWE,Sweden,GHG,Greenhouse gases,2018,51430.25235
 CHE,Switzerland,GHG,Greenhouse gases,2018,46781.91378
 CHL,Chile,GHG,Greenhouse gases,2018,107169.25
-CZE,Czechia,GHG,Greenhouse gases,2018,125672.5464
+CZE,Czech Republic,GHG,Greenhouse gases,2018,125672.5464
 DNK,Denmark,GHG,Greenhouse gases,2018,51270.21839
 MEX,Mexico,GHG,Greenhouse gases,2018,756812.84
 JPN,Japan,GHG,Greenhouse gases,2018,1220048.977
@@ -432,7 +432,7 @@ FIN,Finland,GHG,Greenhouse gases,2018,56153.38582
 GRC,Greece,GHG,Greenhouse gases,2018,93017.65597
 IRL,Ireland,GHG,Greenhouse gases,2018,61501.99453
 LVA,Latvia,GHG,Greenhouse gases,2018,11110.33297
-TUR,Türkiye,GHG,Greenhouse gases,2018,533467.3864
+TUR,Turkey,GHG,Greenhouse gases,2018,533467.3864
 GHA,Ghana,GHG,Greenhouse gases,2018,40203.51759
 IDN,Indonesia,GHG,Greenhouse gases,2018,911973.4105
 UKR,Ukraine,GHG,Greenhouse gases,2018,345002.2508
@@ -452,7 +452,7 @@ EST,Estonia,GHG,Greenhouse gases,2018,19943.59287
 ISL,Iceland,GHG,Greenhouse gases,2018,4925.363951
 ISR,Israel,GHG,Greenhouse gases,2018,80796.68
 BRN,Brunei Darussalam,GHG,Greenhouse gases,2018,10988.62793
-CIV,Côte d’Ivoire,GHG,Greenhouse gases,2018,46979.00822
+CIV,Ivory Coast,GHG,Greenhouse gases,2018,46979.00822
 CUB,Cuba,GHG,Greenhouse gases,2018,53928.14314
 EGY,Egypt,GHG,Greenhouse gases,2018,365990.3812
 GTM,Guatemala,GHG,Greenhouse gases,2018,31472.81324
@@ -481,7 +481,7 @@ ISL,Iceland,GHG,Greenhouse gases,2019,4785.249588
 ISR,Israel,GHG,Greenhouse gases,2019,81737.78
 BTN,Bhutan,GHG,Greenhouse gases,2019,1432.008173
 BRN,Brunei Darussalam,GHG,Greenhouse gases,2019,11489.99759
-CIV,Côte d’Ivoire,GHG,Greenhouse gases,2019,47433.95057
+CIV,Ivory Coast,GHG,Greenhouse gases,2019,47433.95057
 CUB,Cuba,GHG,Greenhouse gases,2019,52570.00718
 EGY,Egypt,GHG,Greenhouse gases,2019,344605.5949
 GTM,Guatemala,GHG,Greenhouse gases,2019,32195.58498
@@ -520,7 +520,7 @@ HRV,Croatia,GHG,Greenhouse gases,2019,24702.1229
 UKR,Ukraine,GHG,Greenhouse gases,2019,340325.0473
 IDN,Indonesia,GHG,Greenhouse gases,2019,969031.856
 GHA,Ghana,GHG,Greenhouse gases,2019,42727.79352
-TUR,Türkiye,GHG,Greenhouse gases,2019,518741.1865
+TUR,Turkey,GHG,Greenhouse gases,2019,518741.1865
 LVA,Latvia,GHG,Greenhouse gases,2019,10976.96152
 IRL,Ireland,GHG,Greenhouse gases,2019,59698.00086
 GRC,Greece,GHG,Greenhouse gases,2019,86312.06694
@@ -530,7 +530,7 @@ SVN,Slovenia,GHG,Greenhouse gases,2019,17235.20857
 JPN,Japan,GHG,Greenhouse gases,2019,1183652.595
 MEX,Mexico,GHG,Greenhouse gases,2019,762283.57
 CHE,Switzerland,GHG,Greenhouse gases,2019,46541.27682
-CZE,Czechia,GHG,Greenhouse gases,2019,120489.4164
+CZE,Czech Republic,GHG,Greenhouse gases,2019,120489.4164
 CHL,Chile,GHG,Greenhouse gases,2019,109089.41
 BRA,Brazil,GHG,Greenhouse gases,2019,1160752.687
 SWE,Sweden,GHG,Greenhouse gases,2019,50191.09463
@@ -543,7 +543,7 @@ MYS,Malaysia,GHG,Greenhouse gases,2019,332466.6179
 HUN,Hungary,GHG,Greenhouse gases,2019,65049.82463
 BEL,Belgium,GHG,Greenhouse gases,2019,116067.2304
 LTU,Lithuania,GHG,Greenhouse gases,2019,19639.57615
-KOR,Korea,GHG,Greenhouse gases,2019,757150.53
+KOR,Republic of Korea,GHG,Greenhouse gases,2019,757150.53
 COL,Colombia,GHG,Greenhouse gases,2019,183815.79
 GBR,United Kingdom,GHG,Greenhouse gases,2019,450046.9492
 PRT,Portugal,GHG,Greenhouse gases,2019,63291.6241
@@ -563,7 +563,7 @@ CAN,Canada,GHG,Greenhouse gases,2020,680926.0512
 CHL,Chile,GHG,Greenhouse gases,2020,103715.53
 COL,Colombia,GHG,Greenhouse gases,2020,176164.64
 CRI,Costa Rica,GHG,Greenhouse gases,2020,14626.86
-CZE,Czechia,GHG,Greenhouse gases,2020,111121.95
+CZE,Czech Republic,GHG,Greenhouse gases,2020,111121.95
 DNK,Denmark,GHG,Greenhouse gases,2020,44827.17714
 EST,Estonia,GHG,Greenhouse gases,2020,11320.16875
 FIN,Finland,GHG,Greenhouse gases,2020,47762.57394
@@ -576,7 +576,7 @@ IRL,Ireland,GHG,Greenhouse gases,2020,57549.75171
 ISR,Israel,GHG,Greenhouse gases,2020,80051.11
 ITA,Italy,GHG,Greenhouse gases,2020,373257.8014
 JPN,Japan,GHG,Greenhouse gases,2020,1119484.255
-KOR,Korea,GHG,Greenhouse gases,2020,709472.66
+KOR,Republic of Korea,GHG,Greenhouse gases,2020,709472.66
 LVA,Latvia,GHG,Greenhouse gases,2020,10361.9076
 LTU,Lithuania,GHG,Greenhouse gases,2020,19479.87975
 LUX,Luxembourg,GHG,Greenhouse gases,2020,9164.017821
@@ -590,7 +590,7 @@ SVN,Slovenia,GHG,Greenhouse gases,2020,15994.53229
 ESP,Spain,GHG,Greenhouse gases,2020,271714.8726
 SWE,Sweden,GHG,Greenhouse gases,2020,45968.61026
 CHE,Switzerland,GHG,Greenhouse gases,2020,43888.66348
-TUR,Türkiye,GHG,Greenhouse gases,2020,533962.9868
+TUR,Turkey,GHG,Greenhouse gases,2020,533962.9868
 GBR,United Kingdom,GHG,Greenhouse gases,2020,409860.7536
 USA,United States,GHG,Greenhouse gases,2020,6001807.28
 DZA,Algeria,GHG,Greenhouse gases,2020,222357.0758
@@ -600,8 +600,8 @@ BTN,Bhutan,GHG,Greenhouse gases,2020,1471.268731
 BRA,Brazil,GHG,Greenhouse gases,2020,1159676.548
 BRN,Brunei Darussalam,GHG,Greenhouse gases,2020,15109.63435
 BGR,Bulgaria,GHG,Greenhouse gases,2020,48239.51601
-CHN,China (People’s Republic of),GHG,Greenhouse gases,2020,13765989.5
-CIV,Côte d’Ivoire,GHG,Greenhouse gases,2020,47980.41834
+CHN,China,GHG,Greenhouse gases,2020,13765989.5
+CIV,Ivory Coast,GHG,Greenhouse gases,2020,47980.41834
 HRV,Croatia,GHG,Greenhouse gases,2020,23827.49865
 CUB,Cuba,GHG,Greenhouse gases,2020,49960.07272
 CYP,Cyprus,GHG,Greenhouse gases,2020,8488.610716
@@ -651,7 +651,7 @@ CAN,Canada,GHG,Greenhouse gases,2021,691322.672
 CHL,Chile,GHG,Greenhouse gases,2021,110655.2
 COL,Colombia,GHG,Greenhouse gases,2021,183498.92
 CRI,Costa Rica,GHG,Greenhouse gases,2021,16156.92
-CZE,Czechia,GHG,Greenhouse gases,2021,116516.1108
+CZE,Czech Republic,GHG,Greenhouse gases,2021,116516.1108
 DNK,Denmark,GHG,Greenhouse gases,2021,45813.4036
 EST,Estonia,GHG,Greenhouse gases,2021,12568.00199
 FIN,Finland,GHG,Greenhouse gases,2021,47883.23217
@@ -664,7 +664,7 @@ IRL,Ireland,GHG,Greenhouse gases,2021,60140.08901
 ISR,Israel,GHG,Greenhouse gases,2021,78794.84
 ITA,Italy,GHG,Greenhouse gases,2021,405412.1499
 JPN,Japan,GHG,Greenhouse gases,2021,1140485.321
-KOR,Korea,GHG,Greenhouse gases,2021,739507.44
+KOR,Republic of Korea,GHG,Greenhouse gases,2021,739507.44
 LVA,Latvia,GHG,Greenhouse gases,2021,10597.27421
 LTU,Lithuania,GHG,Greenhouse gases,2021,19645.84361
 LUX,Luxembourg,GHG,Greenhouse gases,2021,9502.725966
@@ -678,7 +678,7 @@ SVN,Slovenia,GHG,Greenhouse gases,2021,16149.77193
 ESP,Spain,GHG,Greenhouse gases,2021,288519.5681
 SWE,Sweden,GHG,Greenhouse gases,2021,47711.19888
 CHE,Switzerland,GHG,Greenhouse gases,2021,45206.43205
-TUR,Türkiye,GHG,Greenhouse gases,2021,575293.158
+TUR,Turkey,GHG,Greenhouse gases,2021,575293.158
 GBR,United Kingdom,GHG,Greenhouse gases,2021,424944.5347
 USA,United States,GHG,Greenhouse gases,2021,6328794.35
 DZA,Algeria,GHG,Greenhouse gases,2021,240849.2431
@@ -688,8 +688,8 @@ BTN,Bhutan,GHG,Greenhouse gases,2021,1477.893071
 BRA,Brazil,GHG,Greenhouse gases,2021,1233835.639
 BRN,Brunei Darussalam,GHG,Greenhouse gases,2021,15091.50805
 BGR,Bulgaria,GHG,Greenhouse gases,2021,54329.70226
-CHN,China (People’s Republic of),GHG,Greenhouse gases,2021,14314256.69
-CIV,Côte d’Ivoire,GHG,Greenhouse gases,2021,86234.99677
+CHN,China ,GHG,Greenhouse gases,2021,14314256.69
+CIV,Ivory Coast,GHG,Greenhouse gases,2021,86234.99677
 HRV,Croatia,GHG,Greenhouse gases,2021,24336.23963
 CUB,Cuba,GHG,Greenhouse gases,2021,49356.45928
 CYP,Cyprus,GHG,Greenhouse gases,2021,8689.693981
