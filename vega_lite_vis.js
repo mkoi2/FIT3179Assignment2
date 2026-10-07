@@ -1,4 +1,4 @@
-var vg_1 = "Temperature_Chart.json";
+var vg_1 = "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/refs/heads/main/Temperature_Chart.JSON";
 vegaEmbed("#Line_Chart", vg_1).then(function(result) {
 // Access the Vega view instance(https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
