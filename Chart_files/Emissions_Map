@@ -63,7 +63,7 @@
         "encoding": {
             "shape":{"field": "geo", "type": "geojson"},
             "color": {
-                "field": "GHG emissionse",
+                "field": "GHG emissions",
                 "type": "quantitative",
                 "scale": {"type": "linear"}
             },
