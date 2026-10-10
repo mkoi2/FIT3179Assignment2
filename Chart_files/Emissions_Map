@@ -63,7 +63,7 @@
         "encoding": {
             "shape":{"field": "geo", "type": "geojson"},
             "color": {
-                "field": "GHG_emissions",
+                "field": "GHG emissions",
                 "type": "quantitative",
                 "scale": {"type": "linear"}
             },
@@ -71,7 +71,7 @@
         
             "tooltip": [
                 {"field": "Entity", "type": "nominal", "title": "Country"},
-                {"field": "GHG_emissions", "type": "quantitative","title": "Greenhouse Gas Emissions Per Capita"},
+                {"field": "GHG emissions", "type": "quantitative","title": "Greenhouse Gas Emissions Per Capita"},
                 {"field": "Year", "type": "quantitative","title": "Year"}
             ]
             
