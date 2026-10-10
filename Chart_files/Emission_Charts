@@ -1,6 +1,5 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"projection": {"type": "equalEarth"},
     "params": [
         {
             "name": "Year_selection",
@@ -15,8 +14,8 @@
         },
         {
             "name": "Country_Selection",
+            "value":"World",
             "bind": {
-                "value":"World",
                 "input": "select",
                 "options": [
                     "World",
@@ -51,6 +50,7 @@
                 "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/ne_110m_admin_0_countries.topojson",
                 "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
             },
+            "projection": {"type": "equalEarth"},
             "transform": [
                 {
                 "calculate": "'Data is not available in ' + datum.properties.NAME",
@@ -90,7 +90,7 @@
                 "encoding": {
                     "shape":{"field": "geo", "type": "geojson"},
                     "color": {
-                        "field": "GHG emissions",
+                        "field": "GHG_emissions",
                         "type": "quantitative",
                         "scale": {"type": "linear"}
                     },
@@ -98,7 +98,7 @@
                 
                     "tooltip": [
                         {"field": "Entity", "type": "nominal", "title": "Country"},
-                        {"field": "GHG emissions", "type": "quantitative","title": "Greenhouse Gas Emissions Per Capita"},
+                        {"field": "GHG_emissions", "type": "quantitative","title": "Greenhouse Gas Emissions Per Capita"},
                         {"field": "Year", "type": "quantitative","title": "Year"}
                     ]
                     
@@ -115,20 +115,16 @@
                 "transform": [
                     {"filter": " datum.Entity == Country_Selection" }
                 ],
+                "encoding": {
+                        "x":{"field": "Year","type": "quantitative","title": "Year"},
+                        "y":{"field": "GHG emissions", "type": "quantitative", "title":"Greenhouse Gas Emission"}
+                    },
                 "layer": [
                     {
-                    "mark": "line",
-                    "encoding": {
-                        "x":{"field": "Year","type": "quantitative","title": "Year"},
-                        "y":{"field": "GHG emissions", "type": "quantitative", "title":"Greenhouse Gas Emission"}
-                    }
+                    "mark": "line"
                     },
                     {
-                    "mark": "circle",
-                    "encoding": {
-                        "x":{"field": "Year","type": "quantitative","title": "Year"},
-                        "y":{"field": "GHG emissions", "type": "quantitative", "title":"Greenhouse Gas Emission"}
-                    }
+                    "mark": "circle"
                     }
                 ]
                 }
