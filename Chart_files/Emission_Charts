@@ -427,7 +427,7 @@
 "hconcat":[
     {
         "title": "Greenhouse Gas Emissions Around The World",
-        "width": 800,
+        "width": 900,
         "height": 450,
         "layer": [
             {
@@ -518,8 +518,27 @@
                     {"filter": "Region_Selection == null || datum.Entity == Region_Selection" }
                 ],
                 "encoding": {
-                        "x":{"field": "Year","type": "quantitative","title": "Year","axis":{"values":[1924,2024]}},
-                        "y":{"field": "GHG emissions", "type": "quantitative", "title":"Greenhouse Gas Emission (tonnes per person)"}
+                        "x":{
+                            "field": "Year",
+                            "type": "quantitative",
+                            "title": "Year",
+                            "axis":{
+                                "values":[1924,2024],
+                                "grid": false
+                        }},
+                        "y":{
+                            "field": "GHG emissions",
+                             "type": "quantitative", 
+                             "title":"Greenhouse Gas Emission (tonnes per person)",
+                             "axis":{
+                                "grid": false
+                             }
+                            },
+                    "tooltip": [
+                        {"field": "Entity", "type": "nominal", "title": "Country"},
+                        {"field": "GHG emissions", "type": "quantitative","title": "Greenhouse Gas Emissions (tonnes per person)"},
+                        {"field": "Year", "type": "quantitative","title": "Year"}
+                    ] 
                     },
                 "layer": [
                     {
