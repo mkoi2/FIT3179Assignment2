@@ -1,7 +1,12 @@
 .pure-u-1-2 div{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
     width: 50vw;
 }
 
 .pure-u-1 div{
+    margin-left: 10px;
+    margin-right: 10px;
     width: 100vw;
 }
