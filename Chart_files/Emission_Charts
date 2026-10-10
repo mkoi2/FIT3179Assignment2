@@ -44,6 +44,8 @@
 "hconcat":[
     {
         "title": "Greenhouse Gas Emissions Around The World",
+        "width": 800,
+        "height": 450,
         "layer": [
             {
             "data": {
@@ -111,12 +113,13 @@
                     "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/GHG_100.csv"
                     
                 },
-                
+                "width": 800,
+                "height": 450,
                 "transform": [
                     {"filter": " datum.Entity == Country_Selection" }
                 ],
                 "encoding": {
-                        "x":{"field": "Year","type": "quantitative","title": "Year"},
+                        "x":{"field": "Year","type": "quantitative","title": "Year","axis":{"values":[1924,2024]}},
                         "y":{"field": "GHG emissions", "type": "quantitative", "title":"Greenhouse Gas Emission"}
                     },
                 "layer": [
