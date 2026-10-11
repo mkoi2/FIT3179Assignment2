@@ -427,7 +427,7 @@
 "hconcat":[
     {
         "title": "Greenhouse Gas Emissions Around The World",
-        "width": 900,
+        "width": 1100,
         "height": 450,
         "layer": [
             {
