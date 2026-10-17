@@ -1,567 +1,567 @@
-REF_AREA,Reference area,Unit of measure,TIME_PERIOD,OBS_VALUE
-OECD,OECD,Kilogrammes per person,2015,507.3543
-OECD,OECD,Kilogrammes per person,2016,516.2693
-OECD,OECD,Kilogrammes per person,2017,515.0653
-OECD,OECD,Kilogrammes per person,2018,530.6895
-OECD,OECD,Kilogrammes per person,2019,530.5955
-OECD,OECD,Kilogrammes per person,2020,527.1531
-OECD,OECD,Kilogrammes per person,2021,539.8697
-OECD,OECD,Kilogrammes per person,2022,521.3076
-OECD,OECD,Kilogrammes per person,2023,515.1794
-OECD,OECD,Kilogrammes per person,2024,517.6157
-OECDA,OECD America,Kilogrammes per person,2015,577.0903
-OECDA,OECD America,Kilogrammes per person,2016,583.6725
-OECDA,OECD America,Kilogrammes per person,2017,581.0594
-OECDA,OECD America,Kilogrammes per person,2018,617.1456
-OECDA,OECD America,Kilogrammes per person,2019,613.4197
-OECDA,OECD America,Kilogrammes per person,2020,592.7357
-OECDA,OECD America,Kilogrammes per person,2021,612.6332
-OECDA,OECD America,Kilogrammes per person,2022,593.7768
-OECDA,OECD America,Kilogrammes per person,2023,584.3351
-OECDA,OECD America,Kilogrammes per person,2024,584.4502
-OECDSO,OECD Asia Oceania,Kilogrammes per person,2015,398.1576
-OECDSO,OECD Asia Oceania,Kilogrammes per person,2016,394.8867
-OECDSO,OECD Asia Oceania,Kilogrammes per person,2017,390.4109
-OECDSO,OECD Asia Oceania,Kilogrammes per person,2018,394.5921
-OECDSO,OECD Asia Oceania,Kilogrammes per person,2019,396.5453
-OECDSO,OECD Asia Oceania,Kilogrammes per person,2020,399.4497
-OECDSO,OECD Asia Oceania,Kilogrammes per person,2021,400.713
-OECDSO,OECD Asia Oceania,Kilogrammes per person,2022,399.699
-OECDSO,OECD Asia Oceania,Kilogrammes per person,2023,391.7651
-OECDSO,OECD Asia Oceania,Kilogrammes per person,2024,390.2534
-OECDE,OECD Europe,Kilogrammes per person,2015,480.8712
-OECDE,OECD Europe,Kilogrammes per person,2016,496.3079
-OECDE,OECD Europe,Kilogrammes per person,2017,497.3082
-OECDE,OECD Europe,Kilogrammes per person,2018,496.6604
-OECDE,OECD Europe,Kilogrammes per person,2019,498.8144
-OECDE,OECD Europe,Kilogrammes per person,2020,509.6888
-OECDE,OECD Europe,Kilogrammes per person,2021,519.2172
-OECDE,OECD Europe,Kilogrammes per person,2022,494.0539
-OECDE,OECD Europe,Kilogrammes per person,2023,491.4498
-OECDE,OECD Europe,Kilogrammes per person,2024,497.154
-AUS,Australia,Kilogrammes per person,2015,592.4804
-AUS,Australia,Kilogrammes per person,2016,549.5206
-AUS,Australia,Kilogrammes per person,2017,519.6852
-AUS,Australia,Kilogrammes per person,2018,513.6947
-AUS,Australia,Kilogrammes per person,2019,506.9767
-AUS,Australia,Kilogrammes per person,2020,512.8154
-AUS,Australia,Kilogrammes per person,2021,518.3372
-AUS,Australia,Kilogrammes per person,2022,520.2134
-AUS,Australia,Kilogrammes per person,2023,509.6384
-AUT,Austria,Kilogrammes per person,2015,559.4607
-AUT,Austria,Kilogrammes per person,2016,564.0247
-AUT,Austria,Kilogrammes per person,2017,570.261
-AUT,Austria,Kilogrammes per person,2018,578.9644
-AUT,Austria,Kilogrammes per person,2019,587.8114
-AUT,Austria,Kilogrammes per person,2020,833.6866
-AUT,Austria,Kilogrammes per person,2021,833.6916
-AUT,Austria,Kilogrammes per person,2022,801.0608
-AUT,Austria,Kilogrammes per person,2023,782.2087
-AUT,Austria,Kilogrammes per person,2024,780.236
-BEL,Belgium,Kilogrammes per person,2015,411.7503
-BEL,Belgium,Kilogrammes per person,2016,418.7687
-BEL,Belgium,Kilogrammes per person,2017,410.6566
-BEL,Belgium,Kilogrammes per person,2018,409.27
-BEL,Belgium,Kilogrammes per person,2019,415.9343
-BEL,Belgium,Kilogrammes per person,2020,728.5526
-BEL,Belgium,Kilogrammes per person,2021,756.4639
-BEL,Belgium,Kilogrammes per person,2022,691.9385
-BEL,Belgium,Kilogrammes per person,2023,691.908
-BEL,Belgium,Kilogrammes per person,2024,705.5662
-CHL,Chile,Kilogrammes per person,2015,398.7976
-CHL,Chile,Kilogrammes per person,2016,395.717
-CHL,Chile,Kilogrammes per person,2017,437.6339
-CHL,Chile,Kilogrammes per person,2018,432.8253
-CHL,Chile,Kilogrammes per person,2019,409.4669
-CHL,Chile,Kilogrammes per person,2020,407.6178
-CHL,Chile,Kilogrammes per person,2021,465.7996
-CHL,Chile,Kilogrammes per person,2022,443.3696
-CHL,Chile,Kilogrammes per person,2023,440.098
-COL,Colombia,Kilogrammes per person,2015,212.2174
-COL,Colombia,Kilogrammes per person,2016,240.317
-COL,Colombia,Kilogrammes per person,2017,225.5711
-COL,Colombia,Kilogrammes per person,2018,246.4588
-CRI,Costa Rica,Kilogrammes per person,2015,389.5777
-CRI,Costa Rica,Kilogrammes per person,2016,250.2569
-CRI,Costa Rica,Kilogrammes per person,2017,257.878
-CRI,Costa Rica,Kilogrammes per person,2018,294.8878
-CRI,Costa Rica,Kilogrammes per person,2019,268.824
-CRI,Costa Rica,Kilogrammes per person,2020,289.8683
-CRI,Costa Rica,Kilogrammes per person,2021,319.8624
-CRI,Costa Rica,Kilogrammes per person,2022,317.9604
-CRI,Costa Rica,Kilogrammes per person,2023,334.9998
-CRI,Costa Rica,Kilogrammes per person,2024,665.1189
-CZE,Czechia,Kilogrammes per person,2015,317.1042
-CZE,Czechia,Kilogrammes per person,2016,339.8815
-CZE,Czechia,Kilogrammes per person,2017,491.0677
-CZE,Czechia,Kilogrammes per person,2018,497.4579
-CZE,Czechia,Kilogrammes per person,2019,505.6925
-CZE,Czechia,Kilogrammes per person,2020,551.092
-CZE,Czechia,Kilogrammes per person,2021,568.9078
-CZE,Czechia,Kilogrammes per person,2022,548.5123
-CZE,Czechia,Kilogrammes per person,2023,540.2816
-CZE,Czechia,Kilogrammes per person,2024,592.8295
-DNK,Denmark,Kilogrammes per person,2015,821.8237
-DNK,Denmark,Kilogrammes per person,2016,830.4527
-DNK,Denmark,Kilogrammes per person,2017,820.0975
-DNK,Denmark,Kilogrammes per person,2018,813.7976
-DNK,Denmark,Kilogrammes per person,2019,843.9877
-DNK,Denmark,Kilogrammes per person,2020,813.5892
-DNK,Denmark,Kilogrammes per person,2021,800.417
-DNK,Denmark,Kilogrammes per person,2022,758.5848
-DNK,Denmark,Kilogrammes per person,2023,758.6755
-DNK,Denmark,Kilogrammes per person,2024,758.3939
-EST,Estonia,Kilogrammes per person,2015,359.4695
-EST,Estonia,Kilogrammes per person,2016,375.6966
-EST,Estonia,Kilogrammes per person,2017,389.8818
-EST,Estonia,Kilogrammes per person,2018,405.0712
-EST,Estonia,Kilogrammes per person,2019,369.1309
-EST,Estonia,Kilogrammes per person,2020,383.1758
-EST,Estonia,Kilogrammes per person,2021,394.4985
-EST,Estonia,Kilogrammes per person,2022,372.6888
-EST,Estonia,Kilogrammes per person,2023,374.1607
-EST,Estonia,Kilogrammes per person,2024,378.0019
-FIN,Finland,Kilogrammes per person,2015,499.7119
-FIN,Finland,Kilogrammes per person,2016,503.6749
-FIN,Finland,Kilogrammes per person,2017,510.419
-FIN,Finland,Kilogrammes per person,2018,551.3462
-FIN,Finland,Kilogrammes per person,2019,565.5272
-FIN,Finland,Kilogrammes per person,2020,609.3782
-FIN,Finland,Kilogrammes per person,2021,629.9637
-FIN,Finland,Kilogrammes per person,2022,520.3605
-FIN,Finland,Kilogrammes per person,2023,466.3838
-FIN,Finland,Kilogrammes per person,2024,457.5598
-FRA,France,Kilogrammes per person,2015,529.0502
-FRA,France,Kilogrammes per person,2016,566.7908
-FRA,France,Kilogrammes per person,2017,572.2192
-FRA,France,Kilogrammes per person,2018,570.5151
-FRA,France,Kilogrammes per person,2019,569.1058
-FRA,France,Kilogrammes per person,2020,547.6947
-FRA,France,Kilogrammes per person,2021,579.1509
-FRA,France,Kilogrammes per person,2022,549.5209
-FRA,France,Kilogrammes per person,2023,542.3728
-FRA,France,Kilogrammes per person,2024,518.1782
-DEU,Germany,Kilogrammes per person,2015,628.9783
-DEU,Germany,Kilogrammes per person,2016,629.9291
-DEU,Germany,Kilogrammes per person,2017,623.195
-DEU,Germany,Kilogrammes per person,2018,602.8652
-DEU,Germany,Kilogrammes per person,2019,605.6999
-DEU,Germany,Kilogrammes per person,2020,637.5987
-DEU,Germany,Kilogrammes per person,2021,643.6392
-DEU,Germany,Kilogrammes per person,2022,601.8395
-DEU,Germany,Kilogrammes per person,2023,603.4033
-DEU,Germany,Kilogrammes per person,2024,608.4836
-GRC,Greece,Kilogrammes per person,2015,487.6672
-GRC,Greece,Kilogrammes per person,2016,498.0742
-GRC,Greece,Kilogrammes per person,2017,503.5555
-GRC,Greece,Kilogrammes per person,2018,514.6846
-GRC,Greece,Kilogrammes per person,2019,523.687
-GRC,Greece,Kilogrammes per person,2020,498.6142
-GRC,Greece,Kilogrammes per person,2021,508.6617
-GRC,Greece,Kilogrammes per person,2022,520.5464
-GRC,Greece,Kilogrammes per person,2023,531.1255
-GRC,Greece,Kilogrammes per person,2024,541.438
-HUN,Hungary,Kilogrammes per person,2015,377.266
-HUN,Hungary,Kilogrammes per person,2016,379.2863
-HUN,Hungary,Kilogrammes per person,2017,385.0554
-HUN,Hungary,Kilogrammes per person,2018,381.507
-HUN,Hungary,Kilogrammes per person,2019,386.885
-HUN,Hungary,Kilogrammes per person,2020,403.2018
-HUN,Hungary,Kilogrammes per person,2021,416.3169
-HUN,Hungary,Kilogrammes per person,2022,403.8403
-HUN,Hungary,Kilogrammes per person,2023,424.7933
-HUN,Hungary,Kilogrammes per person,2024,408.9093
-ISL,Iceland,Kilogrammes per person,2015,587.8617
-ISL,Iceland,Kilogrammes per person,2016,655.1789
-ISL,Iceland,Kilogrammes per person,2017,655.9728
-ISL,Iceland,Kilogrammes per person,2018,701.4091
-ISL,Iceland,Kilogrammes per person,2019,694.178
-ISL,Iceland,Kilogrammes per person,2020,613.9373
-ISL,Iceland,Kilogrammes per person,2021,659.219
-ISL,Iceland,Kilogrammes per person,2022,597.7347
-ISL,Iceland,Kilogrammes per person,2023,576.6929
-ISL,Iceland,Kilogrammes per person,2024,551.4153
-IRL,Ireland,Kilogrammes per person,2015,556.9436
-IRL,Ireland,Kilogrammes per person,2016,581.2907
-IRL,Ireland,Kilogrammes per person,2017,575.4455
-IRL,Ireland,Kilogrammes per person,2018,597.7054
-IRL,Ireland,Kilogrammes per person,2019,625.45
-IRL,Ireland,Kilogrammes per person,2020,644.2853
-IRL,Ireland,Kilogrammes per person,2021,629.2473
-IRL,Ireland,Kilogrammes per person,2022,624.4258
-IRL,Ireland,Kilogrammes per person,2023,603.2448
-IRL,Ireland,Kilogrammes per person,2024,591.5773
-ISR,Israel,Kilogrammes per person,2015,631.0331
-ISR,Israel,Kilogrammes per person,2016,640.8536
-ISR,Israel,Kilogrammes per person,2017,649.9384
-ISR,Israel,Kilogrammes per person,2018,664.8838
-ISR,Israel,Kilogrammes per person,2019,665.2365
-ISR,Israel,Kilogrammes per person,2020,679.0652
-ISR,Israel,Kilogrammes per person,2021,687.4464
-ISR,Israel,Kilogrammes per person,2022,680.3387
-ISR,Israel,Kilogrammes per person,2023,676.1992
-ISR,Israel,Kilogrammes per person,2024,679.9782
-ITA,Italy,Kilogrammes per person,2015,487.3932
-ITA,Italy,Kilogrammes per person,2016,497.8992
-ITA,Italy,Kilogrammes per person,2017,489.6812
-ITA,Italy,Kilogrammes per person,2018,500.4355
-ITA,Italy,Kilogrammes per person,2019,499.3004
-ITA,Italy,Kilogrammes per person,2020,483.1206
-ITA,Italy,Kilogrammes per person,2021,489.7824
-ITA,Italy,Kilogrammes per person,2022,481.256
-ITA,Italy,Kilogrammes per person,2023,484.7173
-ITA,Italy,Kilogrammes per person,2024,497.0403
-JPN,Japan,Kilogrammes per person,2015,345.5565
-JPN,Japan,Kilogrammes per person,2016,339.4937
-JPN,Japan,Kilogrammes per person,2017,337.5761
-JPN,Japan,Kilogrammes per person,2018,336.6626
-JPN,Japan,Kilogrammes per person,2019,337.3102
-JPN,Japan,Kilogrammes per person,2020,329.909
-JPN,Japan,Kilogrammes per person,2021,325.8531
-JPN,Japan,Kilogrammes per person,2023,313.369
-KOR,Korea,Kilogrammes per person,2015,366.8804
-KOR,Korea,Kilogrammes per person,2016,382.6087
-KOR,Korea,Kilogrammes per person,2017,379.2014
-KOR,Korea,Kilogrammes per person,2018,396.0605
-KOR,Korea,Kilogrammes per person,2019,408.6689
-KOR,Korea,Kilogrammes per person,2020,434.7338
-KOR,Korea,Kilogrammes per person,2021,437.7184
-KOR,Korea,Kilogrammes per person,2022,444.8992
-KOR,Korea,Kilogrammes per person,2023,433.17
-LVA,Latvia,Kilogrammes per person,2015,403.4958
-LVA,Latvia,Kilogrammes per person,2016,409.4536
-LVA,Latvia,Kilogrammes per person,2017,410.8872
-LVA,Latvia,Kilogrammes per person,2018,407.2831
-LVA,Latvia,Kilogrammes per person,2019,439.0269
-LVA,Latvia,Kilogrammes per person,2020,478.1174
-LVA,Latvia,Kilogrammes per person,2021,461.0156
-LVA,Latvia,Kilogrammes per person,2022,463.3614
-LVA,Latvia,Kilogrammes per person,2023,437.697
-LVA,Latvia,Kilogrammes per person,2024,461.0115
-LTU,Lithuania,Kilogrammes per person,2015,447.386
-LTU,Lithuania,Kilogrammes per person,2016,443.3643
-LTU,Lithuania,Kilogrammes per person,2017,454.6807
-LTU,Lithuania,Kilogrammes per person,2018,464.0793
-LTU,Lithuania,Kilogrammes per person,2019,471.7704
-LTU,Lithuania,Kilogrammes per person,2020,482.8542
-LTU,Lithuania,Kilogrammes per person,2021,481.3071
-LTU,Lithuania,Kilogrammes per person,2022,467.5218
-LTU,Lithuania,Kilogrammes per person,2023,449.109
-LTU,Lithuania,Kilogrammes per person,2024,466.3609
-LUX,Luxembourg,Kilogrammes per person,2015,607.4243
-LUX,Luxembourg,Kilogrammes per person,2016,812.4866
-LUX,Luxembourg,Kilogrammes per person,2017,797.708
-LUX,Luxembourg,Kilogrammes per person,2018,803.0115
-LUX,Luxembourg,Kilogrammes per person,2019,791.2504
-LUX,Luxembourg,Kilogrammes per person,2020,789.3542
-LUX,Luxembourg,Kilogrammes per person,2021,792.7636
-LUX,Luxembourg,Kilogrammes per person,2022,720.4633
-LUX,Luxembourg,Kilogrammes per person,2023,719.1897
-LUX,Luxembourg,Kilogrammes per person,2024,734.5092
-MEX,Mexico,Kilogrammes per person,2016,312.7021
-MEX,Mexico,Kilogrammes per person,2018,313.6719
-MEX,Mexico,Kilogrammes per person,2020,306.6344
-MEX,Mexico,Kilogrammes per person,2022,306.9157
-NLD,Netherlands,Kilogrammes per person,2015,518.2543
-NLD,Netherlands,Kilogrammes per person,2016,515.0339
-NLD,Netherlands,Kilogrammes per person,2017,507.757
-NLD,Netherlands,Kilogrammes per person,2018,505.4738
-NLD,Netherlands,Kilogrammes per person,2019,502.1238
-NLD,Netherlands,Kilogrammes per person,2020,527.3086
-NLD,Netherlands,Kilogrammes per person,2021,507.7673
-NLD,Netherlands,Kilogrammes per person,2022,467.203
-NLD,Netherlands,Kilogrammes per person,2023,459.6374
-NLD,Netherlands,Kilogrammes per person,2024,466.516
-NZL,New Zealand,Kilogrammes per person,2015,779.7957
-NZL,New Zealand,Kilogrammes per person,2016,796.2213
-NZL,New Zealand,Kilogrammes per person,2017,789.9846
-NZL,New Zealand,Kilogrammes per person,2018,799.4537
-NZL,New Zealand,Kilogrammes per person,2019,744.7785
-NZL,New Zealand,Kilogrammes per person,2020,710.0739
-NZL,New Zealand,Kilogrammes per person,2021,767.2734
-NZL,New Zealand,Kilogrammes per person,2022,781.0226
-NZL,New Zealand,Kilogrammes per person,2023,750.652
-NZL,New Zealand,Kilogrammes per person,2024,642.1243
-NOR,Norway,Kilogrammes per person,2015,421.4483
-NOR,Norway,Kilogrammes per person,2016,753.6636
-NOR,Norway,Kilogrammes per person,2017,748.4097
-NOR,Norway,Kilogrammes per person,2018,739.2853
-NOR,Norway,Kilogrammes per person,2019,776.1788
-NOR,Norway,Kilogrammes per person,2020,725.9335
-NOR,Norway,Kilogrammes per person,2021,798.8546
-NOR,Norway,Kilogrammes per person,2022,767.7522
-NOR,Norway,Kilogrammes per person,2023,724.2647
-NOR,Norway,Kilogrammes per person,2024,715.7998
-POL,Poland,Kilogrammes per person,2015,283.8789
-POL,Poland,Kilogrammes per person,2016,304.5831
-POL,Poland,Kilogrammes per person,2017,312.8671
-POL,Poland,Kilogrammes per person,2018,326.4926
-POL,Poland,Kilogrammes per person,2019,333.6163
-POL,Poland,Kilogrammes per person,2020,343.6351
-POL,Poland,Kilogrammes per person,2021,359.4499
-POL,Poland,Kilogrammes per person,2022,349.6168
-POL,Poland,Kilogrammes per person,2023,346.9278
-POL,Poland,Kilogrammes per person,2024,367.3764
-PRT,Portugal,Kilogrammes per person,2015,459.8545
-PRT,Portugal,Kilogrammes per person,2016,472.6867
-PRT,Portugal,Kilogrammes per person,2017,484.6216
-PRT,Portugal,Kilogrammes per person,2018,504.8881
-PRT,Portugal,Kilogrammes per person,2019,510.6135
-PRT,Portugal,Kilogrammes per person,2020,508.9911
-PRT,Portugal,Kilogrammes per person,2021,511.0739
-PRT,Portugal,Kilogrammes per person,2022,511.0072
-PRT,Portugal,Kilogrammes per person,2023,511.7693
-PRT,Portugal,Kilogrammes per person,2024,532.5538
-SVK,Slovak Republic,Kilogrammes per person,2015,329.1676
-SVK,Slovak Republic,Kilogrammes per person,2016,348.1555
-SVK,Slovak Republic,Kilogrammes per person,2017,378.5695
-SVK,Slovak Republic,Kilogrammes per person,2018,414.1088
-SVK,Slovak Republic,Kilogrammes per person,2019,421.7608
-SVK,Slovak Republic,Kilogrammes per person,2020,478.7433
-SVK,Slovak Republic,Kilogrammes per person,2021,497.0507
-SVK,Slovak Republic,Kilogrammes per person,2022,474.5776
-SVK,Slovak Republic,Kilogrammes per person,2023,464.1075
-SVK,Slovak Republic,Kilogrammes per person,2024,481.1114
-SVN,Slovenia,Kilogrammes per person,2015,449.497
-SVN,Slovenia,Kilogrammes per person,2016,457.3845
-SVN,Slovenia,Kilogrammes per person,2017,472.3115
-SVN,Slovenia,Kilogrammes per person,2018,487.3347
-SVN,Slovenia,Kilogrammes per person,2019,505.0568
-SVN,Slovenia,Kilogrammes per person,2020,487.0941
-SVN,Slovenia,Kilogrammes per person,2021,509.6504
-SVN,Slovenia,Kilogrammes per person,2022,486.5069
-SVN,Slovenia,Kilogrammes per person,2023,517.7767
-SVN,Slovenia,Kilogrammes per person,2024,527.7805
-ESP,Spain,Kilogrammes per person,2015,453.2161
-ESP,Spain,Kilogrammes per person,2016,460.957
-ESP,Spain,Kilogrammes per person,2017,469.7794
-ESP,Spain,Kilogrammes per person,2018,471.8976
-ESP,Spain,Kilogrammes per person,2019,468.8602
-ESP,Spain,Kilogrammes per person,2020,459.9119
-ESP,Spain,Kilogrammes per person,2021,478.7318
-ESP,Spain,Kilogrammes per person,2022,484.0838
-ESP,Spain,Kilogrammes per person,2023,468.2159
-ESP,Spain,Kilogrammes per person,2024,465.2786
-SWE,Sweden,Kilogrammes per person,2015,451.2045
-SWE,Sweden,Kilogrammes per person,2016,447.3723
-SWE,Sweden,Kilogrammes per person,2017,452.4749
-SWE,Sweden,Kilogrammes per person,2018,433.9444
-SWE,Sweden,Kilogrammes per person,2019,448.5615
-SWE,Sweden,Kilogrammes per person,2020,430.7458
-SWE,Sweden,Kilogrammes per person,2021,417.8264
-SWE,Sweden,Kilogrammes per person,2022,394.7021
-SWE,Sweden,Kilogrammes per person,2023,391.793
-SWE,Sweden,Kilogrammes per person,2024,425.4898
-CHE,Switzerland,Kilogrammes per person,2015,727.915
-CHE,Switzerland,Kilogrammes per person,2016,722.3966
-CHE,Switzerland,Kilogrammes per person,2017,708.8081
-CHE,Switzerland,Kilogrammes per person,2018,705.9367
-CHE,Switzerland,Kilogrammes per person,2019,708.7127
-CHE,Switzerland,Kilogrammes per person,2020,705.5081
-CHE,Switzerland,Kilogrammes per person,2021,704.0294
-CHE,Switzerland,Kilogrammes per person,2022,675.9414
-CHE,Switzerland,Kilogrammes per person,2023,679.4384
-CHE,Switzerland,Kilogrammes per person,2024,676.7556
-TUR,Turkey,Kilogrammes per person,2015,390.968
-TUR,Turkey,Kilogrammes per person,2016,413.4983
-TUR,Turkey,Kilogrammes per person,2017,411.3083
-TUR,Turkey,Kilogrammes per person,2018,409.0814
-TUR,Turkey,Kilogrammes per person,2019,410.243
-TUR,Turkey,Kilogrammes per person,2020,401.6797
-TUR,Turkey,Kilogrammes per person,2021,404.0102
-TUR,Turkey,Kilogrammes per person,2022,372.4185
-TUR,Turkey,Kilogrammes per person,2023,371.918
-TUR,Turkey,Kilogrammes per person,2024,392.9281
-GBR,United Kingdom,Kilogrammes per person,2015,481.401
-GBR,United Kingdom,Kilogrammes per person,2016,481.232
-GBR,United Kingdom,Kilogrammes per person,2017,465.8589
-GBR,United Kingdom,Kilogrammes per person,2018,461.1999
-GBR,United Kingdom,Kilogrammes per person,2019,457.1165
-GBR,United Kingdom,Kilogrammes per person,2020,460.3016
-GBR,United Kingdom,Kilogrammes per person,2021,461.6899
-GBR,United Kingdom,Kilogrammes per person,2022,430.6145
-GBR,United Kingdom,Kilogrammes per person,2023,435.1542
-GBR,United Kingdom,Kilogrammes per person,2024,434.1745
-USA,United States of America,Kilogrammes per person,2015,729.1103
-USA,United States of America,Kilogrammes per person,2016,738.8828
-USA,United States of America,Kilogrammes per person,2017,733.6571
-USA,United States of America,Kilogrammes per person,2020,791.5814
-EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2015,480.7812
-EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2016,493.5296
-EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2017,499.243
-EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2018,499.7025
-EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2019,503.7227
-EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2020,520.0574
-EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2021,532.1105
-EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2022,512.5208
-EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2023,508.4326
-ARG,Argentina,Kilogrammes per person,2019,419.4256
-ARG,Argentina,Kilogrammes per person,2020,421.4664
-ARG,Argentina,Kilogrammes per person,2021,424.349
-ARG,Argentina,Kilogrammes per person,2022,425.6307
-ARM,Armenia,Kilogrammes per person,2015,168.6991
-ARM,Armenia,Kilogrammes per person,2016,171.2009
-ARM,Armenia,Kilogrammes per person,2017,169.4361
-ARM,Armenia,Kilogrammes per person,2018,161.4796
-ARM,Armenia,Kilogrammes per person,2019,162.8115
-ARM,Armenia,Kilogrammes per person,2020,198.2779
-ARM,Armenia,Kilogrammes per person,2021,169.8051
-ARM,Armenia,Kilogrammes per person,2022,184.9092
-ARM,Armenia,Kilogrammes per person,2023,147.2111
-AZE,Azerbaijan,Kilogrammes per person,2015,157.3899
-AZE,Azerbaijan,Kilogrammes per person,2016,161.1199
-AZE,Azerbaijan,Kilogrammes per person,2017,158.0979
-AZE,Azerbaijan,Kilogrammes per person,2018,174.9042
-AZE,Azerbaijan,Kilogrammes per person,2019,199.9906
-AZE,Azerbaijan,Kilogrammes per person,2020,232.4752
-AZE,Azerbaijan,Kilogrammes per person,2021,252.3848
-AZE,Azerbaijan,Kilogrammes per person,2022,258.0788
-AZE,Azerbaijan,Kilogrammes per person,2023,263.6117
-BGD,Bangladesh,Kilogrammes per person,2019,48.5324
-BGD,Bangladesh,Kilogrammes per person,2020,43.2911
-BGD,Bangladesh,Kilogrammes per person,2021,44.21979
-BLR,Belarus,Kilogrammes per person,2015,393.6423
-BLR,Belarus,Kilogrammes per person,2016,399.4078
-BLR,Belarus,Kilogrammes per person,2017,400.3248
-BLR,Belarus,Kilogrammes per person,2018,400.3468
-BLR,Belarus,Kilogrammes per person,2019,401.1269
-BLR,Belarus,Kilogrammes per person,2020,435.2929
-BLR,Belarus,Kilogrammes per person,2021,429.1475
-BLR,Belarus,Kilogrammes per person,2022,435.4297
-BLR,Belarus,Kilogrammes per person,2023,436.8955
-BIH,Bosnia and Herzegovina,Kilogrammes per person,2015,354.9767
-BIH,Bosnia and Herzegovina,Kilogrammes per person,2016,358.1915
-BIH,Bosnia and Herzegovina,Kilogrammes per person,2017,360.1967
-BIH,Bosnia and Herzegovina,Kilogrammes per person,2018,367.2867
-BIH,Bosnia and Herzegovina,Kilogrammes per person,2019,367.149
-BIH,Bosnia and Herzegovina,Kilogrammes per person,2020,365.5713
-BIH,Bosnia and Herzegovina,Kilogrammes per person,2021,378.7215
-BIH,Bosnia and Herzegovina,Kilogrammes per person,2022,369.5857
-BIH,Bosnia and Herzegovina,Kilogrammes per person,2023,372.3301
-BIH,Bosnia and Herzegovina,Kilogrammes per person,2024,354.7545
-BRA,Brazil,Kilogrammes per person,2015,168.6805
-BGR,Bulgaria,Kilogrammes per person,2015,419.5044
-BGR,Bulgaria,Kilogrammes per person,2016,404.2128
-BGR,Bulgaria,Kilogrammes per person,2017,435.2966
-BGR,Bulgaria,Kilogrammes per person,2018,407.4169
-BGR,Bulgaria,Kilogrammes per person,2019,441.5474
-BGR,Bulgaria,Kilogrammes per person,2020,407.9756
-BGR,Bulgaria,Kilogrammes per person,2021,444.665
-BGR,Bulgaria,Kilogrammes per person,2022,462.5464
-BGR,Bulgaria,Kilogrammes per person,2023,464.4043
-BGR,Bulgaria,Kilogrammes per person,2024,472.3508
-CHN,China ,Kilogrammes per person,2015,137.1064
-CHN,China ,Kilogrammes per person,2016,145.0231
-CHN,China ,Kilogrammes per person,2017,152.376
-CHN,China ,Kilogrammes per person,2018,160.6882
-CHN,China ,Kilogrammes per person,2019,170.0446
-CHN,China ,Kilogrammes per person,2020,164.8664
-CHN,China ,Kilogrammes per person,2021,174.3448
-CHN,China ,Kilogrammes per person,2022,171.5201
-CHN,China ,Kilogrammes per person,2023,178.603
-HRV,Croatia,Kilogrammes per person,2015,395.322
-HRV,Croatia,Kilogrammes per person,2016,406.0879
-HRV,Croatia,Kilogrammes per person,2017,420.7786
-HRV,Croatia,Kilogrammes per person,2018,439.3712
-HRV,Croatia,Kilogrammes per person,2019,454.4569
-HRV,Croatia,Kilogrammes per person,2020,428.17
-HRV,Croatia,Kilogrammes per person,2021,450.1237
-HRV,Croatia,Kilogrammes per person,2022,472.0679
-HRV,Croatia,Kilogrammes per person,2023,470.5673
-HRV,Croatia,Kilogrammes per person,2024,484.8114
-CYP,Cyprus,Kilogrammes per person,2015,442.5987
-CYP,Cyprus,Kilogrammes per person,2016,446.9612
-CYP,Cyprus,Kilogrammes per person,2017,439.6077
-CYP,Cyprus,Kilogrammes per person,2018,452.9922
-CYP,Cyprus,Kilogrammes per person,2019,455.2298
-CYP,Cyprus,Kilogrammes per person,2020,428.282
-CYP,Cyprus,Kilogrammes per person,2021,444.2678
-CYP,Cyprus,Kilogrammes per person,2022,461.6448
-CYP,Cyprus,Kilogrammes per person,2023,470.8567
-CYP,Cyprus,Kilogrammes per person,2024,492.5767
-GEO,Georgia,Kilogrammes per person,2015,204.3215
-GEO,Georgia,Kilogrammes per person,2016,229.506
-GEO,Georgia,Kilogrammes per person,2017,243.1148
-GEO,Georgia,Kilogrammes per person,2018,257.5578
-GEO,Georgia,Kilogrammes per person,2019,261.9628
-GEO,Georgia,Kilogrammes per person,2020,256.4232
-GEO,Georgia,Kilogrammes per person,2021,265.5175
-GEO,Georgia,Kilogrammes per person,2022,275.4044
-GEO,Georgia,Kilogrammes per person,2023,293.2639
-GEO,Georgia,Kilogrammes per person,2024,310.9513
-IND,India,Kilogrammes per person,2016,32.35732
-IND,India,Kilogrammes per person,2018,40.37946
-IND,India,Kilogrammes per person,2019,39.61596
-IND,India,Kilogrammes per person,2020,41.64656
-IND,India,Kilogrammes per person,2021,43.96377
-IDN,Indonesia,Kilogrammes per person,2015,23.02069
-IDN,Indonesia,Kilogrammes per person,2016,34.90512
-IDN,Indonesia,Kilogrammes per person,2017,35.67133
-MLT,Malta,Kilogrammes per person,2015,641.5977
-MLT,Malta,Kilogrammes per person,2016,641.9675
-MLT,Malta,Kilogrammes per person,2017,666.0765
-MLT,Malta,Kilogrammes per person,2018,672.2646
-MLT,Malta,Kilogrammes per person,2019,697.1077
-MLT,Malta,Kilogrammes per person,2020,639.0151
-MLT,Malta,Kilogrammes per person,2021,603.7708
-MLT,Malta,Kilogrammes per person,2022,621.7623
-MLT,Malta,Kilogrammes per person,2023,625.2637
-MLT,Malta,Kilogrammes per person,2024,655.1522
-MDA,Moldova,Kilogrammes per person,2015,155.1909
-MDA,Moldova,Kilogrammes per person,2016,174.7301
-MDA,Moldova,Kilogrammes per person,2017,185.2195
-MDA,Moldova,Kilogrammes per person,2018,181.2743
-MDA,Moldova,Kilogrammes per person,2019,199.2481
-MDA,Moldova,Kilogrammes per person,2020,227.3282
-MDA,Moldova,Kilogrammes per person,2021,254.1853
-MNE,Montenegro,Kilogrammes per person,2015,493.1043
-MNE,Montenegro,Kilogrammes per person,2016,491.0717
-MNE,Montenegro,Kilogrammes per person,2017,491.5612
-MNE,Montenegro,Kilogrammes per person,2018,520.938
-MNE,Montenegro,Kilogrammes per person,2019,553.7425
-MNE,Montenegro,Kilogrammes per person,2020,496.9018
-MNE,Montenegro,Kilogrammes per person,2021,527.7626
-MNE,Montenegro,Kilogrammes per person,2022,539.3333
-MNE,Montenegro,Kilogrammes per person,2023,557.8816
-MNE,Montenegro,Kilogrammes per person,2024,571.2795
-MKD,North Macedonia,Kilogrammes per person,2015,396.8963
-MKD,North Macedonia,Kilogrammes per person,2018,445.3054
-MKD,North Macedonia,Kilogrammes per person,2019,482.6746
-MKD,North Macedonia,Kilogrammes per person,2020,487.7275
-MKD,North Macedonia,Kilogrammes per person,2021,484.0701
-MKD,North Macedonia,Kilogrammes per person,2022,465.5748
-MKD,North Macedonia,Kilogrammes per person,2023,479.4748
-ROU,Romania,Kilogrammes per person,2015,246.7684
-ROU,Romania,Kilogrammes per person,2016,260.0256
-ROU,Romania,Kilogrammes per person,2017,270.865
-ROU,Romania,Kilogrammes per person,2018,270.2457
-ROU,Romania,Kilogrammes per person,2019,278.457
-ROU,Romania,Kilogrammes per person,2020,289.7628
-ROU,Romania,Kilogrammes per person,2021,300.1349
-ROU,Romania,Kilogrammes per person,2022,300.9091
-ROU,Romania,Kilogrammes per person,2023,304.5072
-SAU,Saudi Arabia,Kilogrammes per person,2020,80.76485
-SRB,Serbia,Kilogrammes per person,2015,256.3655
-SRB,Serbia,Kilogrammes per person,2016,265.2228
-SRB,Serbia,Kilogrammes per person,2017,303.9511
-SRB,Serbia,Kilogrammes per person,2018,317.663
-SRB,Serbia,Kilogrammes per person,2019,337.3455
-SRB,Serbia,Kilogrammes per person,2020,426.6903
-SRB,Serbia,Kilogrammes per person,2021,442.0703
-SRB,Serbia,Kilogrammes per person,2022,468.0711
-SRB,Serbia,Kilogrammes per person,2023,457.0103
-THA,Thailand,Kilogrammes per person,2016,382.0217
-THA,Thailand,Kilogrammes per person,2017,384.6252
-THA,Thailand,Kilogrammes per person,2018,391.3496
-THA,Thailand,Kilogrammes per person,2019,401.4414
-THA,Thailand,Kilogrammes per person,2020,354.1244
-THA,Thailand,Kilogrammes per person,2021,348.2633
-UKR,Ukraine,Kilogrammes per person,2015,250.9954
-UKR,Ukraine,Kilogrammes per person,2016,253.4722
-UKR,Ukraine,Kilogrammes per person,2017,248.0674
-UKR,Ukraine,Kilogrammes per person,2018,262.2758
-UKR,Ukraine,Kilogrammes per person,2019,262.308
-UKR,Ukraine,Kilogrammes per person,2020,282.7864
-UKR,Ukraine,Kilogrammes per person,2021,296.3071
-UKR,Ukraine,Kilogrammes per person,2022,232.8182
-UKR,Ukraine,Kilogrammes per person,2023,254.5793
+REF_AREA,Reference area,Unit of measure,TIME_PERIOD,OBS_VALUE,Longitude,Column1,Column2
+OECD,OECD,Kilogrammes per person,2015,507.3543,,,
+OECD,OECD,Kilogrammes per person,2016,516.2693,,,
+OECD,OECD,Kilogrammes per person,2017,515.0653,,,
+OECD,OECD,Kilogrammes per person,2018,530.6895,,,
+OECD,OECD,Kilogrammes per person,2019,530.5955,,,
+OECD,OECD,Kilogrammes per person,2020,527.1531,,,
+OECD,OECD,Kilogrammes per person,2021,539.8697,,,
+OECD,OECD,Kilogrammes per person,2022,521.3076,,,
+OECD,OECD,Kilogrammes per person,2023,515.1794,,,
+OECD,OECD,Kilogrammes per person,2024,517.6157,,,
+OECDA,OECD America,Kilogrammes per person,2015,577.0903,,,
+OECDA,OECD America,Kilogrammes per person,2016,583.6725,,,
+OECDA,OECD America,Kilogrammes per person,2017,581.0594,,,
+OECDA,OECD America,Kilogrammes per person,2018,617.1456,,,
+OECDA,OECD America,Kilogrammes per person,2019,613.4197,,,
+OECDA,OECD America,Kilogrammes per person,2020,592.7357,,,
+OECDA,OECD America,Kilogrammes per person,2021,612.6332,,,
+OECDA,OECD America,Kilogrammes per person,2022,593.7768,,,
+OECDA,OECD America,Kilogrammes per person,2023,584.3351,,,
+OECDA,OECD America,Kilogrammes per person,2024,584.4502,,,
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2015,398.1576,,,
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2016,394.8867,,,
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2017,390.4109,,,
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2018,394.5921,,,
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2019,396.5453,,,
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2020,399.4497,,,
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2021,400.713,,,
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2022,399.699,,,
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2023,391.7651,,,
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2024,390.2534,,,
+OECDE,OECD Europe,Kilogrammes per person,2015,480.8712,,,
+OECDE,OECD Europe,Kilogrammes per person,2016,496.3079,,,
+OECDE,OECD Europe,Kilogrammes per person,2017,497.3082,,,
+OECDE,OECD Europe,Kilogrammes per person,2018,496.6604,,,
+OECDE,OECD Europe,Kilogrammes per person,2019,498.8144,,,
+OECDE,OECD Europe,Kilogrammes per person,2020,509.6888,,,
+OECDE,OECD Europe,Kilogrammes per person,2021,519.2172,,,
+OECDE,OECD Europe,Kilogrammes per person,2022,494.0539,,,
+OECDE,OECD Europe,Kilogrammes per person,2023,491.4498,,,
+OECDE,OECD Europe,Kilogrammes per person,2024,497.154,,,
+AUS,Australia,Kilogrammes per person,2015,592.4804,134,-25,
+AUS,Australia,Kilogrammes per person,2016,549.5206,134,-25,
+AUS,Australia,Kilogrammes per person,2017,519.6852,134,-25,
+AUS,Australia,Kilogrammes per person,2018,513.6947,134,-25,
+AUS,Australia,Kilogrammes per person,2019,506.9767,134,-25,
+AUS,Australia,Kilogrammes per person,2020,512.8154,134,-25,
+AUS,Australia,Kilogrammes per person,2021,518.3372,134,-25,
+AUS,Australia,Kilogrammes per person,2022,520.2134,134,-25,
+AUS,Australia,Kilogrammes per person,2023,509.6384,134,-25,
+AUT,Austria,Kilogrammes per person,2015,559.4607,14,47,
+AUT,Austria,Kilogrammes per person,2016,564.0247,14,47,
+AUT,Austria,Kilogrammes per person,2017,570.261,14,47,
+AUT,Austria,Kilogrammes per person,2018,578.9644,14,47,
+AUT,Austria,Kilogrammes per person,2019,587.8114,14,47,
+AUT,Austria,Kilogrammes per person,2020,833.6866,14,47,
+AUT,Austria,Kilogrammes per person,2021,833.6916,14,47,
+AUT,Austria,Kilogrammes per person,2022,801.0608,14,47,
+AUT,Austria,Kilogrammes per person,2023,782.2087,14,47,
+AUT,Austria,Kilogrammes per person,2024,780.236,14,47,
+BEL,Belgium,Kilogrammes per person,2015,411.7503,4,50,
+BEL,Belgium,Kilogrammes per person,2016,418.7687,4,50,
+BEL,Belgium,Kilogrammes per person,2017,410.6566,4,50,
+BEL,Belgium,Kilogrammes per person,2018,409.27,4,50,
+BEL,Belgium,Kilogrammes per person,2019,415.9343,4,50,
+BEL,Belgium,Kilogrammes per person,2020,728.5526,4,50,
+BEL,Belgium,Kilogrammes per person,2021,756.4639,4,50,
+BEL,Belgium,Kilogrammes per person,2022,691.9385,4,50,
+BEL,Belgium,Kilogrammes per person,2023,691.908,4,50,
+BEL,Belgium,Kilogrammes per person,2024,705.5662,4,50,
+CHL,Chile,Kilogrammes per person,2015,398.7976,71,36,
+CHL,Chile,Kilogrammes per person,2016,395.717,71,36,
+CHL,Chile,Kilogrammes per person,2017,437.6339,71,36,
+CHL,Chile,Kilogrammes per person,2018,432.8253,71,36,
+CHL,Chile,Kilogrammes per person,2019,409.4669,71,36,
+CHL,Chile,Kilogrammes per person,2020,407.6178,71,36,
+CHL,Chile,Kilogrammes per person,2021,465.7996,71,36,
+CHL,Chile,Kilogrammes per person,2022,443.3696,71,36,
+CHL,Chile,Kilogrammes per person,2023,440.098,71,36,
+COL,Colombia,Kilogrammes per person,2015,212.2174,73,3,
+COL,Colombia,Kilogrammes per person,2016,240.317,73,3,
+COL,Colombia,Kilogrammes per person,2017,225.5711,73,3,
+COL,Colombia,Kilogrammes per person,2018,246.4588,73,3,
+CRI,Costa Rica,Kilogrammes per person,2015,389.5777,84,9,
+CRI,Costa Rica,Kilogrammes per person,2016,250.2569,84,9,
+CRI,Costa Rica,Kilogrammes per person,2017,257.878,84,9,
+CRI,Costa Rica,Kilogrammes per person,2018,294.8878,84,9,
+CRI,Costa Rica,Kilogrammes per person,2019,268.824,84,9,
+CRI,Costa Rica,Kilogrammes per person,2020,289.8683,84,9,
+CRI,Costa Rica,Kilogrammes per person,2021,319.8624,84,9,
+CRI,Costa Rica,Kilogrammes per person,2022,317.9604,84,9,
+CRI,Costa Rica,Kilogrammes per person,2023,334.9998,84,9,
+CRI,Costa Rica,Kilogrammes per person,2024,665.1189,84,9,
+CZE,Czechia,Kilogrammes per person,2015,317.1042,15,49,
+CZE,Czechia,Kilogrammes per person,2016,339.8815,15,49,
+CZE,Czechia,Kilogrammes per person,2017,491.0677,15,49,
+CZE,Czechia,Kilogrammes per person,2018,497.4579,15,49,
+CZE,Czechia,Kilogrammes per person,2019,505.6925,15,49,
+CZE,Czechia,Kilogrammes per person,2020,551.092,15,49,
+CZE,Czechia,Kilogrammes per person,2021,568.9078,15,49,
+CZE,Czechia,Kilogrammes per person,2022,548.5123,15,49,
+CZE,Czechia,Kilogrammes per person,2023,540.2816,15,49,
+CZE,Czechia,Kilogrammes per person,2024,592.8295,15,49,
+DNK,Denmark,Kilogrammes per person,2015,821.8237,10,55,
+DNK,Denmark,Kilogrammes per person,2016,830.4527,10,55,
+DNK,Denmark,Kilogrammes per person,2017,820.0975,10,55,
+DNK,Denmark,Kilogrammes per person,2018,813.7976,10,55,
+DNK,Denmark,Kilogrammes per person,2019,843.9877,10,55,
+DNK,Denmark,Kilogrammes per person,2020,813.5892,10,55,
+DNK,Denmark,Kilogrammes per person,2021,800.417,10,55,
+DNK,Denmark,Kilogrammes per person,2022,758.5848,10,55,
+DNK,Denmark,Kilogrammes per person,2023,758.6755,10,55,
+DNK,Denmark,Kilogrammes per person,2024,758.3939,10,55,
+EST,Estonia,Kilogrammes per person,2015,359.4695,25,58,
+EST,Estonia,Kilogrammes per person,2016,375.6966,25,58,
+EST,Estonia,Kilogrammes per person,2017,389.8818,25,58,
+EST,Estonia,Kilogrammes per person,2018,405.0712,25,58,
+EST,Estonia,Kilogrammes per person,2019,369.1309,25,58,
+EST,Estonia,Kilogrammes per person,2020,383.1758,25,58,
+EST,Estonia,Kilogrammes per person,2021,394.4985,25,58,
+EST,Estonia,Kilogrammes per person,2022,372.6888,25,58,
+EST,Estonia,Kilogrammes per person,2023,374.1607,25,58,
+EST,Estonia,Kilogrammes per person,2024,378.0019,25,58,
+FIN,Finland,Kilogrammes per person,2015,499.7119,26,64,
+FIN,Finland,Kilogrammes per person,2016,503.6749,26,64,
+FIN,Finland,Kilogrammes per person,2017,510.419,26,64,
+FIN,Finland,Kilogrammes per person,2018,551.3462,26,64,
+FIN,Finland,Kilogrammes per person,2019,565.5272,26,64,
+FIN,Finland,Kilogrammes per person,2020,609.3782,26,64,
+FIN,Finland,Kilogrammes per person,2021,629.9637,26,64,
+FIN,Finland,Kilogrammes per person,2022,520.3605,26,64,
+FIN,Finland,Kilogrammes per person,2023,466.3838,26,64,
+FIN,Finland,Kilogrammes per person,2024,457.5598,26,64,
+FRA,France,Kilogrammes per person,2015,529.0502,-6,42,
+FRA,France,Kilogrammes per person,2016,566.7908,-6,42,
+FRA,France,Kilogrammes per person,2017,572.2192,-6,42,
+FRA,France,Kilogrammes per person,2018,570.5151,-6,42,
+FRA,France,Kilogrammes per person,2019,569.1058,-6,42,
+FRA,France,Kilogrammes per person,2020,547.6947,-6,42,
+FRA,France,Kilogrammes per person,2021,579.1509,-6,42,
+FRA,France,Kilogrammes per person,2022,549.5209,-6,42,
+FRA,France,Kilogrammes per person,2023,542.3728,-6,42,
+FRA,France,Kilogrammes per person,2024,518.1782,-6,42,
+DEU,Germany,Kilogrammes per person,2015,628.9783,10,51,
+DEU,Germany,Kilogrammes per person,2016,629.9291,10,51,
+DEU,Germany,Kilogrammes per person,2017,623.195,10,51,
+DEU,Germany,Kilogrammes per person,2018,602.8652,10,51,
+DEU,Germany,Kilogrammes per person,2019,605.6999,10,51,
+DEU,Germany,Kilogrammes per person,2020,637.5987,10,51,
+DEU,Germany,Kilogrammes per person,2021,643.6392,10,51,
+DEU,Germany,Kilogrammes per person,2022,601.8395,10,51,
+DEU,Germany,Kilogrammes per person,2023,603.4033,10,51,
+DEU,Germany,Kilogrammes per person,2024,608.4836,10,51,
+GRC,Greece,Kilogrammes per person,2015,487.6672,22,39,
+GRC,Greece,Kilogrammes per person,2016,498.0742,22,39,
+GRC,Greece,Kilogrammes per person,2017,503.5555,22,39,
+GRC,Greece,Kilogrammes per person,2018,514.6846,22,39,
+GRC,Greece,Kilogrammes per person,2019,523.687,22,39,
+GRC,Greece,Kilogrammes per person,2020,498.6142,22,39,
+GRC,Greece,Kilogrammes per person,2021,508.6617,22,39,
+GRC,Greece,Kilogrammes per person,2022,520.5464,22,39,
+GRC,Greece,Kilogrammes per person,2023,531.1255,22,39,
+GRC,Greece,Kilogrammes per person,2024,541.438,22,39,
+HUN,Hungary,Kilogrammes per person,2015,377.266,19,47,
+HUN,Hungary,Kilogrammes per person,2016,379.2863,19,47,
+HUN,Hungary,Kilogrammes per person,2017,385.0554,19,47,
+HUN,Hungary,Kilogrammes per person,2018,381.507,19,47,
+HUN,Hungary,Kilogrammes per person,2019,386.885,19,47,
+HUN,Hungary,Kilogrammes per person,2020,403.2018,19,47,
+HUN,Hungary,Kilogrammes per person,2021,416.3169,19,47,
+HUN,Hungary,Kilogrammes per person,2022,403.8403,19,47,
+HUN,Hungary,Kilogrammes per person,2023,424.7933,19,47,
+HUN,Hungary,Kilogrammes per person,2024,408.9093,19,47,
+ISL,Iceland,Kilogrammes per person,2015,587.8617,-18,64,
+ISL,Iceland,Kilogrammes per person,2016,655.1789,-18,64,
+ISL,Iceland,Kilogrammes per person,2017,655.9728,-18,64,
+ISL,Iceland,Kilogrammes per person,2018,701.4091,-18,64,
+ISL,Iceland,Kilogrammes per person,2019,694.178,-18,64,
+ISL,Iceland,Kilogrammes per person,2020,613.9373,-18,64,
+ISL,Iceland,Kilogrammes per person,2021,659.219,-18,64,
+ISL,Iceland,Kilogrammes per person,2022,597.7347,-18,64,
+ISL,Iceland,Kilogrammes per person,2023,576.6929,-18,64,
+ISL,Iceland,Kilogrammes per person,2024,551.4153,-18,64,
+IRL,Ireland,Kilogrammes per person,2015,556.9436,8,53,
+IRL,Ireland,Kilogrammes per person,2016,581.2907,8,53,
+IRL,Ireland,Kilogrammes per person,2017,575.4455,8,53,
+IRL,Ireland,Kilogrammes per person,2018,597.7054,8,53,
+IRL,Ireland,Kilogrammes per person,2019,625.45,8,53,
+IRL,Ireland,Kilogrammes per person,2020,644.2853,8,53,
+IRL,Ireland,Kilogrammes per person,2021,629.2473,8,53,
+IRL,Ireland,Kilogrammes per person,2022,624.4258,8,53,
+IRL,Ireland,Kilogrammes per person,2023,603.2448,8,53,
+IRL,Ireland,Kilogrammes per person,2024,591.5773,8,53,
+ISR,Israel,Kilogrammes per person,2015,631.0331,34,31,
+ISR,Israel,Kilogrammes per person,2016,640.8536,34,31,
+ISR,Israel,Kilogrammes per person,2017,649.9384,34,31,
+ISR,Israel,Kilogrammes per person,2018,664.8838,34,31,
+ISR,Israel,Kilogrammes per person,2019,665.2365,34,31,
+ISR,Israel,Kilogrammes per person,2020,679.0652,34,31,
+ISR,Israel,Kilogrammes per person,2021,687.4464,34,31,
+ISR,Israel,Kilogrammes per person,2022,680.3387,34,31,
+ISR,Israel,Kilogrammes per person,2023,676.1992,34,31,
+ISR,Israel,Kilogrammes per person,2024,679.9782,34,31,
+ITA,Italy,Kilogrammes per person,2015,487.3932,12,42,
+ITA,Italy,Kilogrammes per person,2016,497.8992,12,42,
+ITA,Italy,Kilogrammes per person,2017,489.6812,12,42,
+ITA,Italy,Kilogrammes per person,2018,500.4355,12,42,
+ITA,Italy,Kilogrammes per person,2019,499.3004,12,42,
+ITA,Italy,Kilogrammes per person,2020,483.1206,12,42,
+ITA,Italy,Kilogrammes per person,2021,489.7824,12,42,
+ITA,Italy,Kilogrammes per person,2022,481.256,12,42,
+ITA,Italy,Kilogrammes per person,2023,484.7173,12,42,
+ITA,Italy,Kilogrammes per person,2024,497.0403,12,42,
+JPN,Japan,Kilogrammes per person,2015,345.5565,137,37,
+JPN,Japan,Kilogrammes per person,2016,339.4937,137,37,
+JPN,Japan,Kilogrammes per person,2017,337.5761,137,37,
+JPN,Japan,Kilogrammes per person,2018,336.6626,137,37,
+JPN,Japan,Kilogrammes per person,2019,337.3102,137,37,
+JPN,Japan,Kilogrammes per person,2020,329.909,137,37,
+JPN,Japan,Kilogrammes per person,2021,325.8531,137,37,
+JPN,Japan,Kilogrammes per person,2023,313.369,137,37,
+KOR,South Korea,Kilogrammes per person,2015,366.8804,127,36,
+KOR,South Korea,Kilogrammes per person,2016,382.6087,127,36,
+KOR,South Korea,Kilogrammes per person,2017,379.2014,127,36,
+KOR,South Korea,Kilogrammes per person,2018,396.0605,127,36,
+KOR,South Korea,Kilogrammes per person,2019,408.6689,127,36,
+KOR,South Korea,Kilogrammes per person,2020,434.7338,127,36,
+KOR,South Korea,Kilogrammes per person,2021,437.7184,127,36,
+KOR,South Korea,Kilogrammes per person,2022,444.8992,127,36,
+KOR,South Korea,Kilogrammes per person,2023,433.17,127,36,
+LVA,Latvia,Kilogrammes per person,2015,403.4958,24,56,
+LVA,Latvia,Kilogrammes per person,2016,409.4536,24,56,
+LVA,Latvia,Kilogrammes per person,2017,410.8872,24,56,
+LVA,Latvia,Kilogrammes per person,2018,407.2831,24,56,
+LVA,Latvia,Kilogrammes per person,2019,439.0269,24,56,
+LVA,Latvia,Kilogrammes per person,2020,478.1174,24,56,
+LVA,Latvia,Kilogrammes per person,2021,461.0156,24,56,
+LVA,Latvia,Kilogrammes per person,2022,463.3614,24,56,
+LVA,Latvia,Kilogrammes per person,2023,437.697,24,56,
+LVA,Latvia,Kilogrammes per person,2024,461.0115,24,56,
+LTU,Lithuania,Kilogrammes per person,2015,447.386,23,55,
+LTU,Lithuania,Kilogrammes per person,2016,443.3643,23,55,
+LTU,Lithuania,Kilogrammes per person,2017,454.6807,23,55,
+LTU,Lithuania,Kilogrammes per person,2018,464.0793,23,55,
+LTU,Lithuania,Kilogrammes per person,2019,471.7704,23,55,
+LTU,Lithuania,Kilogrammes per person,2020,482.8542,23,55,
+LTU,Lithuania,Kilogrammes per person,2021,481.3071,23,55,
+LTU,Lithuania,Kilogrammes per person,2022,467.5218,23,55,
+LTU,Lithuania,Kilogrammes per person,2023,449.109,23,55,
+LTU,Lithuania,Kilogrammes per person,2024,466.3609,23,55,
+LUX,Luxembourg,Kilogrammes per person,2015,607.4243,6,49,
+LUX,Luxembourg,Kilogrammes per person,2016,812.4866,6,49,
+LUX,Luxembourg,Kilogrammes per person,2017,797.708,6,49,
+LUX,Luxembourg,Kilogrammes per person,2018,803.0115,6,49,
+LUX,Luxembourg,Kilogrammes per person,2019,791.2504,6,49,
+LUX,Luxembourg,Kilogrammes per person,2020,789.3542,6,49,
+LUX,Luxembourg,Kilogrammes per person,2021,792.7636,6,49,
+LUX,Luxembourg,Kilogrammes per person,2022,720.4633,6,49,
+LUX,Luxembourg,Kilogrammes per person,2023,719.1897,6,49,
+LUX,Luxembourg,Kilogrammes per person,2024,734.5092,6,49,
+MEX,Mexico,Kilogrammes per person,2016,312.7021,-102,23,
+MEX,Mexico,Kilogrammes per person,2018,313.6719,-102,23,
+MEX,Mexico,Kilogrammes per person,2020,306.6344,-102,23,
+MEX,Mexico,Kilogrammes per person,2022,306.9157,-102,23,
+NLD,Netherlands,Kilogrammes per person,2015,518.2543,4,52,
+NLD,Netherlands,Kilogrammes per person,2016,515.0339,4,52,
+NLD,Netherlands,Kilogrammes per person,2017,507.757,4,52,
+NLD,Netherlands,Kilogrammes per person,2018,505.4738,4,52,
+NLD,Netherlands,Kilogrammes per person,2019,502.1238,4,52,
+NLD,Netherlands,Kilogrammes per person,2020,527.3086,4,52,
+NLD,Netherlands,Kilogrammes per person,2021,507.7673,4,52,
+NLD,Netherlands,Kilogrammes per person,2022,467.203,4,52,
+NLD,Netherlands,Kilogrammes per person,2023,459.6374,4,52,
+NLD,Netherlands,Kilogrammes per person,2024,466.516,4,52,
+NZL,New Zealand,Kilogrammes per person,2015,779.7957,172,41,
+NZL,New Zealand,Kilogrammes per person,2016,796.2213,172,41,
+NZL,New Zealand,Kilogrammes per person,2017,789.9846,172,41,
+NZL,New Zealand,Kilogrammes per person,2018,799.4537,172,41,
+NZL,New Zealand,Kilogrammes per person,2019,744.7785,172,41,
+NZL,New Zealand,Kilogrammes per person,2020,710.0739,172,41,
+NZL,New Zealand,Kilogrammes per person,2021,767.2734,172,41,
+NZL,New Zealand,Kilogrammes per person,2022,781.0226,172,41,
+NZL,New Zealand,Kilogrammes per person,2023,750.652,172,41,
+NZL,New Zealand,Kilogrammes per person,2024,642.1243,172,41,
+NOR,Norway,Kilogrammes per person,2015,421.4483,12,66,
+NOR,Norway,Kilogrammes per person,2016,753.6636,12,66,
+NOR,Norway,Kilogrammes per person,2017,748.4097,12,66,
+NOR,Norway,Kilogrammes per person,2018,739.2853,12,66,
+NOR,Norway,Kilogrammes per person,2019,776.1788,12,66,
+NOR,Norway,Kilogrammes per person,2020,725.9335,12,66,
+NOR,Norway,Kilogrammes per person,2021,798.8546,12,66,
+NOR,Norway,Kilogrammes per person,2022,767.7522,12,66,
+NOR,Norway,Kilogrammes per person,2023,724.2647,12,66,
+NOR,Norway,Kilogrammes per person,2024,715.7998,12,66,
+POL,Poland,Kilogrammes per person,2015,283.8789,19,52,
+POL,Poland,Kilogrammes per person,2016,304.5831,19,52,
+POL,Poland,Kilogrammes per person,2017,312.8671,19,52,
+POL,Poland,Kilogrammes per person,2018,326.4926,19,52,
+POL,Poland,Kilogrammes per person,2019,333.6163,19,52,
+POL,Poland,Kilogrammes per person,2020,343.6351,19,52,
+POL,Poland,Kilogrammes per person,2021,359.4499,19,52,
+POL,Poland,Kilogrammes per person,2022,349.6168,19,52,
+POL,Poland,Kilogrammes per person,2023,346.9278,19,52,
+POL,Poland,Kilogrammes per person,2024,367.3764,19,52,
+PRT,Portugal,Kilogrammes per person,2015,459.8545,-8,39,
+PRT,Portugal,Kilogrammes per person,2016,472.6867,-8,39,
+PRT,Portugal,Kilogrammes per person,2017,484.6216,-8,39,
+PRT,Portugal,Kilogrammes per person,2018,504.8881,-8,39,
+PRT,Portugal,Kilogrammes per person,2019,510.6135,-8,39,
+PRT,Portugal,Kilogrammes per person,2020,508.9911,-8,39,
+PRT,Portugal,Kilogrammes per person,2021,511.0739,-8,39,
+PRT,Portugal,Kilogrammes per person,2022,511.0072,-8,39,
+PRT,Portugal,Kilogrammes per person,2023,511.7693,-8,39,
+PRT,Portugal,Kilogrammes per person,2024,532.5538,-8,39,
+SVK,Slovakia,Kilogrammes per person,2015,329.1676,19,48,
+SVK,Slovakia,Kilogrammes per person,2016,348.1555,19,48,
+SVK,Slovakia,Kilogrammes per person,2017,378.5695,19,48,
+SVK,Slovakia,Kilogrammes per person,2018,414.1088,19,48,
+SVK,Slovakia,Kilogrammes per person,2019,421.7608,19,48,
+SVK,Slovakia,Kilogrammes per person,2020,478.7433,19,48,
+SVK,Slovakia,Kilogrammes per person,2021,497.0507,19,48,
+SVK,Slovakia,Kilogrammes per person,2022,474.5776,19,48,
+SVK,Slovakia,Kilogrammes per person,2023,464.1075,19,48,
+SVK,Slovakia,Kilogrammes per person,2024,481.1114,19,48,
+SVN,Slovenia,Kilogrammes per person,2015,449.497,14,46,
+SVN,Slovenia,Kilogrammes per person,2016,457.3845,14,46,
+SVN,Slovenia,Kilogrammes per person,2017,472.3115,14,46,
+SVN,Slovenia,Kilogrammes per person,2018,487.3347,14,46,
+SVN,Slovenia,Kilogrammes per person,2019,505.0568,14,46,
+SVN,Slovenia,Kilogrammes per person,2020,487.0941,14,46,
+SVN,Slovenia,Kilogrammes per person,2021,509.6504,14,46,
+SVN,Slovenia,Kilogrammes per person,2022,486.5069,14,46,
+SVN,Slovenia,Kilogrammes per person,2023,517.7767,14,46,
+SVN,Slovenia,Kilogrammes per person,2024,527.7805,14,46,
+ESP,Spain,Kilogrammes per person,2015,453.2161,-3,40,
+ESP,Spain,Kilogrammes per person,2016,460.957,-3,40,
+ESP,Spain,Kilogrammes per person,2017,469.7794,-3,40,
+ESP,Spain,Kilogrammes per person,2018,471.8976,-3,40,
+ESP,Spain,Kilogrammes per person,2019,468.8602,-3,40,
+ESP,Spain,Kilogrammes per person,2020,459.9119,-3,40,
+ESP,Spain,Kilogrammes per person,2021,478.7318,-3,40,
+ESP,Spain,Kilogrammes per person,2022,484.0838,-3,40,
+ESP,Spain,Kilogrammes per person,2023,468.2159,-3,40,
+ESP,Spain,Kilogrammes per person,2024,465.2786,-3,40,
+SWE,Sweden,Kilogrammes per person,2015,451.2045,16,62,
+SWE,Sweden,Kilogrammes per person,2016,447.3723,16,62,
+SWE,Sweden,Kilogrammes per person,2017,452.4749,16,62,
+SWE,Sweden,Kilogrammes per person,2018,433.9444,16,62,
+SWE,Sweden,Kilogrammes per person,2019,448.5615,16,62,
+SWE,Sweden,Kilogrammes per person,2020,430.7458,16,62,
+SWE,Sweden,Kilogrammes per person,2021,417.8264,16,62,
+SWE,Sweden,Kilogrammes per person,2022,394.7021,16,62,
+SWE,Sweden,Kilogrammes per person,2023,391.793,16,62,
+SWE,Sweden,Kilogrammes per person,2024,425.4898,16,62,
+CHE,Switzerland,Kilogrammes per person,2015,727.915,8,46,
+CHE,Switzerland,Kilogrammes per person,2016,722.3966,8,46,
+CHE,Switzerland,Kilogrammes per person,2017,708.8081,8,46,
+CHE,Switzerland,Kilogrammes per person,2018,705.9367,8,46,
+CHE,Switzerland,Kilogrammes per person,2019,708.7127,8,46,
+CHE,Switzerland,Kilogrammes per person,2020,705.5081,8,46,
+CHE,Switzerland,Kilogrammes per person,2021,704.0294,8,46,
+CHE,Switzerland,Kilogrammes per person,2022,675.9414,8,46,
+CHE,Switzerland,Kilogrammes per person,2023,679.4384,8,46,
+CHE,Switzerland,Kilogrammes per person,2024,676.7556,8,46,
+TUR,Turkey,Kilogrammes per person,2015,390.968,35,39,
+TUR,Turkey,Kilogrammes per person,2016,413.4983,35,39,
+TUR,Turkey,Kilogrammes per person,2017,411.3083,35,39,
+TUR,Turkey,Kilogrammes per person,2018,409.0814,35,39,
+TUR,Turkey,Kilogrammes per person,2019,410.243,35,39,
+TUR,Turkey,Kilogrammes per person,2020,401.6797,35,39,
+TUR,Turkey,Kilogrammes per person,2021,404.0102,35,39,
+TUR,Turkey,Kilogrammes per person,2022,372.4185,35,39,
+TUR,Turkey,Kilogrammes per person,2023,371.918,35,39,
+TUR,Turkey,Kilogrammes per person,2024,392.9281,35,39,
+GBR,United Kingdom,Kilogrammes per person,2015,481.401,2,54,
+GBR,United Kingdom,Kilogrammes per person,2016,481.232,2,54,
+GBR,United Kingdom,Kilogrammes per person,2017,465.8589,2,54,
+GBR,United Kingdom,Kilogrammes per person,2018,461.1999,2,54,
+GBR,United Kingdom,Kilogrammes per person,2019,457.1165,2,54,
+GBR,United Kingdom,Kilogrammes per person,2020,460.3016,2,54,
+GBR,United Kingdom,Kilogrammes per person,2021,461.6899,2,54,
+GBR,United Kingdom,Kilogrammes per person,2022,430.6145,2,54,
+GBR,United Kingdom,Kilogrammes per person,2023,435.1542,2,54,
+GBR,United Kingdom,Kilogrammes per person,2024,434.1745,2,54,
+USA,United States of America,Kilogrammes per person,2015,729.1103,-103,44,
+USA,United States of America,Kilogrammes per person,2016,738.8828,-103,44,
+USA,United States of America,Kilogrammes per person,2017,733.6571,-103,44,
+USA,United States of America,Kilogrammes per person,2020,791.5814,-103,44,
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2015,480.7812,,,
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2016,493.5296,,,
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2017,499.243,,,
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2018,499.7025,,,
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2019,503.7227,,,
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2020,520.0574,,,
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2021,532.1105,,,
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2022,512.5208,,,
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2023,508.4326,,,
+ARG,Argentina,Kilogrammes per person,2019,419.4256,-64,-34,
+ARG,Argentina,Kilogrammes per person,2020,421.4664,-64,-34,
+ARG,Argentina,Kilogrammes per person,2021,424.349,-64,-34,
+ARG,Argentina,Kilogrammes per person,2022,425.6307,-64,-34,
+ARM,Armenia,Kilogrammes per person,2015,168.6991,44,40,
+ARM,Armenia,Kilogrammes per person,2016,171.2009,44,40,
+ARM,Armenia,Kilogrammes per person,2017,169.4361,44,40,
+ARM,Armenia,Kilogrammes per person,2018,161.4796,44,40,
+ARM,Armenia,Kilogrammes per person,2019,162.8115,44,40,
+ARM,Armenia,Kilogrammes per person,2020,198.2779,44,40,
+ARM,Armenia,Kilogrammes per person,2021,169.8051,44,40,
+ARM,Armenia,Kilogrammes per person,2022,184.9092,44,40,
+ARM,Armenia,Kilogrammes per person,2023,147.2111,44,40,
+AZE,Azerbaijan,Kilogrammes per person,2015,157.3899,47,40,
+AZE,Azerbaijan,Kilogrammes per person,2016,161.1199,47,40,
+AZE,Azerbaijan,Kilogrammes per person,2017,158.0979,47,40,
+AZE,Azerbaijan,Kilogrammes per person,2018,174.9042,47,40,
+AZE,Azerbaijan,Kilogrammes per person,2019,199.9906,47,40,
+AZE,Azerbaijan,Kilogrammes per person,2020,232.4752,47,40,
+AZE,Azerbaijan,Kilogrammes per person,2021,252.3848,47,40,
+AZE,Azerbaijan,Kilogrammes per person,2022,258.0788,47,40,
+AZE,Azerbaijan,Kilogrammes per person,2023,263.6117,47,40,
+BGD,Bangladesh,Kilogrammes per person,2019,48.5324,90,23,
+BGD,Bangladesh,Kilogrammes per person,2020,43.2911,90,23,
+BGD,Bangladesh,Kilogrammes per person,2021,44.21979,90,23,
+BLR,Belarus,Kilogrammes per person,2015,393.6423,28,53,
+BLR,Belarus,Kilogrammes per person,2016,399.4078,28,53,
+BLR,Belarus,Kilogrammes per person,2017,400.3248,28,53,
+BLR,Belarus,Kilogrammes per person,2018,400.3468,28,53,
+BLR,Belarus,Kilogrammes per person,2019,401.1269,28,53,
+BLR,Belarus,Kilogrammes per person,2020,435.2929,28,53,
+BLR,Belarus,Kilogrammes per person,2021,429.1475,28,53,
+BLR,Belarus,Kilogrammes per person,2022,435.4297,28,53,
+BLR,Belarus,Kilogrammes per person,2023,436.8955,28,53,
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2015,354.9767,17,44,
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2016,358.1915,17,44,
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2017,360.1967,17,44,
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2018,367.2867,17,44,
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2019,367.149,17,44,
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2020,365.5713,17,44,
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2021,378.7215,17,44,
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2022,369.5857,17,44,
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2023,372.3301,17,44,
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2024,354.7545,17,44,
+BRA,Brazil,Kilogrammes per person,2020,168.6805,-53,-10,
+BGR,Bulgaria,Kilogrammes per person,2015,419.5044,25,42,
+BGR,Bulgaria,Kilogrammes per person,2016,404.2128,25,,
+BGR,Bulgaria,Kilogrammes per person,2017,435.2966,25,,
+BGR,Bulgaria,Kilogrammes per person,2018,407.4169,25,,
+BGR,Bulgaria,Kilogrammes per person,2019,441.5474,25,,
+BGR,Bulgaria,Kilogrammes per person,2020,407.9756,25,,
+BGR,Bulgaria,Kilogrammes per person,2021,444.665,25,,
+BGR,Bulgaria,Kilogrammes per person,2022,462.5464,25,,
+BGR,Bulgaria,Kilogrammes per person,2023,464.4043,25,,
+BGR,Bulgaria,Kilogrammes per person,2024,472.3508,25,,
+CHN,China ,Kilogrammes per person,2015,137.1064,103,36,
+CHN,China ,Kilogrammes per person,2016,145.0231,103,36,
+CHN,China ,Kilogrammes per person,2017,152.376,103,36,
+CHN,China ,Kilogrammes per person,2018,160.6882,103,36,
+CHN,China ,Kilogrammes per person,2019,170.0446,103,36,
+CHN,China ,Kilogrammes per person,2020,164.8664,103,36,
+CHN,China ,Kilogrammes per person,2021,174.3448,103,36,
+CHN,China ,Kilogrammes per person,2022,171.5201,103,36,
+CHN,China ,Kilogrammes per person,2023,178.603,103,36,
+HRV,Croatia,Kilogrammes per person,2015,395.322,16,45,
+HRV,Croatia,Kilogrammes per person,2016,406.0879,16,45,
+HRV,Croatia,Kilogrammes per person,2017,420.7786,16,45,
+HRV,Croatia,Kilogrammes per person,2018,439.3712,16,45,
+HRV,Croatia,Kilogrammes per person,2019,454.4569,16,45,
+HRV,Croatia,Kilogrammes per person,2020,428.17,16,45,
+HRV,Croatia,Kilogrammes per person,2021,450.1237,16,45,
+HRV,Croatia,Kilogrammes per person,2022,472.0679,16,45,
+HRV,Croatia,Kilogrammes per person,2023,470.5673,16,45,
+HRV,Croatia,Kilogrammes per person,2024,484.8114,16,45,
+CYP,Cyprus,Kilogrammes per person,2015,442.5987,33,34,
+CYP,Cyprus,Kilogrammes per person,2016,446.9612,33,34,
+CYP,Cyprus,Kilogrammes per person,2017,439.6077,33,34,
+CYP,Cyprus,Kilogrammes per person,2018,452.9922,33,34,
+CYP,Cyprus,Kilogrammes per person,2019,455.2298,33,34,
+CYP,Cyprus,Kilogrammes per person,2020,428.282,33,34,
+CYP,Cyprus,Kilogrammes per person,2021,444.2678,33,34,
+CYP,Cyprus,Kilogrammes per person,2022,461.6448,33,34,
+CYP,Cyprus,Kilogrammes per person,2023,470.8567,33,34,
+CYP,Cyprus,Kilogrammes per person,2024,492.5767,33,34,
+GEO,Georgia,Kilogrammes per person,2015,204.3215,43,42,
+GEO,Georgia,Kilogrammes per person,2016,229.506,43,42,
+GEO,Georgia,Kilogrammes per person,2017,243.1148,43,42,
+GEO,Georgia,Kilogrammes per person,2018,257.5578,43,42,
+GEO,Georgia,Kilogrammes per person,2019,261.9628,43,42,
+GEO,Georgia,Kilogrammes per person,2020,256.4232,43,42,
+GEO,Georgia,Kilogrammes per person,2021,265.5175,43,42,
+GEO,Georgia,Kilogrammes per person,2022,275.4044,43,42,
+GEO,Georgia,Kilogrammes per person,2023,293.2639,43,42,
+GEO,Georgia,Kilogrammes per person,2024,310.9513,43,42,
+IND,India,Kilogrammes per person,2016,32.35732,79,22,
+IND,India,Kilogrammes per person,2018,40.37946,79,22,
+IND,India,Kilogrammes per person,2019,39.61596,79,22,
+IND,India,Kilogrammes per person,2020,41.64656,79,22,
+IND,India,Kilogrammes per person,2021,43.96377,79,22,
+IDN,Indonesia,Kilogrammes per person,2015,23.02069,117,-2,
+IDN,Indonesia,Kilogrammes per person,2016,34.90512,117,-2,
+IDN,Indonesia,Kilogrammes per person,2020,35.67133,117,-2,
+MLT,Malta,Kilogrammes per person,2015,641.5977,14,35,
+MLT,Malta,Kilogrammes per person,2016,641.9675,14,35,
+MLT,Malta,Kilogrammes per person,2017,666.0765,14,35,
+MLT,Malta,Kilogrammes per person,2018,672.2646,14,35,
+MLT,Malta,Kilogrammes per person,2019,697.1077,14,35,
+MLT,Malta,Kilogrammes per person,2020,639.0151,14,35,
+MLT,Malta,Kilogrammes per person,2021,603.7708,14,35,
+MLT,Malta,Kilogrammes per person,2022,621.7623,14,35,
+MLT,Malta,Kilogrammes per person,2023,625.2637,14,35,
+MLT,Malta,Kilogrammes per person,2024,655.1522,14,35,
+MDA,Moldova,Kilogrammes per person,2015,155.1909,28,47,
+MDA,Moldova,Kilogrammes per person,2016,174.7301,28,47,
+MDA,Moldova,Kilogrammes per person,2017,185.2195,28,47,
+MDA,Moldova,Kilogrammes per person,2018,181.2743,28,47,
+MDA,Moldova,Kilogrammes per person,2019,199.2481,28,47,
+MDA,Moldova,Kilogrammes per person,2020,227.3282,28,47,
+MDA,Moldova,Kilogrammes per person,2021,254.1853,28,47,
+MNE,Montenegro,Kilogrammes per person,2015,493.1043,19,42,
+MNE,Montenegro,Kilogrammes per person,2016,491.0717,19,42,
+MNE,Montenegro,Kilogrammes per person,2017,491.5612,19,42,
+MNE,Montenegro,Kilogrammes per person,2018,520.938,19,42,
+MNE,Montenegro,Kilogrammes per person,2019,553.7425,19,42,
+MNE,Montenegro,Kilogrammes per person,2020,496.9018,19,42,
+MNE,Montenegro,Kilogrammes per person,2021,527.7626,19,42,
+MNE,Montenegro,Kilogrammes per person,2022,539.3333,19,42,
+MNE,Montenegro,Kilogrammes per person,2023,557.8816,19,42,
+MNE,Montenegro,Kilogrammes per person,2024,571.2795,19,42,
+MKD,North Macedonia,Kilogrammes per person,2015,396.8963,21,41,
+MKD,North Macedonia,Kilogrammes per person,2018,445.3054,21,41,
+MKD,North Macedonia,Kilogrammes per person,2019,482.6746,21,41,
+MKD,North Macedonia,Kilogrammes per person,2020,487.7275,21,41,
+MKD,North Macedonia,Kilogrammes per person,2021,484.0701,21,41,
+MKD,North Macedonia,Kilogrammes per person,2022,465.5748,21,41,
+MKD,North Macedonia,Kilogrammes per person,2023,479.4748,21,41,
+ROU,Romania,Kilogrammes per person,2015,246.7684,24,45,
+ROU,Romania,Kilogrammes per person,2016,260.0256,24,45,
+ROU,Romania,Kilogrammes per person,2017,270.865,24,45,
+ROU,Romania,Kilogrammes per person,2018,270.2457,24,45,
+ROU,Romania,Kilogrammes per person,2019,278.457,24,45,
+ROU,Romania,Kilogrammes per person,2020,289.7628,24,45,
+ROU,Romania,Kilogrammes per person,2021,300.1349,24,45,
+ROU,Romania,Kilogrammes per person,2022,300.9091,24,45,
+ROU,Romania,Kilogrammes per person,2023,304.5072,24,45,
+SAU,Saudi Arabia,Kilogrammes per person,2020,80.76485,44,24,
+SRB,Serbia,Kilogrammes per person,2015,256.3655,20,44,
+SRB,Serbia,Kilogrammes per person,2016,265.2228,20,44,
+SRB,Serbia,Kilogrammes per person,2017,303.9511,20,44,
+SRB,Serbia,Kilogrammes per person,2018,317.663,20,44,
+SRB,Serbia,Kilogrammes per person,2019,337.3455,20,44,
+SRB,Serbia,Kilogrammes per person,2020,426.6903,20,44,
+SRB,Serbia,Kilogrammes per person,2021,442.0703,20,44,
+SRB,Serbia,Kilogrammes per person,2022,468.0711,20,44,
+SRB,Serbia,Kilogrammes per person,2023,457.0103,20,44,
+THA,Thailand,Kilogrammes per person,2016,382.0217,101,15,
+THA,Thailand,Kilogrammes per person,2017,384.6252,101,15,
+THA,Thailand,Kilogrammes per person,2018,391.3496,101,15,
+THA,Thailand,Kilogrammes per person,2019,401.4414,101,15,
+THA,Thailand,Kilogrammes per person,2020,354.1244,101,15,
+THA,Thailand,Kilogrammes per person,2021,348.2633,101,15,
+UKR,Ukraine,Kilogrammes per person,2015,250.9954,31,49,
+UKR,Ukraine,Kilogrammes per person,2016,253.4722,31,49,
+UKR,Ukraine,Kilogrammes per person,2017,248.0674,31,49,
+UKR,Ukraine,Kilogrammes per person,2018,262.2758,31,49,
+UKR,Ukraine,Kilogrammes per person,2019,262.308,31,49,
+UKR,Ukraine,Kilogrammes per person,2020,282.7864,31,49,
+UKR,Ukraine,Kilogrammes per person,2021,296.3071,31,49,
+UKR,Ukraine,Kilogrammes per person,2022,232.8182,31,49,
+UKR,Ukraine,Kilogrammes per person,2023,254.5793,31,49,
