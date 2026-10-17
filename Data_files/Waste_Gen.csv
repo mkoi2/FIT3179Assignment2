@@ -1,0 +1,567 @@
+REF_AREA,Reference area,Unit of measure,TIME_PERIOD,OBS_VALUE
+AUT,Austria,Tonnes,2019,5220.28
+FRA,France,Tonnes,2016,36890.63
+FRA,France,Tonnes,2017,37357.2
+FRA,France,Tonnes,2018,37379.89
+FRA,France,Tonnes,2019,37407.02
+FRA,France,Tonnes,2020,36095.97
+FRA,France,Tonnes,2021,38272.35
+FRA,France,Tonnes,2022,36420.82
+FRA,France,Tonnes,2023,36034.61
+DEU,Germany,Tonnes,2019,50611.789
+GRC,Greece,Tonnes,2024,5440.27
+LUX,Luxembourg,Tonnes,2019,490.7042472
+NLD,Netherlands,Tonnes,2021,9003
+NLD,Netherlands,Tonnes,2022,8365
+POL,Poland,Tonnes,2015,10863
+POL,Poland,Tonnes,2016,11654.34484
+POL,Poland,Tonnes,2017,11968.71696
+ESP,Spain,Tonnes,2023,22432.96
+ESP,Spain,Tonnes,2024,22291.741
+TUR,Turkey,Tonnes,2015,31283
+TUR,Turkey,Tonnes,2017,34173
+TUR,Turkey,Tonnes,2018,34533
+TUR,Turkey,Tonnes,2019,35017.39205
+TUR,Turkey,Tonnes,2021,35022.12804
+TUR,Turkey,Tonnes,2023,32457.47245
+OECD,OECD,Tonnes,2015,678884
+OECD,OECD,Tonnes,2016,695796
+OECD,OECD,Tonnes,2017,699003
+OECD,OECD,Tonnes,2018,725100
+OECD,OECD,Tonnes,2019,729520
+OECD,OECD,Tonnes,2020,727854
+OECD,OECD,Tonnes,2021,747266
+OECD,OECD,Tonnes,2022,724502
+OECD,OECD,Tonnes,2023,719346
+OECD,OECD,Tonnes,2024,725083
+OECDA,OECD America,Tonnes,2015,319129
+OECDA,OECD America,Tonnes,2016,325897
+OECDA,OECD America,Tonnes,2017,327727
+OECDA,OECD America,Tonnes,2018,351650
+OECDA,OECD America,Tonnes,2019,352987
+OECDA,OECD America,Tonnes,2020,343456
+OECDA,OECD America,Tonnes,2021,356533
+OECDA,OECD America,Tonnes,2022,347562
+OECDA,OECD America,Tonnes,2023,344525
+OECDA,OECD America,Tonnes,2024,347053
+OECDSO,OECD Asia Oceania,Tonnes,2015,85554
+OECDSO,OECD Asia Oceania,Tonnes,2016,85182
+OECDSO,OECD Asia Oceania,Tonnes,2017,84507
+OECDSO,OECD Asia Oceania,Tonnes,2018,85660
+OECDSO,OECD Asia Oceania,Tonnes,2019,86287
+OECDSO,OECD Asia Oceania,Tonnes,2020,86991
+OECDSO,OECD Asia Oceania,Tonnes,2021,87169
+OECDSO,OECD Asia Oceania,Tonnes,2022,86821
+OECDSO,OECD Asia Oceania,Tonnes,2023,85013
+OECDSO,OECD Asia Oceania,Tonnes,2024,84601
+OECDE,OECD Europe,Tonnes,2015,274200
+OECDE,OECD Europe,Tonnes,2016,284717
+OECDE,OECD Europe,Tonnes,2017,286769
+OECDE,OECD Europe,Tonnes,2018,287790
+OECDE,OECD Europe,Tonnes,2019,290245
+OECDE,OECD Europe,Tonnes,2020,297407
+OECDE,OECD Europe,Tonnes,2021,303564
+OECDE,OECD Europe,Tonnes,2022,290119
+OECDE,OECD Europe,Tonnes,2023,289808
+OECDE,OECD Europe,Tonnes,2024,293429
+BIH,Bosnia and Herzegovina,Tonnes,2020,1206.1473
+BIH,Bosnia and Herzegovina,Tonnes,2021,1228.916
+BIH,Bosnia and Herzegovina,Tonnes,2022,1184.449
+BIH,Bosnia and Herzegovina,Tonnes,2023,1185.89865
+CYP,Cyprus,Tonnes,2022,614.62
+CYP,Cyprus,Tonnes,2024,669.058
+MNE,Montenegro,Tonnes,2015,309.741
+MNE,Montenegro,Tonnes,2016,306.551
+MNE,Montenegro,Tonnes,2017,304.824
+MNE,Montenegro,Tonnes,2018,320.791
+MNE,Montenegro,Tonnes,2019,338.706
+MNE,Montenegro,Tonnes,2020,302.084
+MNE,Montenegro,Tonnes,2021,318.69
+MNE,Montenegro,Tonnes,2022,331.5001
+MNE,Montenegro,Tonnes,2023,353.447
+MNE,Montenegro,Tonnes,2024,364.75
+MKD,North Macedonia,Tonnes,2020,913.03313
+MKD,North Macedonia,Tonnes,2021,896.06596
+MKD,North Macedonia,Tonnes,2022,856.76607
+MKD,North Macedonia,Tonnes,2023,878.30288
+AUT,Austria,Tonnes,2020,7437.656
+CRI,Costa Rica,Tonnes,2024,3412
+CZE,Czechia,Tonnes,2017,5176.512758
+FRA,France,Tonnes,2024,34483.995
+GRC,Greece,Tonnes,2020,5334.857
+IRL,Ireland,Tonnes,2015,2619.02
+IRL,Ireland,Tonnes,2020,3210.219646
+LUX,Luxembourg,Tonnes,2016,474.0908164
+NOR,Norway,Tonnes,2016,3946.17
+NOR,Norway,Tonnes,2020,3904.995
+PRT,Portugal,Tonnes,2015,4768.81362
+SWE,Sweden,Tonnes,2020,4459.807
+SWE,Sweden,Tonnes,2024,4513.17
+TUR,Turkey,Tonnes,2016,33763
+USA,United States of America,Tonnes,2018,265224.5
+AUS,Australia,Tonnes,2015,14188.72154
+AUS,Australia,Tonnes,2016,13369.81609
+AUS,Australia,Tonnes,2017,12852.35528
+AUS,Australia,Tonnes,2018,12903.8598
+AUS,Australia,Tonnes,2019,12919.1436
+AUS,Australia,Tonnes,2020,13201.8117
+AUS,Australia,Tonnes,2021,13454.17673
+AUS,Australia,Tonnes,2022,13630.10212
+AUS,Australia,Tonnes,2023,13480.50893
+AUT,Austria,Tonnes,2015,4836
+AUT,Austria,Tonnes,2016,4928.4
+AUT,Austria,Tonnes,2017,5017.6
+AUT,Austria,Tonnes,2018,5119
+AUT,Austria,Tonnes,2021,7475.760103
+AUT,Austria,Tonnes,2022,7261.357495
+AUT,Austria,Tonnes,2023,7141.900789
+AUT,Austria,Tonnes,2024,7116.386478
+BEL,Belgium,Tonnes,2015,4642.622625
+BEL,Belgium,Tonnes,2016,4745.780399
+BEL,Belgium,Tonnes,2017,4671.867809
+BEL,Belgium,Tonnes,2018,4677.384838
+BEL,Belgium,Tonnes,2019,4779.342
+BEL,Belgium,Tonnes,2020,8407.575356
+BEL,Belgium,Tonnes,2021,8752.926424
+BEL,Belgium,Tonnes,2022,8055.424164
+BEL,Belgium,Tonnes,2023,8104.24487
+BEL,Belgium,Tonnes,2024,8282.473648
+CHL,Chile,Tonnes,2015,7197.35
+CHL,Chile,Tonnes,2016,7228.65
+CHL,Chile,Tonnes,2017,8121.99
+CHL,Chile,Tonnes,2018,8177.45
+CHL,Chile,Tonnes,2019,7860.84
+CHL,Chile,Tonnes,2020,7895.8103
+CHL,Chile,Tonnes,2021,9062.7524
+CHL,Chile,Tonnes,2022,8669.222
+CHL,Chile,Tonnes,2023,8651.81308
+COL,Colombia,Tonnes,2015,9967.84
+COL,Colombia,Tonnes,2016,11400.04
+COL,Colombia,Tonnes,2017,10856.98
+COL,Colombia,Tonnes,2018,12082.51
+CRI,Costa Rica,Tonnes,2015,1877
+CRI,Costa Rica,Tonnes,2016,1218
+CRI,Costa Rica,Tonnes,2017,1267
+CRI,Costa Rica,Tonnes,2018,1462
+CRI,Costa Rica,Tonnes,2019,1344
+CRI,Costa Rica,Tonnes,2020,1459.29
+CRI,Costa Rica,Tonnes,2021,1618.5
+CRI,Costa Rica,Tonnes,2022,1615.8
+CRI,Costa Rica,Tonnes,2023,1710.35
+CZE,Czechia,Tonnes,2015,3337.336
+CZE,Czechia,Tonnes,2016,3579.614426
+CZE,Czechia,Tonnes,2018,5247.651609
+CZE,Czechia,Tonnes,2019,5337.520832
+CZE,Czechia,Tonnes,2020,5814.091541
+CZE,Czechia,Tonnes,2021,5990.987538
+CZE,Czechia,Tonnes,2022,5854.389
+CZE,Czechia,Tonnes,2023,5840.29
+CZE,Czechia,Tonnes,2024,6364.534
+DNK,Denmark,Tonnes,2015,4671
+DNK,Denmark,Tonnes,2016,4757
+DNK,Denmark,Tonnes,2017,4728
+DNK,Denmark,Tonnes,2018,4715
+DNK,Denmark,Tonnes,2019,4907.465897
+DNK,Denmark,Tonnes,2020,4744.46958
+DNK,Denmark,Tonnes,2021,4687.863
+DNK,Denmark,Tonnes,2022,4477.853
+DNK,Denmark,Tonnes,2023,4512.705
+DNK,Denmark,Tonnes,2024,4533.233
+EST,Estonia,Tonnes,2015,472.55
+EST,Estonia,Tonnes,2016,494.36
+EST,Estonia,Tonnes,2017,513.64
+EST,Estonia,Tonnes,2018,535.49
+EST,Estonia,Tonnes,2019,489.771
+EST,Estonia,Tonnes,2020,509.497
+EST,Estonia,Tonnes,2021,525.373
+EST,Estonia,Tonnes,2022,503.1637378
+EST,Estonia,Tonnes,2023,511.551
+EST,Estonia,Tonnes,2024,514.289
+FIN,Finland,Tonnes,2015,2738.28
+FIN,Finland,Tonnes,2016,2767.93
+FIN,Finland,Tonnes,2017,2811.59
+FIN,Finland,Tonnes,2018,3041.08
+FIN,Finland,Tonnes,2019,3122.705
+FIN,Finland,Tonnes,2020,3369.625
+FIN,Finland,Tonnes,2021,3490.676
+FIN,Finland,Tonnes,2022,2898.043
+FIN,Finland,Tonnes,2023,2612.302
+FIN,Finland,Tonnes,2024,2570.255
+FRA,France,Tonnes,2015,34344
+DEU,Germany,Tonnes,2015,51625
+DEU,Germany,Tonnes,2016,52133
+DEU,Germany,Tonnes,2017,51790
+DEU,Germany,Tonnes,2018,50259.96875
+DEU,Germany,Tonnes,2020,53321.5573
+DEU,Germany,Tonnes,2021,53870.7239
+DEU,Germany,Tonnes,2022,50606.4095
+DEU,Germany,Tonnes,2023,51016.68257
+DEU,Germany,Tonnes,2024,51448.65057
+GRC,Greece,Tonnes,2015,5277
+GRC,Greece,Tonnes,2016,5367
+GRC,Greece,Tonnes,2017,5415
+GRC,Greece,Tonnes,2018,5523
+GRC,Greece,Tonnes,2019,5613.179
+GRC,Greece,Tonnes,2021,5381.417
+GRC,Greece,Tonnes,2022,5420.179
+GRC,Greece,Tonnes,2023,5440.27
+HUN,Hungary,Tonnes,2015,3712
+HUN,Hungary,Tonnes,2016,3721
+HUN,Hungary,Tonnes,2017,3768
+HUN,Hungary,Tonnes,2018,3729
+HUN,Hungary,Tonnes,2019,3780
+HUN,Hungary,Tonnes,2020,3930.999
+HUN,Hungary,Tonnes,2021,4041.542
+HUN,Hungary,Tonnes,2022,3910.913
+HUN,Hungary,Tonnes,2023,4114.745
+HUN,Hungary,Tonnes,2024,3956.662
+ISL,Iceland,Tonnes,2015,194.554
+ISL,Iceland,Tonnes,2016,219.861
+ISL,Iceland,Tonnes,2017,225.347
+ISL,Iceland,Tonnes,2018,247.495
+ISL,Iceland,Tonnes,2019,250.39
+ISL,Iceland,Tonnes,2020,225.078
+ISL,Iceland,Tonnes,2021,245.654
+ISL,Iceland,Tonnes,2022,227.352
+ISL,Iceland,Tonnes,2023,223.50196
+ISL,Iceland,Tonnes,2024,216.924577
+IRL,Ireland,Tonnes,2016,2763.167
+IRL,Ireland,Tonnes,2017,2768.043
+IRL,Ireland,Tonnes,2018,2912.353
+IRL,Ireland,Tonnes,2019,3085.652
+IRL,Ireland,Tonnes,2021,3164.123584
+IRL,Ireland,Tonnes,2022,3190.8262
+IRL,Ireland,Tonnes,2023,3134.83996
+IRL,Ireland,Tonnes,2024,3108.749
+ISR,Israel,Tonnes,2015,5081.651345
+ISR,Israel,Tonnes,2016,5261.410983
+ISR,Israel,Tonnes,2017,5434.652957
+ISR,Israel,Tonnes,2018,5658.205813
+ISR,Israel,Tonnes,2019,5759.267997
+ISR,Israel,Tonnes,2020,5976.029729
+ISR,Israel,Tonnes,2021,6147.780768
+ISR,Israel,Tonnes,2022,6193.225798
+ISR,Israel,Tonnes,2023,6259.111791
+ISR,Israel,Tonnes,2024,6382.96963
+ITA,Italy,Tonnes,2015,29524
+ITA,Italy,Tonnes,2016,30112
+ITA,Italy,Tonnes,2017,29572
+ITA,Italy,Tonnes,2018,30165
+ITA,Italy,Tonnes,2019,30023
+ITA,Italy,Tonnes,2020,28945.09442
+ITA,Italy,Tonnes,2021,29254.384
+ITA,Italy,Tonnes,2022,28692.05712
+ITA,Italy,Tonnes,2023,28840.41216
+ITA,Italy,Tonnes,2024,29495.79941
+JPN,Japan,Tonnes,2015,43981
+JPN,Japan,Tonnes,2016,43170
+JPN,Japan,Tonnes,2017,42894
+JPN,Japan,Tonnes,2018,42727
+JPN,Japan,Tonnes,2019,42737
+JPN,Japan,Tonnes,2020,41669
+JPN,Japan,Tonnes,2021,40953
+JPN,Japan,Tonnes,2023,38974
+KOR,Korea,Tonnes,2015,18705
+KOR,Korea,Tonnes,2016,19627
+KOR,Korea,Tonnes,2017,19523.6675
+KOR,Korea,Tonnes,2018,20452.921
+KOR,Korea,Tonnes,2019,21155.91
+KOR,Korea,Tonnes,2020,22544.634
+KOR,Korea,Tonnes,2021,22695
+KOR,Korea,Tonnes,2022,23038
+KOR,Korea,Tonnes,2023,22416
+LVA,Latvia,Tonnes,2015,798.061
+LVA,Latvia,Tonnes,2016,802.473
+LVA,Latvia,Tonnes,2017,798.187
+LVA,Latvia,Tonnes,2018,785.074
+LVA,Latvia,Tonnes,2019,840.413
+LVA,Latvia,Tonnes,2020,908.96
+LVA,Latvia,Tonnes,2021,869.285
+LVA,Latvia,Tonnes,2022,871.612
+LVA,Latvia,Tonnes,2023,823.919
+LVA,Latvia,Tonnes,2024,862.954
+LTU,Lithuania,Tonnes,2015,1299.998
+LTU,Lithuania,Tonnes,2016,1272.061
+LTU,Lithuania,Tonnes,2017,1286.434
+LTU,Lithuania,Tonnes,2018,1300.572
+LTU,Lithuania,Tonnes,2019,1318.625742
+LTU,Lithuania,Tonnes,2020,1349.947
+LTU,Lithuania,Tonnes,2021,1345.007
+LTU,Lithuania,Tonnes,2022,1316.971
+LTU,Lithuania,Tonnes,2023,1281.801553
+LTU,Lithuania,Tonnes,2024,1333.377
+LUX,Luxembourg,Tonnes,2015,345.95
+LUX,Luxembourg,Tonnes,2017,475.8288223
+LUX,Luxembourg,Tonnes,2018,488.312132
+LUX,Luxembourg,Tonnes,2020,497.7643961
+LUX,Luxembourg,Tonnes,2021,507.5859269
+LUX,Luxembourg,Tonnes,2022,470.68804
+LUX,Luxembourg,Tonnes,2023,478.3316382
+LUX,Luxembourg,Tonnes,2024,494.35113
+MEX,Mexico,Tonnes,2016,38228.25
+MEX,Mexico,Tonnes,2018,39075.27
+MEX,Mexico,Tonnes,2020,38880.95
+MEX,Mexico,Tonnes,2022,39473.38928
+NLD,Netherlands,Tonnes,2015,8866
+NLD,Netherlands,Tonnes,2016,8861
+NLD,Netherlands,Tonnes,2017,8792
+NLD,Netherlands,Tonnes,2018,8806
+NLD,Netherlands,Tonnes,2019,8806
+NLD,Netherlands,Tonnes,2020,9300
+NLD,Netherlands,Tonnes,2023,8316
+NLD,Netherlands,Tonnes,2024,8504
+NZL,New Zealand,Tonnes,2015,3598
+NZL,New Zealand,Tonnes,2016,3754
+NZL,New Zealand,Tonnes,2017,3802
+NZL,New Zealand,Tonnes,2018,3918
+NZL,New Zealand,Tonnes,2019,3716
+NZL,New Zealand,Tonnes,2020,3600
+NZL,New Zealand,Tonnes,2021,3919
+NZL,New Zealand,Tonnes,2022,4008
+NZL,New Zealand,Tonnes,2023,3883
+NZL,New Zealand,Tonnes,2024,3348
+NOR,Norway,Tonnes,2015,2187.22
+NOR,Norway,Tonnes,2017,3949.21
+NOR,Norway,Tonnes,2018,3926.9
+NOR,Norway,Tonnes,2019,4150.794659
+NOR,Norway,Tonnes,2021,4320.278
+NOR,Norway,Tonnes,2022,4189.471
+NOR,Norway,Tonnes,2023,3997.338
+NOR,Norway,Tonnes,2024,3991.77214
+POL,Poland,Tonnes,2018,12485.425
+POL,Poland,Tonnes,2019,12752.77817
+POL,Poland,Tonnes,2020,13116.89783
+POL,Poland,Tonnes,2021,13673.58314
+POL,Poland,Tonnes,2022,13420.298
+POL,Poland,Tonnes,2023,13447.908
+POL,Poland,Tonnes,2024,14158.394
+PRT,Portugal,Tonnes,2016,4890.592409
+PRT,Portugal,Tonnes,2017,5006.550487
+PRT,Portugal,Tonnes,2018,5213.14778
+PRT,Portugal,Tonnes,2019,5281.384094
+PRT,Portugal,Tonnes,2020,5278.502
+PRT,Portugal,Tonnes,2021,5310.546516
+PRT,Portugal,Tonnes,2022,5323.199
+PRT,Portugal,Tonnes,2023,5338.13109
+PRT,Portugal,Tonnes,2024,5552.02859
+SVK,Slovak Republic,Tonnes,2015,1784.18
+SVK,Slovak Republic,Tonnes,2016,1889.53
+SVK,Slovak Republic,Tonnes,2017,2057.79
+SVK,Slovak Republic,Tonnes,2018,2254.09
+SVK,Slovak Republic,Tonnes,2019,2298.860214
+SVK,Slovak Republic,Tonnes,2020,2611.556097
+SVK,Slovak Republic,Tonnes,2021,2705.327117
+SVK,Slovak Republic,Tonnes,2022,2597.456683
+SVK,Slovak Republic,Tonnes,2023,2560.970562
+SVK,Slovak Republic,Tonnes,2024,2649.365029
+SVN,Slovenia,Tonnes,2015,925.94
+SVN,Slovenia,Tonnes,2016,942.84
+SVN,Slovenia,Tonnes,2017,974.1
+SVN,Slovenia,Tonnes,2018,1008.53
+SVN,Slovenia,Tonnes,2019,1052.255
+SVN,Slovenia,Tonnes,2020,1024.076
+SVN,Slovenia,Tonnes,2021,1077.143
+SVN,Slovenia,Tonnes,2022,1029.073
+SVN,Slovenia,Tonnes,2023,1096.856
+SVN,Slovenia,Tonnes,2024,1118.207
+ESP,Spain,Tonnes,2015,21157.8
+ESP,Spain,Tonnes,2016,21541.8
+ESP,Spain,Tonnes,2017,22017.9
+ESP,Spain,Tonnes,2018,22222.987
+ESP,Spain,Tonnes,2019,22240.44
+ESP,Spain,Tonnes,2020,21928.365
+ESP,Spain,Tonnes,2021,22852.582
+ESP,Spain,Tonnes,2022,23152.9456
+SWE,Sweden,Tonnes,2015,4421.57
+SWE,Sweden,Tonnes,2016,4439.4
+SWE,Sweden,Tonnes,2017,4550.93
+SWE,Sweden,Tonnes,2018,4415.56
+SWE,Sweden,Tonnes,2019,4610.82
+SWE,Sweden,Tonnes,2021,4352.135
+SWE,Sweden,Tonnes,2022,4139.374
+SWE,Sweden,Tonnes,2023,4134.001
+CHE,Switzerland,Tonnes,2015,6030
+CHE,Switzerland,Tonnes,2016,6050
+CHE,Switzerland,Tonnes,2017,5992
+CHE,Switzerland,Tonnes,2018,6012
+CHE,Switzerland,Tonnes,2019,6079
+CHE,Switzerland,Tonnes,2020,6096
+CHE,Switzerland,Tonnes,2021,6130
+CHE,Switzerland,Tonnes,2022,5943
+CHE,Switzerland,Tonnes,2023,6027
+CHE,Switzerland,Tonnes,2024,6038
+TUR,Turkey,Tonnes,2020,34581.2878
+TUR,Turkey,Tonnes,2022,32422.18196
+TUR,Turkey,Tonnes,2024,34370.91517
+GBR,United Kingdom,Tonnes,2015,31475.011
+GBR,United Kingdom,Tonnes,2016,31709.994
+GBR,United Kingdom,Tonnes,2017,30911.817
+GBR,United Kingdom,Tonnes,2018,30786.233
+GBR,United Kingdom,Tonnes,2019,30677.525
+GBR,United Kingdom,Tonnes,2020,31002.169
+GBR,United Kingdom,Tonnes,2021,31242
+GBR,United Kingdom,Tonnes,2022,29359
+GBR,United Kingdom,Tonnes,2023,29887.681
+GBR,United Kingdom,Tonnes,2024,30018.04
+USA,United States of America,Tonnes,2015,237782.19
+USA,United States of America,Tonnes,2016,243225
+USA,United States of America,Tonnes,2017,243724.3
+EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2015,213424
+EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2016,219577
+EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2017,222511
+EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2018,223119
+EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2019,225350
+EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2020,232870
+EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2021,238229
+EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2022,230180
+EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2023,229129
+ARG,Argentina,Tonnes,2019,18863.0244
+ARG,Argentina,Tonnes,2020,19046.8963
+ARG,Argentina,Tonnes,2021,19228.2216
+ARG,Argentina,Tonnes,2022,19327
+ARM,Armenia,Tonnes,2015,492.8
+ARM,Armenia,Tonnes,2016,499.7
+ARM,Armenia,Tonnes,2017,493.9
+ARM,Armenia,Tonnes,2018,469.9
+ARM,Armenia,Tonnes,2019,472.8
+ARM,Armenia,Tonnes,2020,573.2
+ARM,Armenia,Tonnes,2021,487.4
+ARM,Armenia,Tonnes,2022,532.7
+ARM,Armenia,Tonnes,2023,433.3
+AZE,Azerbaijan,Tonnes,2015,1535
+AZE,Azerbaijan,Tonnes,2016,1590
+AZE,Azerbaijan,Tonnes,2017,1576
+AZE,Azerbaijan,Tonnes,2018,1756
+AZE,Azerbaijan,Tonnes,2019,2022
+AZE,Azerbaijan,Tonnes,2020,2367
+AZE,Azerbaijan,Tonnes,2021,2583
+AZE,Azerbaijan,Tonnes,2022,2657
+AZE,Azerbaijan,Tonnes,2023,2720
+BGD,Bangladesh,Tonnes,2019,8003.627
+BGD,Bangladesh,Tonnes,2020,7199.224
+BGD,Bangladesh,Tonnes,2021,7413.839
+BLR,Belarus,Tonnes,2015,3734.6
+BLR,Belarus,Tonnes,2016,3794
+BLR,Belarus,Tonnes,2017,3801.4
+BLR,Belarus,Tonnes,2018,3795.3
+BLR,Belarus,Tonnes,2019,3784.8
+BLR,Belarus,Tonnes,2020,4070.4
+BLR,Belarus,Tonnes,2021,3970.2
+BLR,Belarus,Tonnes,2022,3994.3
+BLR,Belarus,Tonnes,2023,3982.6
+BIH,Bosnia and Herzegovina,Tonnes,2015,1249
+BIH,Bosnia and Herzegovina,Tonnes,2016,1244
+BIH,Bosnia and Herzegovina,Tonnes,2017,1235
+BIH,Bosnia and Herzegovina,Tonnes,2018,1244
+BIH,Bosnia and Herzegovina,Tonnes,2019,1228.309
+BIH,Bosnia and Herzegovina,Tonnes,2024,1122.533
+BRA,Brazil,Tonnes,2015,34018.73
+BGR,Bulgaria,Tonnes,2015,3011
+BGR,Bulgaria,Tonnes,2016,2881
+BGR,Bulgaria,Tonnes,2017,3080
+BGR,Bulgaria,Tonnes,2018,2862
+BGR,Bulgaria,Tonnes,2019,3080
+BGR,Bulgaria,Tonnes,2020,2828.761
+BGR,Bulgaria,Tonnes,2021,3058.061
+BGR,Bulgaria,Tonnes,2022,3157.279
+BGR,Bulgaria,Tonnes,2023,3156
+BGR,Bulgaria,Tonnes,2024,3192
+CHN,China ,Tonnes,2015,191419
+CHN,China ,Tonnes,2016,203620
+CHN,China ,Tonnes,2017,215209
+CHN,China ,Tonnes,2018,228018
+CHN,China ,Tonnes,2019,242062
+CHN,China ,Tonnes,2020,235117
+CHN,China ,Tonnes,2021,248692
+CHN,China ,Tonnes,2022,244447
+CHN,China ,Tonnes,2023,254078
+HRV,Croatia,Tonnes,2015,1653.92
+HRV,Croatia,Tonnes,2016,1679.76
+HRV,Croatia,Tonnes,2017,1716.44
+HRV,Croatia,Tonnes,2018,1768.411
+HRV,Croatia,Tonnes,2019,1811.617
+HRV,Croatia,Tonnes,2020,1692.966
+HRV,Croatia,Tonnes,2021,1766.56
+HRV,Croatia,Tonnes,2022,1844.382
+HRV,Croatia,Tonnes,2023,1833.3411
+HRV,Croatia,Tonnes,2024,1878.801584
+CYP,Cyprus,Tonnes,2015,539.75
+CYP,Cyprus,Tonnes,2016,552.941
+CYP,Cyprus,Tonnes,2017,551.389
+CYP,Cyprus,Tonnes,2018,575.634
+CYP,Cyprus,Tonnes,2019,585.731
+CYP,Cyprus,Tonnes,2020,557.729
+CYP,Cyprus,Tonnes,2021,585.238
+CYP,Cyprus,Tonnes,2023,633.291
+GEO,Georgia,Tonnes,2015,774.7
+GEO,Georgia,Tonnes,2016,870.3
+GEO,Georgia,Tonnes,2017,922.1
+GEO,Georgia,Tonnes,2018,977.4
+GEO,Georgia,Tonnes,2019,994.6
+GEO,Georgia,Tonnes,2020,973.3
+GEO,Georgia,Tonnes,2021,1005.9
+GEO,Georgia,Tonnes,2022,1045.1
+GEO,Georgia,Tonnes,2023,1116.6
+GEO,Georgia,Tonnes,2024,1184
+IND,India,Tonnes,2016,43486.4285
+IND,India,Tonnes,2018,55507.9955
+IND,India,Tonnes,2019,55027.765
+IND,India,Tonnes,2020,58414.1985
+IND,India,Tonnes,2021,62173.735
+IDN,Indonesia,Tonnes,2015,6026.797852
+IDN,Indonesia,Tonnes,2016,9236.850586
+IDN,Indonesia,Tonnes,2017,9536.610352
+MLT,Malta,Tonnes,2015,285.4987975
+MLT,Malta,Tonnes,2016,292.26791
+MLT,Malta,Tonnes,2017,311.6585068
+MLT,Malta,Tonnes,2018,325.751206
+MLT,Malta,Tonnes,2019,351.352763
+MLT,Malta,Tonnes,2020,331.142086
+MLT,Malta,Tonnes,2021,316.6029378
+MLT,Malta,Tonnes,2022,328.4098755
+MLT,Malta,Tonnes,2023,333.238043
+MLT,Malta,Tonnes,2024,353.5247239
+MDA,Moldova,Tonnes,2015,510.138018
+MDA,Moldova,Tonnes,2016,565.74
+MDA,Moldova,Tonnes,2017,591.498
+MDA,Moldova,Tonnes,2018,571.698
+MDA,Moldova,Tonnes,2019,620.172
+MDA,Moldova,Tonnes,2020,697.7
+MDA,Moldova,Tonnes,2021,768.6
+MKD,North Macedonia,Tonnes,2015,786
+MKD,North Macedonia,Tonnes,2018,854.8651509
+MKD,North Macedonia,Tonnes,2019,915.94309
+ROU,Romania,Tonnes,2015,4903.54
+ROU,Romania,Tonnes,2016,5142.54
+ROU,Romania,Tonnes,2017,5333.17
+ROU,Romania,Tonnes,2018,5296.24
+ROU,Romania,Tonnes,2019,5430.341
+ROU,Romania,Tonnes,2020,5619.216
+ROU,Romania,Tonnes,2021,5777.045
+ROU,Romania,Tonnes,2022,5767.456
+ROU,Romania,Tonnes,2023,5821.714
+SAU,Saudi Arabia,Tonnes,2020,2503
+SRB,Serbia,Tonnes,2015,1840
+SRB,Serbia,Tonnes,2016,1890
+SRB,Serbia,Tonnes,2017,2150
+SRB,Serbia,Tonnes,2018,2230
+SRB,Serbia,Tonnes,2019,2350
+SRB,Serbia,Tonnes,2020,2947.496195
+SRB,Serbia,Tonnes,2021,3021.740859
+SRB,Serbia,Tonnes,2022,3178.770592
+SRB,Serbia,Tonnes,2023,3095.42229
+THA,Thailand,Tonnes,2016,27070
+THA,Thailand,Tonnes,2017,27370
+THA,Thailand,Tonnes,2018,27933
+THA,Thailand,Tonnes,2019,28712
+THA,Thailand,Tonnes,2020,25370
+THA,Thailand,Tonnes,2021,24980
+UKR,Ukraine,Tonnes,2015,11491.8
+UKR,Ukraine,Tonnes,2016,11562.6
+UKR,Ukraine,Tonnes,2017,11271.2
+UKR,Ukraine,Tonnes,2018,11857.2
+UKR,Ukraine,Tonnes,2019,11792.7
+UKR,Ukraine,Tonnes,2020,12634.9
+UKR,Ukraine,Tonnes,2021,13126
+UKR,Ukraine,Tonnes,2022,9556.9
+UKR,Ukraine,Tonnes,2023,9606
