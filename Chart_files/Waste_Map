@@ -55,7 +55,7 @@
                 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Waste_Gen.csv"
                 },
                 "transform": [
-                    {"filter": "datum.TIME_PERIOD == 2018"},
+                    {"filter": "datum.TIME_PERIOD == 2020"},
                     {
                         "lookup": "Reference area",
                         "from":{
@@ -83,16 +83,11 @@
                     }
                 ],
 
-                "mark": {"type": "geoshape"},
+                "mark": {"type": "circle"},
                 "encoding": {
-                    "shape":{"field": "geo", "type": "geojson"},
-                    "color": {
+                    "size": {
                         "field": "OBS_VALUE",
-                        "type": "quantitative",
-                        "scale": {
-                            "type": "linear",
-                            "domain": [0,50]
-                        }
+                        "type": "quantitative"
                     },
                 
                 
@@ -156,4 +151,4 @@
                     }
                 }
 }
-}
+
