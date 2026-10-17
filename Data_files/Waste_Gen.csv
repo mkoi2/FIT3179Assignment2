@@ -1,567 +1,567 @@
 REF_AREA,Reference area,Unit of measure,TIME_PERIOD,OBS_VALUE
-AUT,Austria,Tonnes,2019,5220.28
-FRA,France,Tonnes,2016,36890.63
-FRA,France,Tonnes,2017,37357.2
-FRA,France,Tonnes,2018,37379.89
-FRA,France,Tonnes,2019,37407.02
-FRA,France,Tonnes,2020,36095.97
-FRA,France,Tonnes,2021,38272.35
-FRA,France,Tonnes,2022,36420.82
-FRA,France,Tonnes,2023,36034.61
-DEU,Germany,Tonnes,2019,50611.789
-GRC,Greece,Tonnes,2024,5440.27
-LUX,Luxembourg,Tonnes,2019,490.7042472
-NLD,Netherlands,Tonnes,2021,9003
-NLD,Netherlands,Tonnes,2022,8365
-POL,Poland,Tonnes,2015,10863
-POL,Poland,Tonnes,2016,11654.34484
-POL,Poland,Tonnes,2017,11968.71696
-ESP,Spain,Tonnes,2023,22432.96
-ESP,Spain,Tonnes,2024,22291.741
-TUR,Turkey,Tonnes,2015,31283
-TUR,Turkey,Tonnes,2017,34173
-TUR,Turkey,Tonnes,2018,34533
-TUR,Turkey,Tonnes,2019,35017.39205
-TUR,Turkey,Tonnes,2021,35022.12804
-TUR,Turkey,Tonnes,2023,32457.47245
-OECD,OECD,Tonnes,2015,678884
-OECD,OECD,Tonnes,2016,695796
-OECD,OECD,Tonnes,2017,699003
-OECD,OECD,Tonnes,2018,725100
-OECD,OECD,Tonnes,2019,729520
-OECD,OECD,Tonnes,2020,727854
-OECD,OECD,Tonnes,2021,747266
-OECD,OECD,Tonnes,2022,724502
-OECD,OECD,Tonnes,2023,719346
-OECD,OECD,Tonnes,2024,725083
-OECDA,OECD America,Tonnes,2015,319129
-OECDA,OECD America,Tonnes,2016,325897
-OECDA,OECD America,Tonnes,2017,327727
-OECDA,OECD America,Tonnes,2018,351650
-OECDA,OECD America,Tonnes,2019,352987
-OECDA,OECD America,Tonnes,2020,343456
-OECDA,OECD America,Tonnes,2021,356533
-OECDA,OECD America,Tonnes,2022,347562
-OECDA,OECD America,Tonnes,2023,344525
-OECDA,OECD America,Tonnes,2024,347053
-OECDSO,OECD Asia Oceania,Tonnes,2015,85554
-OECDSO,OECD Asia Oceania,Tonnes,2016,85182
-OECDSO,OECD Asia Oceania,Tonnes,2017,84507
-OECDSO,OECD Asia Oceania,Tonnes,2018,85660
-OECDSO,OECD Asia Oceania,Tonnes,2019,86287
-OECDSO,OECD Asia Oceania,Tonnes,2020,86991
-OECDSO,OECD Asia Oceania,Tonnes,2021,87169
-OECDSO,OECD Asia Oceania,Tonnes,2022,86821
-OECDSO,OECD Asia Oceania,Tonnes,2023,85013
-OECDSO,OECD Asia Oceania,Tonnes,2024,84601
-OECDE,OECD Europe,Tonnes,2015,274200
-OECDE,OECD Europe,Tonnes,2016,284717
-OECDE,OECD Europe,Tonnes,2017,286769
-OECDE,OECD Europe,Tonnes,2018,287790
-OECDE,OECD Europe,Tonnes,2019,290245
-OECDE,OECD Europe,Tonnes,2020,297407
-OECDE,OECD Europe,Tonnes,2021,303564
-OECDE,OECD Europe,Tonnes,2022,290119
-OECDE,OECD Europe,Tonnes,2023,289808
-OECDE,OECD Europe,Tonnes,2024,293429
-BIH,Bosnia and Herzegovina,Tonnes,2020,1206.1473
-BIH,Bosnia and Herzegovina,Tonnes,2021,1228.916
-BIH,Bosnia and Herzegovina,Tonnes,2022,1184.449
-BIH,Bosnia and Herzegovina,Tonnes,2023,1185.89865
-CYP,Cyprus,Tonnes,2022,614.62
-CYP,Cyprus,Tonnes,2024,669.058
-MNE,Montenegro,Tonnes,2015,309.741
-MNE,Montenegro,Tonnes,2016,306.551
-MNE,Montenegro,Tonnes,2017,304.824
-MNE,Montenegro,Tonnes,2018,320.791
-MNE,Montenegro,Tonnes,2019,338.706
-MNE,Montenegro,Tonnes,2020,302.084
-MNE,Montenegro,Tonnes,2021,318.69
-MNE,Montenegro,Tonnes,2022,331.5001
-MNE,Montenegro,Tonnes,2023,353.447
-MNE,Montenegro,Tonnes,2024,364.75
-MKD,North Macedonia,Tonnes,2020,913.03313
-MKD,North Macedonia,Tonnes,2021,896.06596
-MKD,North Macedonia,Tonnes,2022,856.76607
-MKD,North Macedonia,Tonnes,2023,878.30288
-AUT,Austria,Tonnes,2020,7437.656
-CRI,Costa Rica,Tonnes,2024,3412
-CZE,Czechia,Tonnes,2017,5176.512758
-FRA,France,Tonnes,2024,34483.995
-GRC,Greece,Tonnes,2020,5334.857
-IRL,Ireland,Tonnes,2015,2619.02
-IRL,Ireland,Tonnes,2020,3210.219646
-LUX,Luxembourg,Tonnes,2016,474.0908164
-NOR,Norway,Tonnes,2016,3946.17
-NOR,Norway,Tonnes,2020,3904.995
-PRT,Portugal,Tonnes,2015,4768.81362
-SWE,Sweden,Tonnes,2020,4459.807
-SWE,Sweden,Tonnes,2024,4513.17
-TUR,Turkey,Tonnes,2016,33763
-USA,United States of America,Tonnes,2018,265224.5
-AUS,Australia,Tonnes,2015,14188.72154
-AUS,Australia,Tonnes,2016,13369.81609
-AUS,Australia,Tonnes,2017,12852.35528
-AUS,Australia,Tonnes,2018,12903.8598
-AUS,Australia,Tonnes,2019,12919.1436
-AUS,Australia,Tonnes,2020,13201.8117
-AUS,Australia,Tonnes,2021,13454.17673
-AUS,Australia,Tonnes,2022,13630.10212
-AUS,Australia,Tonnes,2023,13480.50893
-AUT,Austria,Tonnes,2015,4836
-AUT,Austria,Tonnes,2016,4928.4
-AUT,Austria,Tonnes,2017,5017.6
-AUT,Austria,Tonnes,2018,5119
-AUT,Austria,Tonnes,2021,7475.760103
-AUT,Austria,Tonnes,2022,7261.357495
-AUT,Austria,Tonnes,2023,7141.900789
-AUT,Austria,Tonnes,2024,7116.386478
-BEL,Belgium,Tonnes,2015,4642.622625
-BEL,Belgium,Tonnes,2016,4745.780399
-BEL,Belgium,Tonnes,2017,4671.867809
-BEL,Belgium,Tonnes,2018,4677.384838
-BEL,Belgium,Tonnes,2019,4779.342
-BEL,Belgium,Tonnes,2020,8407.575356
-BEL,Belgium,Tonnes,2021,8752.926424
-BEL,Belgium,Tonnes,2022,8055.424164
-BEL,Belgium,Tonnes,2023,8104.24487
-BEL,Belgium,Tonnes,2024,8282.473648
-CHL,Chile,Tonnes,2015,7197.35
-CHL,Chile,Tonnes,2016,7228.65
-CHL,Chile,Tonnes,2017,8121.99
-CHL,Chile,Tonnes,2018,8177.45
-CHL,Chile,Tonnes,2019,7860.84
-CHL,Chile,Tonnes,2020,7895.8103
-CHL,Chile,Tonnes,2021,9062.7524
-CHL,Chile,Tonnes,2022,8669.222
-CHL,Chile,Tonnes,2023,8651.81308
-COL,Colombia,Tonnes,2015,9967.84
-COL,Colombia,Tonnes,2016,11400.04
-COL,Colombia,Tonnes,2017,10856.98
-COL,Colombia,Tonnes,2018,12082.51
-CRI,Costa Rica,Tonnes,2015,1877
-CRI,Costa Rica,Tonnes,2016,1218
-CRI,Costa Rica,Tonnes,2017,1267
-CRI,Costa Rica,Tonnes,2018,1462
-CRI,Costa Rica,Tonnes,2019,1344
-CRI,Costa Rica,Tonnes,2020,1459.29
-CRI,Costa Rica,Tonnes,2021,1618.5
-CRI,Costa Rica,Tonnes,2022,1615.8
-CRI,Costa Rica,Tonnes,2023,1710.35
-CZE,Czechia,Tonnes,2015,3337.336
-CZE,Czechia,Tonnes,2016,3579.614426
-CZE,Czechia,Tonnes,2018,5247.651609
-CZE,Czechia,Tonnes,2019,5337.520832
-CZE,Czechia,Tonnes,2020,5814.091541
-CZE,Czechia,Tonnes,2021,5990.987538
-CZE,Czechia,Tonnes,2022,5854.389
-CZE,Czechia,Tonnes,2023,5840.29
-CZE,Czechia,Tonnes,2024,6364.534
-DNK,Denmark,Tonnes,2015,4671
-DNK,Denmark,Tonnes,2016,4757
-DNK,Denmark,Tonnes,2017,4728
-DNK,Denmark,Tonnes,2018,4715
-DNK,Denmark,Tonnes,2019,4907.465897
-DNK,Denmark,Tonnes,2020,4744.46958
-DNK,Denmark,Tonnes,2021,4687.863
-DNK,Denmark,Tonnes,2022,4477.853
-DNK,Denmark,Tonnes,2023,4512.705
-DNK,Denmark,Tonnes,2024,4533.233
-EST,Estonia,Tonnes,2015,472.55
-EST,Estonia,Tonnes,2016,494.36
-EST,Estonia,Tonnes,2017,513.64
-EST,Estonia,Tonnes,2018,535.49
-EST,Estonia,Tonnes,2019,489.771
-EST,Estonia,Tonnes,2020,509.497
-EST,Estonia,Tonnes,2021,525.373
-EST,Estonia,Tonnes,2022,503.1637378
-EST,Estonia,Tonnes,2023,511.551
-EST,Estonia,Tonnes,2024,514.289
-FIN,Finland,Tonnes,2015,2738.28
-FIN,Finland,Tonnes,2016,2767.93
-FIN,Finland,Tonnes,2017,2811.59
-FIN,Finland,Tonnes,2018,3041.08
-FIN,Finland,Tonnes,2019,3122.705
-FIN,Finland,Tonnes,2020,3369.625
-FIN,Finland,Tonnes,2021,3490.676
-FIN,Finland,Tonnes,2022,2898.043
-FIN,Finland,Tonnes,2023,2612.302
-FIN,Finland,Tonnes,2024,2570.255
-FRA,France,Tonnes,2015,34344
-DEU,Germany,Tonnes,2015,51625
-DEU,Germany,Tonnes,2016,52133
-DEU,Germany,Tonnes,2017,51790
-DEU,Germany,Tonnes,2018,50259.96875
-DEU,Germany,Tonnes,2020,53321.5573
-DEU,Germany,Tonnes,2021,53870.7239
-DEU,Germany,Tonnes,2022,50606.4095
-DEU,Germany,Tonnes,2023,51016.68257
-DEU,Germany,Tonnes,2024,51448.65057
-GRC,Greece,Tonnes,2015,5277
-GRC,Greece,Tonnes,2016,5367
-GRC,Greece,Tonnes,2017,5415
-GRC,Greece,Tonnes,2018,5523
-GRC,Greece,Tonnes,2019,5613.179
-GRC,Greece,Tonnes,2021,5381.417
-GRC,Greece,Tonnes,2022,5420.179
-GRC,Greece,Tonnes,2023,5440.27
-HUN,Hungary,Tonnes,2015,3712
-HUN,Hungary,Tonnes,2016,3721
-HUN,Hungary,Tonnes,2017,3768
-HUN,Hungary,Tonnes,2018,3729
-HUN,Hungary,Tonnes,2019,3780
-HUN,Hungary,Tonnes,2020,3930.999
-HUN,Hungary,Tonnes,2021,4041.542
-HUN,Hungary,Tonnes,2022,3910.913
-HUN,Hungary,Tonnes,2023,4114.745
-HUN,Hungary,Tonnes,2024,3956.662
-ISL,Iceland,Tonnes,2015,194.554
-ISL,Iceland,Tonnes,2016,219.861
-ISL,Iceland,Tonnes,2017,225.347
-ISL,Iceland,Tonnes,2018,247.495
-ISL,Iceland,Tonnes,2019,250.39
-ISL,Iceland,Tonnes,2020,225.078
-ISL,Iceland,Tonnes,2021,245.654
-ISL,Iceland,Tonnes,2022,227.352
-ISL,Iceland,Tonnes,2023,223.50196
-ISL,Iceland,Tonnes,2024,216.924577
-IRL,Ireland,Tonnes,2016,2763.167
-IRL,Ireland,Tonnes,2017,2768.043
-IRL,Ireland,Tonnes,2018,2912.353
-IRL,Ireland,Tonnes,2019,3085.652
-IRL,Ireland,Tonnes,2021,3164.123584
-IRL,Ireland,Tonnes,2022,3190.8262
-IRL,Ireland,Tonnes,2023,3134.83996
-IRL,Ireland,Tonnes,2024,3108.749
-ISR,Israel,Tonnes,2015,5081.651345
-ISR,Israel,Tonnes,2016,5261.410983
-ISR,Israel,Tonnes,2017,5434.652957
-ISR,Israel,Tonnes,2018,5658.205813
-ISR,Israel,Tonnes,2019,5759.267997
-ISR,Israel,Tonnes,2020,5976.029729
-ISR,Israel,Tonnes,2021,6147.780768
-ISR,Israel,Tonnes,2022,6193.225798
-ISR,Israel,Tonnes,2023,6259.111791
-ISR,Israel,Tonnes,2024,6382.96963
-ITA,Italy,Tonnes,2015,29524
-ITA,Italy,Tonnes,2016,30112
-ITA,Italy,Tonnes,2017,29572
-ITA,Italy,Tonnes,2018,30165
-ITA,Italy,Tonnes,2019,30023
-ITA,Italy,Tonnes,2020,28945.09442
-ITA,Italy,Tonnes,2021,29254.384
-ITA,Italy,Tonnes,2022,28692.05712
-ITA,Italy,Tonnes,2023,28840.41216
-ITA,Italy,Tonnes,2024,29495.79941
-JPN,Japan,Tonnes,2015,43981
-JPN,Japan,Tonnes,2016,43170
-JPN,Japan,Tonnes,2017,42894
-JPN,Japan,Tonnes,2018,42727
-JPN,Japan,Tonnes,2019,42737
-JPN,Japan,Tonnes,2020,41669
-JPN,Japan,Tonnes,2021,40953
-JPN,Japan,Tonnes,2023,38974
-KOR,Korea,Tonnes,2015,18705
-KOR,Korea,Tonnes,2016,19627
-KOR,Korea,Tonnes,2017,19523.6675
-KOR,Korea,Tonnes,2018,20452.921
-KOR,Korea,Tonnes,2019,21155.91
-KOR,Korea,Tonnes,2020,22544.634
-KOR,Korea,Tonnes,2021,22695
-KOR,Korea,Tonnes,2022,23038
-KOR,Korea,Tonnes,2023,22416
-LVA,Latvia,Tonnes,2015,798.061
-LVA,Latvia,Tonnes,2016,802.473
-LVA,Latvia,Tonnes,2017,798.187
-LVA,Latvia,Tonnes,2018,785.074
-LVA,Latvia,Tonnes,2019,840.413
-LVA,Latvia,Tonnes,2020,908.96
-LVA,Latvia,Tonnes,2021,869.285
-LVA,Latvia,Tonnes,2022,871.612
-LVA,Latvia,Tonnes,2023,823.919
-LVA,Latvia,Tonnes,2024,862.954
-LTU,Lithuania,Tonnes,2015,1299.998
-LTU,Lithuania,Tonnes,2016,1272.061
-LTU,Lithuania,Tonnes,2017,1286.434
-LTU,Lithuania,Tonnes,2018,1300.572
-LTU,Lithuania,Tonnes,2019,1318.625742
-LTU,Lithuania,Tonnes,2020,1349.947
-LTU,Lithuania,Tonnes,2021,1345.007
-LTU,Lithuania,Tonnes,2022,1316.971
-LTU,Lithuania,Tonnes,2023,1281.801553
-LTU,Lithuania,Tonnes,2024,1333.377
-LUX,Luxembourg,Tonnes,2015,345.95
-LUX,Luxembourg,Tonnes,2017,475.8288223
-LUX,Luxembourg,Tonnes,2018,488.312132
-LUX,Luxembourg,Tonnes,2020,497.7643961
-LUX,Luxembourg,Tonnes,2021,507.5859269
-LUX,Luxembourg,Tonnes,2022,470.68804
-LUX,Luxembourg,Tonnes,2023,478.3316382
-LUX,Luxembourg,Tonnes,2024,494.35113
-MEX,Mexico,Tonnes,2016,38228.25
-MEX,Mexico,Tonnes,2018,39075.27
-MEX,Mexico,Tonnes,2020,38880.95
-MEX,Mexico,Tonnes,2022,39473.38928
-NLD,Netherlands,Tonnes,2015,8866
-NLD,Netherlands,Tonnes,2016,8861
-NLD,Netherlands,Tonnes,2017,8792
-NLD,Netherlands,Tonnes,2018,8806
-NLD,Netherlands,Tonnes,2019,8806
-NLD,Netherlands,Tonnes,2020,9300
-NLD,Netherlands,Tonnes,2023,8316
-NLD,Netherlands,Tonnes,2024,8504
-NZL,New Zealand,Tonnes,2015,3598
-NZL,New Zealand,Tonnes,2016,3754
-NZL,New Zealand,Tonnes,2017,3802
-NZL,New Zealand,Tonnes,2018,3918
-NZL,New Zealand,Tonnes,2019,3716
-NZL,New Zealand,Tonnes,2020,3600
-NZL,New Zealand,Tonnes,2021,3919
-NZL,New Zealand,Tonnes,2022,4008
-NZL,New Zealand,Tonnes,2023,3883
-NZL,New Zealand,Tonnes,2024,3348
-NOR,Norway,Tonnes,2015,2187.22
-NOR,Norway,Tonnes,2017,3949.21
-NOR,Norway,Tonnes,2018,3926.9
-NOR,Norway,Tonnes,2019,4150.794659
-NOR,Norway,Tonnes,2021,4320.278
-NOR,Norway,Tonnes,2022,4189.471
-NOR,Norway,Tonnes,2023,3997.338
-NOR,Norway,Tonnes,2024,3991.77214
-POL,Poland,Tonnes,2018,12485.425
-POL,Poland,Tonnes,2019,12752.77817
-POL,Poland,Tonnes,2020,13116.89783
-POL,Poland,Tonnes,2021,13673.58314
-POL,Poland,Tonnes,2022,13420.298
-POL,Poland,Tonnes,2023,13447.908
-POL,Poland,Tonnes,2024,14158.394
-PRT,Portugal,Tonnes,2016,4890.592409
-PRT,Portugal,Tonnes,2017,5006.550487
-PRT,Portugal,Tonnes,2018,5213.14778
-PRT,Portugal,Tonnes,2019,5281.384094
-PRT,Portugal,Tonnes,2020,5278.502
-PRT,Portugal,Tonnes,2021,5310.546516
-PRT,Portugal,Tonnes,2022,5323.199
-PRT,Portugal,Tonnes,2023,5338.13109
-PRT,Portugal,Tonnes,2024,5552.02859
-SVK,Slovak Republic,Tonnes,2015,1784.18
-SVK,Slovak Republic,Tonnes,2016,1889.53
-SVK,Slovak Republic,Tonnes,2017,2057.79
-SVK,Slovak Republic,Tonnes,2018,2254.09
-SVK,Slovak Republic,Tonnes,2019,2298.860214
-SVK,Slovak Republic,Tonnes,2020,2611.556097
-SVK,Slovak Republic,Tonnes,2021,2705.327117
-SVK,Slovak Republic,Tonnes,2022,2597.456683
-SVK,Slovak Republic,Tonnes,2023,2560.970562
-SVK,Slovak Republic,Tonnes,2024,2649.365029
-SVN,Slovenia,Tonnes,2015,925.94
-SVN,Slovenia,Tonnes,2016,942.84
-SVN,Slovenia,Tonnes,2017,974.1
-SVN,Slovenia,Tonnes,2018,1008.53
-SVN,Slovenia,Tonnes,2019,1052.255
-SVN,Slovenia,Tonnes,2020,1024.076
-SVN,Slovenia,Tonnes,2021,1077.143
-SVN,Slovenia,Tonnes,2022,1029.073
-SVN,Slovenia,Tonnes,2023,1096.856
-SVN,Slovenia,Tonnes,2024,1118.207
-ESP,Spain,Tonnes,2015,21157.8
-ESP,Spain,Tonnes,2016,21541.8
-ESP,Spain,Tonnes,2017,22017.9
-ESP,Spain,Tonnes,2018,22222.987
-ESP,Spain,Tonnes,2019,22240.44
-ESP,Spain,Tonnes,2020,21928.365
-ESP,Spain,Tonnes,2021,22852.582
-ESP,Spain,Tonnes,2022,23152.9456
-SWE,Sweden,Tonnes,2015,4421.57
-SWE,Sweden,Tonnes,2016,4439.4
-SWE,Sweden,Tonnes,2017,4550.93
-SWE,Sweden,Tonnes,2018,4415.56
-SWE,Sweden,Tonnes,2019,4610.82
-SWE,Sweden,Tonnes,2021,4352.135
-SWE,Sweden,Tonnes,2022,4139.374
-SWE,Sweden,Tonnes,2023,4134.001
-CHE,Switzerland,Tonnes,2015,6030
-CHE,Switzerland,Tonnes,2016,6050
-CHE,Switzerland,Tonnes,2017,5992
-CHE,Switzerland,Tonnes,2018,6012
-CHE,Switzerland,Tonnes,2019,6079
-CHE,Switzerland,Tonnes,2020,6096
-CHE,Switzerland,Tonnes,2021,6130
-CHE,Switzerland,Tonnes,2022,5943
-CHE,Switzerland,Tonnes,2023,6027
-CHE,Switzerland,Tonnes,2024,6038
-TUR,Turkey,Tonnes,2020,34581.2878
-TUR,Turkey,Tonnes,2022,32422.18196
-TUR,Turkey,Tonnes,2024,34370.91517
-GBR,United Kingdom,Tonnes,2015,31475.011
-GBR,United Kingdom,Tonnes,2016,31709.994
-GBR,United Kingdom,Tonnes,2017,30911.817
-GBR,United Kingdom,Tonnes,2018,30786.233
-GBR,United Kingdom,Tonnes,2019,30677.525
-GBR,United Kingdom,Tonnes,2020,31002.169
-GBR,United Kingdom,Tonnes,2021,31242
-GBR,United Kingdom,Tonnes,2022,29359
-GBR,United Kingdom,Tonnes,2023,29887.681
-GBR,United Kingdom,Tonnes,2024,30018.04
-USA,United States of America,Tonnes,2015,237782.19
-USA,United States of America,Tonnes,2016,243225
-USA,United States of America,Tonnes,2017,243724.3
-EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2015,213424
-EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2016,219577
-EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2017,222511
-EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2018,223119
-EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2019,225350
-EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2020,232870
-EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2021,238229
-EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2022,230180
-EU27_2020,European Union (27 countries from 01/02/2020),Tonnes,2023,229129
-ARG,Argentina,Tonnes,2019,18863.0244
-ARG,Argentina,Tonnes,2020,19046.8963
-ARG,Argentina,Tonnes,2021,19228.2216
-ARG,Argentina,Tonnes,2022,19327
-ARM,Armenia,Tonnes,2015,492.8
-ARM,Armenia,Tonnes,2016,499.7
-ARM,Armenia,Tonnes,2017,493.9
-ARM,Armenia,Tonnes,2018,469.9
-ARM,Armenia,Tonnes,2019,472.8
-ARM,Armenia,Tonnes,2020,573.2
-ARM,Armenia,Tonnes,2021,487.4
-ARM,Armenia,Tonnes,2022,532.7
-ARM,Armenia,Tonnes,2023,433.3
-AZE,Azerbaijan,Tonnes,2015,1535
-AZE,Azerbaijan,Tonnes,2016,1590
-AZE,Azerbaijan,Tonnes,2017,1576
-AZE,Azerbaijan,Tonnes,2018,1756
-AZE,Azerbaijan,Tonnes,2019,2022
-AZE,Azerbaijan,Tonnes,2020,2367
-AZE,Azerbaijan,Tonnes,2021,2583
-AZE,Azerbaijan,Tonnes,2022,2657
-AZE,Azerbaijan,Tonnes,2023,2720
-BGD,Bangladesh,Tonnes,2019,8003.627
-BGD,Bangladesh,Tonnes,2020,7199.224
-BGD,Bangladesh,Tonnes,2021,7413.839
-BLR,Belarus,Tonnes,2015,3734.6
-BLR,Belarus,Tonnes,2016,3794
-BLR,Belarus,Tonnes,2017,3801.4
-BLR,Belarus,Tonnes,2018,3795.3
-BLR,Belarus,Tonnes,2019,3784.8
-BLR,Belarus,Tonnes,2020,4070.4
-BLR,Belarus,Tonnes,2021,3970.2
-BLR,Belarus,Tonnes,2022,3994.3
-BLR,Belarus,Tonnes,2023,3982.6
-BIH,Bosnia and Herzegovina,Tonnes,2015,1249
-BIH,Bosnia and Herzegovina,Tonnes,2016,1244
-BIH,Bosnia and Herzegovina,Tonnes,2017,1235
-BIH,Bosnia and Herzegovina,Tonnes,2018,1244
-BIH,Bosnia and Herzegovina,Tonnes,2019,1228.309
-BIH,Bosnia and Herzegovina,Tonnes,2024,1122.533
-BRA,Brazil,Tonnes,2015,34018.73
-BGR,Bulgaria,Tonnes,2015,3011
-BGR,Bulgaria,Tonnes,2016,2881
-BGR,Bulgaria,Tonnes,2017,3080
-BGR,Bulgaria,Tonnes,2018,2862
-BGR,Bulgaria,Tonnes,2019,3080
-BGR,Bulgaria,Tonnes,2020,2828.761
-BGR,Bulgaria,Tonnes,2021,3058.061
-BGR,Bulgaria,Tonnes,2022,3157.279
-BGR,Bulgaria,Tonnes,2023,3156
-BGR,Bulgaria,Tonnes,2024,3192
-CHN,China ,Tonnes,2015,191419
-CHN,China ,Tonnes,2016,203620
-CHN,China ,Tonnes,2017,215209
-CHN,China ,Tonnes,2018,228018
-CHN,China ,Tonnes,2019,242062
-CHN,China ,Tonnes,2020,235117
-CHN,China ,Tonnes,2021,248692
-CHN,China ,Tonnes,2022,244447
-CHN,China ,Tonnes,2023,254078
-HRV,Croatia,Tonnes,2015,1653.92
-HRV,Croatia,Tonnes,2016,1679.76
-HRV,Croatia,Tonnes,2017,1716.44
-HRV,Croatia,Tonnes,2018,1768.411
-HRV,Croatia,Tonnes,2019,1811.617
-HRV,Croatia,Tonnes,2020,1692.966
-HRV,Croatia,Tonnes,2021,1766.56
-HRV,Croatia,Tonnes,2022,1844.382
-HRV,Croatia,Tonnes,2023,1833.3411
-HRV,Croatia,Tonnes,2024,1878.801584
-CYP,Cyprus,Tonnes,2015,539.75
-CYP,Cyprus,Tonnes,2016,552.941
-CYP,Cyprus,Tonnes,2017,551.389
-CYP,Cyprus,Tonnes,2018,575.634
-CYP,Cyprus,Tonnes,2019,585.731
-CYP,Cyprus,Tonnes,2020,557.729
-CYP,Cyprus,Tonnes,2021,585.238
-CYP,Cyprus,Tonnes,2023,633.291
-GEO,Georgia,Tonnes,2015,774.7
-GEO,Georgia,Tonnes,2016,870.3
-GEO,Georgia,Tonnes,2017,922.1
-GEO,Georgia,Tonnes,2018,977.4
-GEO,Georgia,Tonnes,2019,994.6
-GEO,Georgia,Tonnes,2020,973.3
-GEO,Georgia,Tonnes,2021,1005.9
-GEO,Georgia,Tonnes,2022,1045.1
-GEO,Georgia,Tonnes,2023,1116.6
-GEO,Georgia,Tonnes,2024,1184
-IND,India,Tonnes,2016,43486.4285
-IND,India,Tonnes,2018,55507.9955
-IND,India,Tonnes,2019,55027.765
-IND,India,Tonnes,2020,58414.1985
-IND,India,Tonnes,2021,62173.735
-IDN,Indonesia,Tonnes,2015,6026.797852
-IDN,Indonesia,Tonnes,2016,9236.850586
-IDN,Indonesia,Tonnes,2017,9536.610352
-MLT,Malta,Tonnes,2015,285.4987975
-MLT,Malta,Tonnes,2016,292.26791
-MLT,Malta,Tonnes,2017,311.6585068
-MLT,Malta,Tonnes,2018,325.751206
-MLT,Malta,Tonnes,2019,351.352763
-MLT,Malta,Tonnes,2020,331.142086
-MLT,Malta,Tonnes,2021,316.6029378
-MLT,Malta,Tonnes,2022,328.4098755
-MLT,Malta,Tonnes,2023,333.238043
-MLT,Malta,Tonnes,2024,353.5247239
-MDA,Moldova,Tonnes,2015,510.138018
-MDA,Moldova,Tonnes,2016,565.74
-MDA,Moldova,Tonnes,2017,591.498
-MDA,Moldova,Tonnes,2018,571.698
-MDA,Moldova,Tonnes,2019,620.172
-MDA,Moldova,Tonnes,2020,697.7
-MDA,Moldova,Tonnes,2021,768.6
-MKD,North Macedonia,Tonnes,2015,786
-MKD,North Macedonia,Tonnes,2018,854.8651509
-MKD,North Macedonia,Tonnes,2019,915.94309
-ROU,Romania,Tonnes,2015,4903.54
-ROU,Romania,Tonnes,2016,5142.54
-ROU,Romania,Tonnes,2017,5333.17
-ROU,Romania,Tonnes,2018,5296.24
-ROU,Romania,Tonnes,2019,5430.341
-ROU,Romania,Tonnes,2020,5619.216
-ROU,Romania,Tonnes,2021,5777.045
-ROU,Romania,Tonnes,2022,5767.456
-ROU,Romania,Tonnes,2023,5821.714
-SAU,Saudi Arabia,Tonnes,2020,2503
-SRB,Serbia,Tonnes,2015,1840
-SRB,Serbia,Tonnes,2016,1890
-SRB,Serbia,Tonnes,2017,2150
-SRB,Serbia,Tonnes,2018,2230
-SRB,Serbia,Tonnes,2019,2350
-SRB,Serbia,Tonnes,2020,2947.496195
-SRB,Serbia,Tonnes,2021,3021.740859
-SRB,Serbia,Tonnes,2022,3178.770592
-SRB,Serbia,Tonnes,2023,3095.42229
-THA,Thailand,Tonnes,2016,27070
-THA,Thailand,Tonnes,2017,27370
-THA,Thailand,Tonnes,2018,27933
-THA,Thailand,Tonnes,2019,28712
-THA,Thailand,Tonnes,2020,25370
-THA,Thailand,Tonnes,2021,24980
-UKR,Ukraine,Tonnes,2015,11491.8
-UKR,Ukraine,Tonnes,2016,11562.6
-UKR,Ukraine,Tonnes,2017,11271.2
-UKR,Ukraine,Tonnes,2018,11857.2
-UKR,Ukraine,Tonnes,2019,11792.7
-UKR,Ukraine,Tonnes,2020,12634.9
-UKR,Ukraine,Tonnes,2021,13126
-UKR,Ukraine,Tonnes,2022,9556.9
-UKR,Ukraine,Tonnes,2023,9606
+OECD,OECD,Kilogrammes per person,2015,507.3543
+OECD,OECD,Kilogrammes per person,2016,516.2693
+OECD,OECD,Kilogrammes per person,2017,515.0653
+OECD,OECD,Kilogrammes per person,2018,530.6895
+OECD,OECD,Kilogrammes per person,2019,530.5955
+OECD,OECD,Kilogrammes per person,2020,527.1531
+OECD,OECD,Kilogrammes per person,2021,539.8697
+OECD,OECD,Kilogrammes per person,2022,521.3076
+OECD,OECD,Kilogrammes per person,2023,515.1794
+OECD,OECD,Kilogrammes per person,2024,517.6157
+OECDA,OECD America,Kilogrammes per person,2015,577.0903
+OECDA,OECD America,Kilogrammes per person,2016,583.6725
+OECDA,OECD America,Kilogrammes per person,2017,581.0594
+OECDA,OECD America,Kilogrammes per person,2018,617.1456
+OECDA,OECD America,Kilogrammes per person,2019,613.4197
+OECDA,OECD America,Kilogrammes per person,2020,592.7357
+OECDA,OECD America,Kilogrammes per person,2021,612.6332
+OECDA,OECD America,Kilogrammes per person,2022,593.7768
+OECDA,OECD America,Kilogrammes per person,2023,584.3351
+OECDA,OECD America,Kilogrammes per person,2024,584.4502
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2015,398.1576
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2016,394.8867
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2017,390.4109
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2018,394.5921
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2019,396.5453
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2020,399.4497
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2021,400.713
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2022,399.699
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2023,391.7651
+OECDSO,OECD Asia Oceania,Kilogrammes per person,2024,390.2534
+OECDE,OECD Europe,Kilogrammes per person,2015,480.8712
+OECDE,OECD Europe,Kilogrammes per person,2016,496.3079
+OECDE,OECD Europe,Kilogrammes per person,2017,497.3082
+OECDE,OECD Europe,Kilogrammes per person,2018,496.6604
+OECDE,OECD Europe,Kilogrammes per person,2019,498.8144
+OECDE,OECD Europe,Kilogrammes per person,2020,509.6888
+OECDE,OECD Europe,Kilogrammes per person,2021,519.2172
+OECDE,OECD Europe,Kilogrammes per person,2022,494.0539
+OECDE,OECD Europe,Kilogrammes per person,2023,491.4498
+OECDE,OECD Europe,Kilogrammes per person,2024,497.154
+AUS,Australia,Kilogrammes per person,2015,592.4804
+AUS,Australia,Kilogrammes per person,2016,549.5206
+AUS,Australia,Kilogrammes per person,2017,519.6852
+AUS,Australia,Kilogrammes per person,2018,513.6947
+AUS,Australia,Kilogrammes per person,2019,506.9767
+AUS,Australia,Kilogrammes per person,2020,512.8154
+AUS,Australia,Kilogrammes per person,2021,518.3372
+AUS,Australia,Kilogrammes per person,2022,520.2134
+AUS,Australia,Kilogrammes per person,2023,509.6384
+AUT,Austria,Kilogrammes per person,2015,559.4607
+AUT,Austria,Kilogrammes per person,2016,564.0247
+AUT,Austria,Kilogrammes per person,2017,570.261
+AUT,Austria,Kilogrammes per person,2018,578.9644
+AUT,Austria,Kilogrammes per person,2019,587.8114
+AUT,Austria,Kilogrammes per person,2020,833.6866
+AUT,Austria,Kilogrammes per person,2021,833.6916
+AUT,Austria,Kilogrammes per person,2022,801.0608
+AUT,Austria,Kilogrammes per person,2023,782.2087
+AUT,Austria,Kilogrammes per person,2024,780.236
+BEL,Belgium,Kilogrammes per person,2015,411.7503
+BEL,Belgium,Kilogrammes per person,2016,418.7687
+BEL,Belgium,Kilogrammes per person,2017,410.6566
+BEL,Belgium,Kilogrammes per person,2018,409.27
+BEL,Belgium,Kilogrammes per person,2019,415.9343
+BEL,Belgium,Kilogrammes per person,2020,728.5526
+BEL,Belgium,Kilogrammes per person,2021,756.4639
+BEL,Belgium,Kilogrammes per person,2022,691.9385
+BEL,Belgium,Kilogrammes per person,2023,691.908
+BEL,Belgium,Kilogrammes per person,2024,705.5662
+CHL,Chile,Kilogrammes per person,2015,398.7976
+CHL,Chile,Kilogrammes per person,2016,395.717
+CHL,Chile,Kilogrammes per person,2017,437.6339
+CHL,Chile,Kilogrammes per person,2018,432.8253
+CHL,Chile,Kilogrammes per person,2019,409.4669
+CHL,Chile,Kilogrammes per person,2020,407.6178
+CHL,Chile,Kilogrammes per person,2021,465.7996
+CHL,Chile,Kilogrammes per person,2022,443.3696
+CHL,Chile,Kilogrammes per person,2023,440.098
+COL,Colombia,Kilogrammes per person,2015,212.2174
+COL,Colombia,Kilogrammes per person,2016,240.317
+COL,Colombia,Kilogrammes per person,2017,225.5711
+COL,Colombia,Kilogrammes per person,2018,246.4588
+CRI,Costa Rica,Kilogrammes per person,2015,389.5777
+CRI,Costa Rica,Kilogrammes per person,2016,250.2569
+CRI,Costa Rica,Kilogrammes per person,2017,257.878
+CRI,Costa Rica,Kilogrammes per person,2018,294.8878
+CRI,Costa Rica,Kilogrammes per person,2019,268.824
+CRI,Costa Rica,Kilogrammes per person,2020,289.8683
+CRI,Costa Rica,Kilogrammes per person,2021,319.8624
+CRI,Costa Rica,Kilogrammes per person,2022,317.9604
+CRI,Costa Rica,Kilogrammes per person,2023,334.9998
+CRI,Costa Rica,Kilogrammes per person,2024,665.1189
+CZE,Czechia,Kilogrammes per person,2015,317.1042
+CZE,Czechia,Kilogrammes per person,2016,339.8815
+CZE,Czechia,Kilogrammes per person,2017,491.0677
+CZE,Czechia,Kilogrammes per person,2018,497.4579
+CZE,Czechia,Kilogrammes per person,2019,505.6925
+CZE,Czechia,Kilogrammes per person,2020,551.092
+CZE,Czechia,Kilogrammes per person,2021,568.9078
+CZE,Czechia,Kilogrammes per person,2022,548.5123
+CZE,Czechia,Kilogrammes per person,2023,540.2816
+CZE,Czechia,Kilogrammes per person,2024,592.8295
+DNK,Denmark,Kilogrammes per person,2015,821.8237
+DNK,Denmark,Kilogrammes per person,2016,830.4527
+DNK,Denmark,Kilogrammes per person,2017,820.0975
+DNK,Denmark,Kilogrammes per person,2018,813.7976
+DNK,Denmark,Kilogrammes per person,2019,843.9877
+DNK,Denmark,Kilogrammes per person,2020,813.5892
+DNK,Denmark,Kilogrammes per person,2021,800.417
+DNK,Denmark,Kilogrammes per person,2022,758.5848
+DNK,Denmark,Kilogrammes per person,2023,758.6755
+DNK,Denmark,Kilogrammes per person,2024,758.3939
+EST,Estonia,Kilogrammes per person,2015,359.4695
+EST,Estonia,Kilogrammes per person,2016,375.6966
+EST,Estonia,Kilogrammes per person,2017,389.8818
+EST,Estonia,Kilogrammes per person,2018,405.0712
+EST,Estonia,Kilogrammes per person,2019,369.1309
+EST,Estonia,Kilogrammes per person,2020,383.1758
+EST,Estonia,Kilogrammes per person,2021,394.4985
+EST,Estonia,Kilogrammes per person,2022,372.6888
+EST,Estonia,Kilogrammes per person,2023,374.1607
+EST,Estonia,Kilogrammes per person,2024,378.0019
+FIN,Finland,Kilogrammes per person,2015,499.7119
+FIN,Finland,Kilogrammes per person,2016,503.6749
+FIN,Finland,Kilogrammes per person,2017,510.419
+FIN,Finland,Kilogrammes per person,2018,551.3462
+FIN,Finland,Kilogrammes per person,2019,565.5272
+FIN,Finland,Kilogrammes per person,2020,609.3782
+FIN,Finland,Kilogrammes per person,2021,629.9637
+FIN,Finland,Kilogrammes per person,2022,520.3605
+FIN,Finland,Kilogrammes per person,2023,466.3838
+FIN,Finland,Kilogrammes per person,2024,457.5598
+FRA,France,Kilogrammes per person,2015,529.0502
+FRA,France,Kilogrammes per person,2016,566.7908
+FRA,France,Kilogrammes per person,2017,572.2192
+FRA,France,Kilogrammes per person,2018,570.5151
+FRA,France,Kilogrammes per person,2019,569.1058
+FRA,France,Kilogrammes per person,2020,547.6947
+FRA,France,Kilogrammes per person,2021,579.1509
+FRA,France,Kilogrammes per person,2022,549.5209
+FRA,France,Kilogrammes per person,2023,542.3728
+FRA,France,Kilogrammes per person,2024,518.1782
+DEU,Germany,Kilogrammes per person,2015,628.9783
+DEU,Germany,Kilogrammes per person,2016,629.9291
+DEU,Germany,Kilogrammes per person,2017,623.195
+DEU,Germany,Kilogrammes per person,2018,602.8652
+DEU,Germany,Kilogrammes per person,2019,605.6999
+DEU,Germany,Kilogrammes per person,2020,637.5987
+DEU,Germany,Kilogrammes per person,2021,643.6392
+DEU,Germany,Kilogrammes per person,2022,601.8395
+DEU,Germany,Kilogrammes per person,2023,603.4033
+DEU,Germany,Kilogrammes per person,2024,608.4836
+GRC,Greece,Kilogrammes per person,2015,487.6672
+GRC,Greece,Kilogrammes per person,2016,498.0742
+GRC,Greece,Kilogrammes per person,2017,503.5555
+GRC,Greece,Kilogrammes per person,2018,514.6846
+GRC,Greece,Kilogrammes per person,2019,523.687
+GRC,Greece,Kilogrammes per person,2020,498.6142
+GRC,Greece,Kilogrammes per person,2021,508.6617
+GRC,Greece,Kilogrammes per person,2022,520.5464
+GRC,Greece,Kilogrammes per person,2023,531.1255
+GRC,Greece,Kilogrammes per person,2024,541.438
+HUN,Hungary,Kilogrammes per person,2015,377.266
+HUN,Hungary,Kilogrammes per person,2016,379.2863
+HUN,Hungary,Kilogrammes per person,2017,385.0554
+HUN,Hungary,Kilogrammes per person,2018,381.507
+HUN,Hungary,Kilogrammes per person,2019,386.885
+HUN,Hungary,Kilogrammes per person,2020,403.2018
+HUN,Hungary,Kilogrammes per person,2021,416.3169
+HUN,Hungary,Kilogrammes per person,2022,403.8403
+HUN,Hungary,Kilogrammes per person,2023,424.7933
+HUN,Hungary,Kilogrammes per person,2024,408.9093
+ISL,Iceland,Kilogrammes per person,2015,587.8617
+ISL,Iceland,Kilogrammes per person,2016,655.1789
+ISL,Iceland,Kilogrammes per person,2017,655.9728
+ISL,Iceland,Kilogrammes per person,2018,701.4091
+ISL,Iceland,Kilogrammes per person,2019,694.178
+ISL,Iceland,Kilogrammes per person,2020,613.9373
+ISL,Iceland,Kilogrammes per person,2021,659.219
+ISL,Iceland,Kilogrammes per person,2022,597.7347
+ISL,Iceland,Kilogrammes per person,2023,576.6929
+ISL,Iceland,Kilogrammes per person,2024,551.4153
+IRL,Ireland,Kilogrammes per person,2015,556.9436
+IRL,Ireland,Kilogrammes per person,2016,581.2907
+IRL,Ireland,Kilogrammes per person,2017,575.4455
+IRL,Ireland,Kilogrammes per person,2018,597.7054
+IRL,Ireland,Kilogrammes per person,2019,625.45
+IRL,Ireland,Kilogrammes per person,2020,644.2853
+IRL,Ireland,Kilogrammes per person,2021,629.2473
+IRL,Ireland,Kilogrammes per person,2022,624.4258
+IRL,Ireland,Kilogrammes per person,2023,603.2448
+IRL,Ireland,Kilogrammes per person,2024,591.5773
+ISR,Israel,Kilogrammes per person,2015,631.0331
+ISR,Israel,Kilogrammes per person,2016,640.8536
+ISR,Israel,Kilogrammes per person,2017,649.9384
+ISR,Israel,Kilogrammes per person,2018,664.8838
+ISR,Israel,Kilogrammes per person,2019,665.2365
+ISR,Israel,Kilogrammes per person,2020,679.0652
+ISR,Israel,Kilogrammes per person,2021,687.4464
+ISR,Israel,Kilogrammes per person,2022,680.3387
+ISR,Israel,Kilogrammes per person,2023,676.1992
+ISR,Israel,Kilogrammes per person,2024,679.9782
+ITA,Italy,Kilogrammes per person,2015,487.3932
+ITA,Italy,Kilogrammes per person,2016,497.8992
+ITA,Italy,Kilogrammes per person,2017,489.6812
+ITA,Italy,Kilogrammes per person,2018,500.4355
+ITA,Italy,Kilogrammes per person,2019,499.3004
+ITA,Italy,Kilogrammes per person,2020,483.1206
+ITA,Italy,Kilogrammes per person,2021,489.7824
+ITA,Italy,Kilogrammes per person,2022,481.256
+ITA,Italy,Kilogrammes per person,2023,484.7173
+ITA,Italy,Kilogrammes per person,2024,497.0403
+JPN,Japan,Kilogrammes per person,2015,345.5565
+JPN,Japan,Kilogrammes per person,2016,339.4937
+JPN,Japan,Kilogrammes per person,2017,337.5761
+JPN,Japan,Kilogrammes per person,2018,336.6626
+JPN,Japan,Kilogrammes per person,2019,337.3102
+JPN,Japan,Kilogrammes per person,2020,329.909
+JPN,Japan,Kilogrammes per person,2021,325.8531
+JPN,Japan,Kilogrammes per person,2023,313.369
+KOR,Korea,Kilogrammes per person,2015,366.8804
+KOR,Korea,Kilogrammes per person,2016,382.6087
+KOR,Korea,Kilogrammes per person,2017,379.2014
+KOR,Korea,Kilogrammes per person,2018,396.0605
+KOR,Korea,Kilogrammes per person,2019,408.6689
+KOR,Korea,Kilogrammes per person,2020,434.7338
+KOR,Korea,Kilogrammes per person,2021,437.7184
+KOR,Korea,Kilogrammes per person,2022,444.8992
+KOR,Korea,Kilogrammes per person,2023,433.17
+LVA,Latvia,Kilogrammes per person,2015,403.4958
+LVA,Latvia,Kilogrammes per person,2016,409.4536
+LVA,Latvia,Kilogrammes per person,2017,410.8872
+LVA,Latvia,Kilogrammes per person,2018,407.2831
+LVA,Latvia,Kilogrammes per person,2019,439.0269
+LVA,Latvia,Kilogrammes per person,2020,478.1174
+LVA,Latvia,Kilogrammes per person,2021,461.0156
+LVA,Latvia,Kilogrammes per person,2022,463.3614
+LVA,Latvia,Kilogrammes per person,2023,437.697
+LVA,Latvia,Kilogrammes per person,2024,461.0115
+LTU,Lithuania,Kilogrammes per person,2015,447.386
+LTU,Lithuania,Kilogrammes per person,2016,443.3643
+LTU,Lithuania,Kilogrammes per person,2017,454.6807
+LTU,Lithuania,Kilogrammes per person,2018,464.0793
+LTU,Lithuania,Kilogrammes per person,2019,471.7704
+LTU,Lithuania,Kilogrammes per person,2020,482.8542
+LTU,Lithuania,Kilogrammes per person,2021,481.3071
+LTU,Lithuania,Kilogrammes per person,2022,467.5218
+LTU,Lithuania,Kilogrammes per person,2023,449.109
+LTU,Lithuania,Kilogrammes per person,2024,466.3609
+LUX,Luxembourg,Kilogrammes per person,2015,607.4243
+LUX,Luxembourg,Kilogrammes per person,2016,812.4866
+LUX,Luxembourg,Kilogrammes per person,2017,797.708
+LUX,Luxembourg,Kilogrammes per person,2018,803.0115
+LUX,Luxembourg,Kilogrammes per person,2019,791.2504
+LUX,Luxembourg,Kilogrammes per person,2020,789.3542
+LUX,Luxembourg,Kilogrammes per person,2021,792.7636
+LUX,Luxembourg,Kilogrammes per person,2022,720.4633
+LUX,Luxembourg,Kilogrammes per person,2023,719.1897
+LUX,Luxembourg,Kilogrammes per person,2024,734.5092
+MEX,Mexico,Kilogrammes per person,2016,312.7021
+MEX,Mexico,Kilogrammes per person,2018,313.6719
+MEX,Mexico,Kilogrammes per person,2020,306.6344
+MEX,Mexico,Kilogrammes per person,2022,306.9157
+NLD,Netherlands,Kilogrammes per person,2015,518.2543
+NLD,Netherlands,Kilogrammes per person,2016,515.0339
+NLD,Netherlands,Kilogrammes per person,2017,507.757
+NLD,Netherlands,Kilogrammes per person,2018,505.4738
+NLD,Netherlands,Kilogrammes per person,2019,502.1238
+NLD,Netherlands,Kilogrammes per person,2020,527.3086
+NLD,Netherlands,Kilogrammes per person,2021,507.7673
+NLD,Netherlands,Kilogrammes per person,2022,467.203
+NLD,Netherlands,Kilogrammes per person,2023,459.6374
+NLD,Netherlands,Kilogrammes per person,2024,466.516
+NZL,New Zealand,Kilogrammes per person,2015,779.7957
+NZL,New Zealand,Kilogrammes per person,2016,796.2213
+NZL,New Zealand,Kilogrammes per person,2017,789.9846
+NZL,New Zealand,Kilogrammes per person,2018,799.4537
+NZL,New Zealand,Kilogrammes per person,2019,744.7785
+NZL,New Zealand,Kilogrammes per person,2020,710.0739
+NZL,New Zealand,Kilogrammes per person,2021,767.2734
+NZL,New Zealand,Kilogrammes per person,2022,781.0226
+NZL,New Zealand,Kilogrammes per person,2023,750.652
+NZL,New Zealand,Kilogrammes per person,2024,642.1243
+NOR,Norway,Kilogrammes per person,2015,421.4483
+NOR,Norway,Kilogrammes per person,2016,753.6636
+NOR,Norway,Kilogrammes per person,2017,748.4097
+NOR,Norway,Kilogrammes per person,2018,739.2853
+NOR,Norway,Kilogrammes per person,2019,776.1788
+NOR,Norway,Kilogrammes per person,2020,725.9335
+NOR,Norway,Kilogrammes per person,2021,798.8546
+NOR,Norway,Kilogrammes per person,2022,767.7522
+NOR,Norway,Kilogrammes per person,2023,724.2647
+NOR,Norway,Kilogrammes per person,2024,715.7998
+POL,Poland,Kilogrammes per person,2015,283.8789
+POL,Poland,Kilogrammes per person,2016,304.5831
+POL,Poland,Kilogrammes per person,2017,312.8671
+POL,Poland,Kilogrammes per person,2018,326.4926
+POL,Poland,Kilogrammes per person,2019,333.6163
+POL,Poland,Kilogrammes per person,2020,343.6351
+POL,Poland,Kilogrammes per person,2021,359.4499
+POL,Poland,Kilogrammes per person,2022,349.6168
+POL,Poland,Kilogrammes per person,2023,346.9278
+POL,Poland,Kilogrammes per person,2024,367.3764
+PRT,Portugal,Kilogrammes per person,2015,459.8545
+PRT,Portugal,Kilogrammes per person,2016,472.6867
+PRT,Portugal,Kilogrammes per person,2017,484.6216
+PRT,Portugal,Kilogrammes per person,2018,504.8881
+PRT,Portugal,Kilogrammes per person,2019,510.6135
+PRT,Portugal,Kilogrammes per person,2020,508.9911
+PRT,Portugal,Kilogrammes per person,2021,511.0739
+PRT,Portugal,Kilogrammes per person,2022,511.0072
+PRT,Portugal,Kilogrammes per person,2023,511.7693
+PRT,Portugal,Kilogrammes per person,2024,532.5538
+SVK,Slovak Republic,Kilogrammes per person,2015,329.1676
+SVK,Slovak Republic,Kilogrammes per person,2016,348.1555
+SVK,Slovak Republic,Kilogrammes per person,2017,378.5695
+SVK,Slovak Republic,Kilogrammes per person,2018,414.1088
+SVK,Slovak Republic,Kilogrammes per person,2019,421.7608
+SVK,Slovak Republic,Kilogrammes per person,2020,478.7433
+SVK,Slovak Republic,Kilogrammes per person,2021,497.0507
+SVK,Slovak Republic,Kilogrammes per person,2022,474.5776
+SVK,Slovak Republic,Kilogrammes per person,2023,464.1075
+SVK,Slovak Republic,Kilogrammes per person,2024,481.1114
+SVN,Slovenia,Kilogrammes per person,2015,449.497
+SVN,Slovenia,Kilogrammes per person,2016,457.3845
+SVN,Slovenia,Kilogrammes per person,2017,472.3115
+SVN,Slovenia,Kilogrammes per person,2018,487.3347
+SVN,Slovenia,Kilogrammes per person,2019,505.0568
+SVN,Slovenia,Kilogrammes per person,2020,487.0941
+SVN,Slovenia,Kilogrammes per person,2021,509.6504
+SVN,Slovenia,Kilogrammes per person,2022,486.5069
+SVN,Slovenia,Kilogrammes per person,2023,517.7767
+SVN,Slovenia,Kilogrammes per person,2024,527.7805
+ESP,Spain,Kilogrammes per person,2015,453.2161
+ESP,Spain,Kilogrammes per person,2016,460.957
+ESP,Spain,Kilogrammes per person,2017,469.7794
+ESP,Spain,Kilogrammes per person,2018,471.8976
+ESP,Spain,Kilogrammes per person,2019,468.8602
+ESP,Spain,Kilogrammes per person,2020,459.9119
+ESP,Spain,Kilogrammes per person,2021,478.7318
+ESP,Spain,Kilogrammes per person,2022,484.0838
+ESP,Spain,Kilogrammes per person,2023,468.2159
+ESP,Spain,Kilogrammes per person,2024,465.2786
+SWE,Sweden,Kilogrammes per person,2015,451.2045
+SWE,Sweden,Kilogrammes per person,2016,447.3723
+SWE,Sweden,Kilogrammes per person,2017,452.4749
+SWE,Sweden,Kilogrammes per person,2018,433.9444
+SWE,Sweden,Kilogrammes per person,2019,448.5615
+SWE,Sweden,Kilogrammes per person,2020,430.7458
+SWE,Sweden,Kilogrammes per person,2021,417.8264
+SWE,Sweden,Kilogrammes per person,2022,394.7021
+SWE,Sweden,Kilogrammes per person,2023,391.793
+SWE,Sweden,Kilogrammes per person,2024,425.4898
+CHE,Switzerland,Kilogrammes per person,2015,727.915
+CHE,Switzerland,Kilogrammes per person,2016,722.3966
+CHE,Switzerland,Kilogrammes per person,2017,708.8081
+CHE,Switzerland,Kilogrammes per person,2018,705.9367
+CHE,Switzerland,Kilogrammes per person,2019,708.7127
+CHE,Switzerland,Kilogrammes per person,2020,705.5081
+CHE,Switzerland,Kilogrammes per person,2021,704.0294
+CHE,Switzerland,Kilogrammes per person,2022,675.9414
+CHE,Switzerland,Kilogrammes per person,2023,679.4384
+CHE,Switzerland,Kilogrammes per person,2024,676.7556
+TUR,Turkey,Kilogrammes per person,2015,390.968
+TUR,Turkey,Kilogrammes per person,2016,413.4983
+TUR,Turkey,Kilogrammes per person,2017,411.3083
+TUR,Turkey,Kilogrammes per person,2018,409.0814
+TUR,Turkey,Kilogrammes per person,2019,410.243
+TUR,Turkey,Kilogrammes per person,2020,401.6797
+TUR,Turkey,Kilogrammes per person,2021,404.0102
+TUR,Turkey,Kilogrammes per person,2022,372.4185
+TUR,Turkey,Kilogrammes per person,2023,371.918
+TUR,Turkey,Kilogrammes per person,2024,392.9281
+GBR,United Kingdom,Kilogrammes per person,2015,481.401
+GBR,United Kingdom,Kilogrammes per person,2016,481.232
+GBR,United Kingdom,Kilogrammes per person,2017,465.8589
+GBR,United Kingdom,Kilogrammes per person,2018,461.1999
+GBR,United Kingdom,Kilogrammes per person,2019,457.1165
+GBR,United Kingdom,Kilogrammes per person,2020,460.3016
+GBR,United Kingdom,Kilogrammes per person,2021,461.6899
+GBR,United Kingdom,Kilogrammes per person,2022,430.6145
+GBR,United Kingdom,Kilogrammes per person,2023,435.1542
+GBR,United Kingdom,Kilogrammes per person,2024,434.1745
+USA,United States of America,Kilogrammes per person,2015,729.1103
+USA,United States of America,Kilogrammes per person,2016,738.8828
+USA,United States of America,Kilogrammes per person,2017,733.6571
+USA,United States of America,Kilogrammes per person,2020,791.5814
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2015,480.7812
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2016,493.5296
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2017,499.243
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2018,499.7025
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2019,503.7227
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2020,520.0574
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2021,532.1105
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2022,512.5208
+EU27_2020,European Union (27 countries from 01/02/2020),Kilogrammes per person,2023,508.4326
+ARG,Argentina,Kilogrammes per person,2019,419.4256
+ARG,Argentina,Kilogrammes per person,2020,421.4664
+ARG,Argentina,Kilogrammes per person,2021,424.349
+ARG,Argentina,Kilogrammes per person,2022,425.6307
+ARM,Armenia,Kilogrammes per person,2015,168.6991
+ARM,Armenia,Kilogrammes per person,2016,171.2009
+ARM,Armenia,Kilogrammes per person,2017,169.4361
+ARM,Armenia,Kilogrammes per person,2018,161.4796
+ARM,Armenia,Kilogrammes per person,2019,162.8115
+ARM,Armenia,Kilogrammes per person,2020,198.2779
+ARM,Armenia,Kilogrammes per person,2021,169.8051
+ARM,Armenia,Kilogrammes per person,2022,184.9092
+ARM,Armenia,Kilogrammes per person,2023,147.2111
+AZE,Azerbaijan,Kilogrammes per person,2015,157.3899
+AZE,Azerbaijan,Kilogrammes per person,2016,161.1199
+AZE,Azerbaijan,Kilogrammes per person,2017,158.0979
+AZE,Azerbaijan,Kilogrammes per person,2018,174.9042
+AZE,Azerbaijan,Kilogrammes per person,2019,199.9906
+AZE,Azerbaijan,Kilogrammes per person,2020,232.4752
+AZE,Azerbaijan,Kilogrammes per person,2021,252.3848
+AZE,Azerbaijan,Kilogrammes per person,2022,258.0788
+AZE,Azerbaijan,Kilogrammes per person,2023,263.6117
+BGD,Bangladesh,Kilogrammes per person,2019,48.5324
+BGD,Bangladesh,Kilogrammes per person,2020,43.2911
+BGD,Bangladesh,Kilogrammes per person,2021,44.21979
+BLR,Belarus,Kilogrammes per person,2015,393.6423
+BLR,Belarus,Kilogrammes per person,2016,399.4078
+BLR,Belarus,Kilogrammes per person,2017,400.3248
+BLR,Belarus,Kilogrammes per person,2018,400.3468
+BLR,Belarus,Kilogrammes per person,2019,401.1269
+BLR,Belarus,Kilogrammes per person,2020,435.2929
+BLR,Belarus,Kilogrammes per person,2021,429.1475
+BLR,Belarus,Kilogrammes per person,2022,435.4297
+BLR,Belarus,Kilogrammes per person,2023,436.8955
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2015,354.9767
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2016,358.1915
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2017,360.1967
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2018,367.2867
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2019,367.149
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2020,365.5713
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2021,378.7215
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2022,369.5857
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2023,372.3301
+BIH,Bosnia and Herzegovina,Kilogrammes per person,2024,354.7545
+BRA,Brazil,Kilogrammes per person,2015,168.6805
+BGR,Bulgaria,Kilogrammes per person,2015,419.5044
+BGR,Bulgaria,Kilogrammes per person,2016,404.2128
+BGR,Bulgaria,Kilogrammes per person,2017,435.2966
+BGR,Bulgaria,Kilogrammes per person,2018,407.4169
+BGR,Bulgaria,Kilogrammes per person,2019,441.5474
+BGR,Bulgaria,Kilogrammes per person,2020,407.9756
+BGR,Bulgaria,Kilogrammes per person,2021,444.665
+BGR,Bulgaria,Kilogrammes per person,2022,462.5464
+BGR,Bulgaria,Kilogrammes per person,2023,464.4043
+BGR,Bulgaria,Kilogrammes per person,2024,472.3508
+CHN,China ,Kilogrammes per person,2015,137.1064
+CHN,China ,Kilogrammes per person,2016,145.0231
+CHN,China ,Kilogrammes per person,2017,152.376
+CHN,China ,Kilogrammes per person,2018,160.6882
+CHN,China ,Kilogrammes per person,2019,170.0446
+CHN,China ,Kilogrammes per person,2020,164.8664
+CHN,China ,Kilogrammes per person,2021,174.3448
+CHN,China ,Kilogrammes per person,2022,171.5201
+CHN,China ,Kilogrammes per person,2023,178.603
+HRV,Croatia,Kilogrammes per person,2015,395.322
+HRV,Croatia,Kilogrammes per person,2016,406.0879
+HRV,Croatia,Kilogrammes per person,2017,420.7786
+HRV,Croatia,Kilogrammes per person,2018,439.3712
+HRV,Croatia,Kilogrammes per person,2019,454.4569
+HRV,Croatia,Kilogrammes per person,2020,428.17
+HRV,Croatia,Kilogrammes per person,2021,450.1237
+HRV,Croatia,Kilogrammes per person,2022,472.0679
+HRV,Croatia,Kilogrammes per person,2023,470.5673
+HRV,Croatia,Kilogrammes per person,2024,484.8114
+CYP,Cyprus,Kilogrammes per person,2015,442.5987
+CYP,Cyprus,Kilogrammes per person,2016,446.9612
+CYP,Cyprus,Kilogrammes per person,2017,439.6077
+CYP,Cyprus,Kilogrammes per person,2018,452.9922
+CYP,Cyprus,Kilogrammes per person,2019,455.2298
+CYP,Cyprus,Kilogrammes per person,2020,428.282
+CYP,Cyprus,Kilogrammes per person,2021,444.2678
+CYP,Cyprus,Kilogrammes per person,2022,461.6448
+CYP,Cyprus,Kilogrammes per person,2023,470.8567
+CYP,Cyprus,Kilogrammes per person,2024,492.5767
+GEO,Georgia,Kilogrammes per person,2015,204.3215
+GEO,Georgia,Kilogrammes per person,2016,229.506
+GEO,Georgia,Kilogrammes per person,2017,243.1148
+GEO,Georgia,Kilogrammes per person,2018,257.5578
+GEO,Georgia,Kilogrammes per person,2019,261.9628
+GEO,Georgia,Kilogrammes per person,2020,256.4232
+GEO,Georgia,Kilogrammes per person,2021,265.5175
+GEO,Georgia,Kilogrammes per person,2022,275.4044
+GEO,Georgia,Kilogrammes per person,2023,293.2639
+GEO,Georgia,Kilogrammes per person,2024,310.9513
+IND,India,Kilogrammes per person,2016,32.35732
+IND,India,Kilogrammes per person,2018,40.37946
+IND,India,Kilogrammes per person,2019,39.61596
+IND,India,Kilogrammes per person,2020,41.64656
+IND,India,Kilogrammes per person,2021,43.96377
+IDN,Indonesia,Kilogrammes per person,2015,23.02069
+IDN,Indonesia,Kilogrammes per person,2016,34.90512
+IDN,Indonesia,Kilogrammes per person,2017,35.67133
+MLT,Malta,Kilogrammes per person,2015,641.5977
+MLT,Malta,Kilogrammes per person,2016,641.9675
+MLT,Malta,Kilogrammes per person,2017,666.0765
+MLT,Malta,Kilogrammes per person,2018,672.2646
+MLT,Malta,Kilogrammes per person,2019,697.1077
+MLT,Malta,Kilogrammes per person,2020,639.0151
+MLT,Malta,Kilogrammes per person,2021,603.7708
+MLT,Malta,Kilogrammes per person,2022,621.7623
+MLT,Malta,Kilogrammes per person,2023,625.2637
+MLT,Malta,Kilogrammes per person,2024,655.1522
+MDA,Moldova,Kilogrammes per person,2015,155.1909
+MDA,Moldova,Kilogrammes per person,2016,174.7301
+MDA,Moldova,Kilogrammes per person,2017,185.2195
+MDA,Moldova,Kilogrammes per person,2018,181.2743
+MDA,Moldova,Kilogrammes per person,2019,199.2481
+MDA,Moldova,Kilogrammes per person,2020,227.3282
+MDA,Moldova,Kilogrammes per person,2021,254.1853
+MNE,Montenegro,Kilogrammes per person,2015,493.1043
+MNE,Montenegro,Kilogrammes per person,2016,491.0717
+MNE,Montenegro,Kilogrammes per person,2017,491.5612
+MNE,Montenegro,Kilogrammes per person,2018,520.938
+MNE,Montenegro,Kilogrammes per person,2019,553.7425
+MNE,Montenegro,Kilogrammes per person,2020,496.9018
+MNE,Montenegro,Kilogrammes per person,2021,527.7626
+MNE,Montenegro,Kilogrammes per person,2022,539.3333
+MNE,Montenegro,Kilogrammes per person,2023,557.8816
+MNE,Montenegro,Kilogrammes per person,2024,571.2795
+MKD,North Macedonia,Kilogrammes per person,2015,396.8963
+MKD,North Macedonia,Kilogrammes per person,2018,445.3054
+MKD,North Macedonia,Kilogrammes per person,2019,482.6746
+MKD,North Macedonia,Kilogrammes per person,2020,487.7275
+MKD,North Macedonia,Kilogrammes per person,2021,484.0701
+MKD,North Macedonia,Kilogrammes per person,2022,465.5748
+MKD,North Macedonia,Kilogrammes per person,2023,479.4748
+ROU,Romania,Kilogrammes per person,2015,246.7684
+ROU,Romania,Kilogrammes per person,2016,260.0256
+ROU,Romania,Kilogrammes per person,2017,270.865
+ROU,Romania,Kilogrammes per person,2018,270.2457
+ROU,Romania,Kilogrammes per person,2019,278.457
+ROU,Romania,Kilogrammes per person,2020,289.7628
+ROU,Romania,Kilogrammes per person,2021,300.1349
+ROU,Romania,Kilogrammes per person,2022,300.9091
+ROU,Romania,Kilogrammes per person,2023,304.5072
+SAU,Saudi Arabia,Kilogrammes per person,2020,80.76485
+SRB,Serbia,Kilogrammes per person,2015,256.3655
+SRB,Serbia,Kilogrammes per person,2016,265.2228
+SRB,Serbia,Kilogrammes per person,2017,303.9511
+SRB,Serbia,Kilogrammes per person,2018,317.663
+SRB,Serbia,Kilogrammes per person,2019,337.3455
+SRB,Serbia,Kilogrammes per person,2020,426.6903
+SRB,Serbia,Kilogrammes per person,2021,442.0703
+SRB,Serbia,Kilogrammes per person,2022,468.0711
+SRB,Serbia,Kilogrammes per person,2023,457.0103
+THA,Thailand,Kilogrammes per person,2016,382.0217
+THA,Thailand,Kilogrammes per person,2017,384.6252
+THA,Thailand,Kilogrammes per person,2018,391.3496
+THA,Thailand,Kilogrammes per person,2019,401.4414
+THA,Thailand,Kilogrammes per person,2020,354.1244
+THA,Thailand,Kilogrammes per person,2021,348.2633
+UKR,Ukraine,Kilogrammes per person,2015,250.9954
+UKR,Ukraine,Kilogrammes per person,2016,253.4722
+UKR,Ukraine,Kilogrammes per person,2017,248.0674
+UKR,Ukraine,Kilogrammes per person,2018,262.2758
+UKR,Ukraine,Kilogrammes per person,2019,262.308
+UKR,Ukraine,Kilogrammes per person,2020,282.7864
+UKR,Ukraine,Kilogrammes per person,2021,296.3071
+UKR,Ukraine,Kilogrammes per person,2022,232.8182
+UKR,Ukraine,Kilogrammes per person,2023,254.5793
