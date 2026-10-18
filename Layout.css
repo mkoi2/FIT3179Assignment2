@@ -1,4 +1,7 @@
-
+.pure-u-g div{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 
 .pure-u-1-2 div{
     margin-left: 30px;
@@ -14,6 +17,7 @@
 }
 
 h1{
+    font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif';
     margin-left: 30px;
     padding: 60px;
 }
