@@ -512,10 +512,13 @@
                 },
                 "width": 300,
                 "height": 450,
-                "title": "Greenhouse Gas Emissions 100 Years Ago vs Now In ",
                 "transform": [
                     {"filter": {"param": "Country_Selection"}},
-                    {"filter": "Region_Selection == null || datum.Entity == Region_Selection" }
+                    {"filter": "Region_Selection == null || datum.Entity == Region_Selection" },
+                    {
+                        "calculate": "'Emissions 100 Years Ago vs Now In ' + datum.Entity",
+                        "as":"chart_title"
+                    }
                 ],
                 "encoding": {
                         "x":{
@@ -547,6 +550,7 @@
                     {
                     "mark": "circle"
                     }
+                    
                 ]
                 }
 ],
