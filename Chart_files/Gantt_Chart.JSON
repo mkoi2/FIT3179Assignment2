@@ -4,8 +4,8 @@
 "data": {
     "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Goals.csv"
 },
-"width":500,
-"height":200,
+"width":600,
+"height":300,
 "layer":[
     {
     "mark": {
