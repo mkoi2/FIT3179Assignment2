@@ -1,0 +1,22 @@
+{
+"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+"title": { "text": "Climate Goals and Organisations" },
+"data": {
+    "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Goals.csv"
+},
+"mark": "bar",
+"encoding": {
+    "x": { 
+        "field": "Start", 
+        "type": "quantitative" 
+    },
+    "x2":{
+        "field":"End",
+        "type":"quantitative"
+    },
+    "y": { 
+        "field": "Goal", 
+        "type": "nominal" 
+    }
+    }
+}

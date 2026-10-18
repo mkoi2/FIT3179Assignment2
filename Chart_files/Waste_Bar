@@ -1,0 +1,12 @@
+{
+"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+"title": { "text": "Waste Generation Of OECD Countries In 2020" },
+"data": {
+"url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Waste_Gen.csv"
+},
+"mark": "bar",
+"encoding": {
+"x": { "field": "daily_cost", "type": "quantitative" },
+"y": { "field": "city", "type": "nominal" }
+}
+}

@@ -85,6 +85,8 @@
 
                 "mark": {"type": "circle"},
                 "encoding": {
+                    "longitude":{"field":"Longitude","type":"quantitative"},
+                    "latitude":{"field":"Column1","type": "quantitative"},
                     "size": {
                         "field": "OBS_VALUE",
                         "type": "quantitative"
@@ -94,7 +96,7 @@
                     "tooltip": [
                         {"field": "Reference area", "type": "nominal", "title": "Country"},
                         {"field": "OBS_VALUE", "type": "quantitative","title": "Waste generation (tonnes per person)"},
-                        {"field": "TIME_PEIOD", "type": "quantitative","title": "Year"}
+                        {"field": "TIME_PERIOD", "type": "quantitative","title": "Year"}
                     ] 
                 }
             }
