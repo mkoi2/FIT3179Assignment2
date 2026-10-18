@@ -60,6 +60,7 @@
                         "field": "Energy",
                         "type": "quantitative"
                     },
+                    
                     "tooltip": [
                         {"field":"Rank","type": "quantitative","title":"Generation Ranking"},
                         {"field": "Country", "type": "nominal", "title": "Country"},
@@ -68,6 +69,20 @@
                     ] 
                 }
 
+            },
+            {
+            "data":{
+                "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Gen_energy.csv"
+                },
+                "transform": [
+                    {"filter": "datum.Category == Energy_Source"}  
+                ],
+            "mark":{"type": "text","align":"center"},
+            "encoding": {
+                "longitude":{"field":"Longitudinal","type":"quantitative"},
+                "latitude":{"field":"Latitude","type": "quantitative"},
+                "text":{"field":"Rank","type": "quantitative"}
+            }
             }
         ]
 
