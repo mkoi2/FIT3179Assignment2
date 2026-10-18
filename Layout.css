@@ -1,5 +1,5 @@
 .pure-u-g div{
-    margin-top: 30px;
+    margin-top: 10px;
     margin-bottom: 30px;
 }
 
@@ -17,25 +17,33 @@
 }
 
 h1{
-    font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif';
-    margin-left: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
     padding: 60px;
 }
 
 h2{
-    margin-left: 30px;
-    padding: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 20px;
 }
 
 p{
-    margin-left: 30px;
-    padding: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 20px;
 }
 
 body{
     max-width: 100%;
-    padding: 60px;
+    padding: 20px;
 }
 .charts{
+    margin-left: 120px;
     align-items: center;
+}
+.vega-bindings{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
 }
