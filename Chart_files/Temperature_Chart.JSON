@@ -9,7 +9,11 @@
 },
 "mark": "line",
 "encoding": {
-    "x":{"field": "Year","type": "quantitative","title": "Year"},
-    "y":{"field": "Average", "type": "quantitative", "title":"Temperature change relative to the pre-industrial period"}
+    "x":{"field": "Year","type": "quantitative","title": "Year","axis":{"format":"d"}},
+    "y":{"field": "Average", "type": "quantitative", "title":"Temperature change relative to the pre-industrial period (°C)"},
+    "tooltip": [
+        {"field": "Average", "type": "quantitative", "title": "Change in world temperature °C"},
+        {"field": "Year", "type": "quantitative","title": "Year"}
+    ]
 }
 }

@@ -427,7 +427,7 @@
 "hconcat":[
     {
         "title": "Greenhouse Gas Emissions Around The World",
-        "width": 900,
+        "width": 800,
         "height": 450,
         "layer": [
             {
@@ -510,7 +510,7 @@
                     "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/GHG_100.csv"
                     
                 },
-                "width": 400,
+                "width": 300,
                 "height": 450,
                 "title": "Greenhouse Gas Emissions 100 Years Ago vs Now In ",
                 "transform": [
