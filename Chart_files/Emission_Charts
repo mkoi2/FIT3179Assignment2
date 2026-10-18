@@ -552,7 +552,7 @@
 ],
 "config" :{
                     "legend":{
-                        "orient":"bottom"
+                        "orient":"top"
                     }
                 }
 }
