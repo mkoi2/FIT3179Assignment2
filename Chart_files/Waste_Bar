@@ -6,7 +6,12 @@
 },
 "mark": "bar",
 "encoding": {
-"x": { "field": "daily_cost", "type": "quantitative" },
-"y": { "field": "city", "type": "nominal" }
+"y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
+"x": { "field": "Reference area", "type": "nominal" ,"title":null,"sort":{"field":"OBS_VALUE","order":"descending"}},
+"tooltip":[
+    { "field": "OBS_VALUE", "type": "quantitative","title":"Waste Generation (Tonnes per Capita)"},
+    { "field": "Reference area", "type": "nominal","title":"Country"}
+]
+
 }
 }
