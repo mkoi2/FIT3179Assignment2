@@ -16,7 +16,6 @@
             "name": "Region_Selection",
             "value":"World",
             "bind": {
-
                 "input": "select",
                 "options": [
                     "World",
@@ -446,7 +445,7 @@
             "mark": {
                 "type": "geoshape",
                 "fill": "#ddd",
-                "stroke": "white",
+                "stroke": "black",
                 "strokeWidth": 1
             },
             "encoding": {"tooltip": {"field": "note"}}
