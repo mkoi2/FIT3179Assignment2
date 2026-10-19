@@ -474,6 +474,7 @@
                 "params":[
                     {
                         "name": "Country_Selection",
+                        "value":"World",
                         "select":{
                             "type": "point",
                             "fields": ["Entity"],

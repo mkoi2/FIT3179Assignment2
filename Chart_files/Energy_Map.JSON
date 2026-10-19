@@ -3,6 +3,7 @@
     "params": [
             {
             "name": "Energy_Source",
+            "value":"Total generation",
             "bind": {
 
                 "input": "select",
