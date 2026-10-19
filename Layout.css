@@ -4,9 +4,6 @@
 }
 
 .pure-u-1-2 div{
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-top: 30px;
     width: 50vw;
 }
 
@@ -17,20 +14,20 @@
 }
 
 h1{
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
     padding: 60px;
 }
 
 h2{
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
     padding: 20px;
 }
 
 p{
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
     padding: 20px;
 }
 
