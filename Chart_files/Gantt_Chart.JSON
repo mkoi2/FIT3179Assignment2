@@ -37,7 +37,7 @@
     }
     },
     {
-    "mark":{"type": "text","baseline":"bottom","dy":-25,"text":["United Nation","urgued nations to pledge to", "aim for net zero emissions "],"size":12,"align":"left"},
+    "mark":{"type": "text","baseline":"bottom","dy":-35,"text":["United Nation","urgued nations to pledge to", "aim for net zero emissions "],"size":12,"align":"left"},
     "encoding": {
         "x":{"datum":2015,"type": "quantitative"},
         "y":{"datum":"Net zero emissions","type":"nominal"}
@@ -51,7 +51,7 @@
     }
     },
     {
-    "mark":{"type": "text","baseline":"top","dy":-25,"text":["Australia aims to reduce ","emissions by 62-70% below 2005 levels "],"size":12,"align":"left"},
+    "mark":{"type": "text","baseline":"top","dy":-35,"text":["Australia aims to reduce ","emissions by 62-70% below 2005 levels "],"size":12,"align":"left"},
     "encoding": {
         "x":{"datum":2035,"type": "quantitative"},
         "y":{"datum":"Net zero emissions","type":"nominal"}

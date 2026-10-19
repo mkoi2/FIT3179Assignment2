@@ -14,6 +14,7 @@
         },
         {
             "name": "Region_Selection",
+            "value":"World",
             "bind": {
 
                 "input": "select",
@@ -474,7 +475,6 @@
                 "params":[
                     {
                         "name": "Country_Selection",
-                        "value":"World",
                         "select":{
                             "type": "point",
                             "fields": ["Entity"],
@@ -528,7 +528,8 @@
                             "title": "Year",
                             "axis":{
                                 "values":[1924,2024],
-                                "grid": false
+                                "grid": false,
+                                "format":"d"
                         }},
                         "y":{
                             "field": "GHG emissions",
