@@ -5,8 +5,6 @@
 
 .pure-u-1-2 div{
     width: 50vw;
-    margin: 48px auto 12px;
-    padding: 0 20px;
 }
 
 h1{
@@ -15,7 +13,7 @@ h1{
     margin-left: 100px;
     margin-right: 100px;
     padding: 60px;
-    font-size: 3rem;
+    font-size: 30px;
 }
 
 h2{
@@ -43,7 +41,7 @@ body{
     max-width: 1000px;
     margin: 0 auto;
     padding: 24px 24px 8px;
-    font-size: 1.05rem;
+    font-size: 8px;
 }
 
 .description {
@@ -64,8 +62,8 @@ body{
     box-shadow: 0 3px 12px rgba(25, 61, 53, 0.05);
 }
 
-.gantt-chart{
-    padding: 24px;
+.gantt-section{
+    padding: 20px;
     box-sizing: border-box;
     background: #ffffff;
     border: 1px solid #dce4dc;
