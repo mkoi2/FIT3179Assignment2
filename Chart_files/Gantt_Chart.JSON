@@ -26,14 +26,14 @@
     "mark":{"type": "text","baseline":"bottom","dy":-55,"text":["In 2015 All 193 United"," Nation member states"," endoresed the 17 sustainable"," developement goals (SDGs)"],"size":12,"align":"left"},
     "encoding": {
         "x":{"datum":2015,"type": "quantitative"},
-        "y":{"datum":"Sustainable development goals","type":"nominal"}
+        "y":{"datum":"SDG","type":"nominal"}
     }
     },
     {
     "mark":{"type": "circle","stroke":"black","size":60,"fill":"white","strokeWidth":2},
     "encoding": {
         "x":{"datum":2015,"type": "quantitative"},
-        "y":{"datum":"Sustainable development goals","type":"nominal"}
+        "y":{"datum":"SDG","type":"nominal"}
     }
     },
     {
