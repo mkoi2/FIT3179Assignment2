@@ -11,95 +11,60 @@
     "mark": {
         "type":"bar",
         "cornerRadius":4,
-        "size":4
+        "size":4,
+        "color":"#238443"
     },
     "encoding": {
-        "x": { "field": "Start", "type": "quantitative","title": "Year",
-        "axis":{"format":"d","tickCount":5},
-        "scale":{"domain":[2010,2070]}
+        "x": { "field": "Start", "type": "quantitative","title":null,
+        "axis":{"format":"d","tickCount":5,"labelFontSize":14},
+        "scale":{"domain":[2010,2060]}
         },
         "x2":{"field":"End"},
-        "y": { "field": "Goal", "type": "nominal","title":null}
+        "y": { "field": "Goal", "type": "nominal","title":null,"axis":{"labelFontSize":14}}
         }
     },
     {
-    "mark":{"type": "text","baseline":"bottom","dy":-25,"text":["All 193 United Nation member","states endoresed this goal"],"size":12,"align":"left"},
-    "encoding": {
-        "x":{"datum":2011,"type": "quantitative"},
-        "y":{"datum":"Sustainable development goals","type":"nominal"}
-    }
-    },
-    {
-    "mark":{"type": "circle","color":"black"},
+    "mark":{"type": "text","baseline":"bottom","dy":-35,"text":["In 2015 All 193 United"," Nation member states"," endoresed this goal"],"size":12,"align":"left"},
     "encoding": {
         "x":{"datum":2015,"type": "quantitative"},
         "y":{"datum":"Sustainable development goals","type":"nominal"}
     }
     },
     {
-    "mark":{"type": "text","baseline":"bottom","dy":-35,"text":["United Nation","urgued nations to pledge to", "aim for net zero emissions "],"size":12,"align":"left"},
+    "mark":{"type": "circle","stroke":"black","size":60,"fill":"white","strokeWidth":2},
+    "encoding": {
+        "x":{"datum":2015,"type": "quantitative"},
+        "y":{"datum":"Sustainable development goals","type":"nominal"}
+    }
+    },
+    {
+    "mark":{"type": "text","baseline":"bottom","dy":-35,"text":["In 2015 United Nation","urgued nations to pledge to", "aim for net zero emissions "],"size":12,"align":"left"},
     "encoding": {
         "x":{"datum":2015,"type": "quantitative"},
         "y":{"datum":"Net zero emissions","type":"nominal"}
     }
     },
     {
-    "mark":{"type": "circle","color":"black"},
+    "mark":{"type": "circle","stroke":"black","size":60,"fill":"white","strokeWidth":2},
     "encoding": {
         "x":{"datum":2015,"type": "quantitative"},
         "y":{"datum":"Net zero emissions","type":"nominal"}
     }
     },
     {
-    "mark":{"type": "text","baseline":"top","dy":-35,"text":["Australia aims to reduce ","emissions by 62-70% below 2005 levels "],"size":12,"align":"left"},
+    "mark":{"type": "text","baseline":"bottom","dy":-35,"text":["Australia aims to reduce ","emissions by 62-70% below 2005 levels ","by 2035"],"size":12,"align":"left"},
     "encoding": {
         "x":{"datum":2035,"type": "quantitative"},
         "y":{"datum":"Net zero emissions","type":"nominal"}
     }
     },
     {
-    "mark":{"type": "circle","color":"black","size":60},
+    "mark":{"type": "circle","stroke":"black","size":60,"fill":"white","strokeWidth":2},
     "encoding": {
         "x":{"datum":2035,"type": "quantitative"},
         "y":{"datum":"Net zero emissions","type":"nominal"}
     }
-    },
-    {
-    "mark":{"type": "text","baseline":"top","dy":5,"text":["2035"],"size":14,"align":"center","color":"darkblue"},
-    "encoding": {
-        "x":{"datum":2035,"type": "quantitative"},
-        "y":{"datum":"Net zero emissions","type":"nominal"}
     }
-    },
-    {
-    "mark":{"type": "text","baseline":"top","dy":5,"text":["2015"],"size":14,"align":"center","color":"darkblue"},
-    "encoding": {
-        "x":{"datum":2015,"type": "quantitative"},
-        "y":{"datum":"Net zero emissions","type":"nominal"}
-    }
-    },
-    {
-    "mark":{"type": "text","baseline":"top","dy":5,"text":["2015"],"size":14,"align":"center","color":"darkblue"},
-    "encoding": {
-        "x":{"datum":2015,"type": "quantitative"},
-        "y":{"datum":"Sustainable development goals","type":"nominal"}
-    }
-    },
-    {
-    "mark":{"type": "text","baseline":"top","dy":5,"text":["2030"],"size":14,"align":"center","color":"darkblue"},
-    "encoding": {
-        "x":{"datum":2030,"type": "quantitative"},
-        "y":{"datum":"Sustainable development goals","type":"nominal"}
-    }
-    },
-    {
-    "mark":{"type": "text","baseline":"top","dy":5,"text":["2050"],"size":14,"align":"center","color":"darkblue"},
-    "encoding": {
-        "x":{"datum":2050,"type": "quantitative"},
-        "y":{"datum":"Net zero emissions","type":"nominal"}
-    }
-    }
-    
 
 ]
 }

@@ -1,5 +1,11 @@
+body{
+    padding: 20px;
+    background-color:#f5f6f1;
+    color: #29352f;
+}
+
 .pure-u-g div{
-    margin-top: 10px;
+    margin-top: 50px;
     margin-bottom: 30px;
 }
 
@@ -7,8 +13,17 @@
     width: 50vw;
 }
 
+.title{
+    background-color: #193d35;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 60px;
+    font-size: 30px;
+}
+
 h1{
-    font-size: 56px;
+    font-size: 80px;
 }
 
 h2{
@@ -18,35 +33,26 @@ h2{
     max-width: 1100px;
     padding: 0 20px;
 }
-
 p{
     margin-left: 100px;
-    margin-right: 100px;
-    padding: 20px;
+    margin-top: 10px;  /* This changes how far down just the intro paragraph sits as well as each paragph below it   */
+    padding-left: 108px;
+    margin-right: 20px;
 }
 
-body{
-    max-width: 100%;
-    padding: 20px;
-    background-color:#f5f6f1;
-    color: #29352f;
-}
-.title{
-    background-color: #193d35;
-    color: white;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding: 60px;
-}
+
 .intro {
-    max-width: 1000px;
-    margin: 40 auto;
+    margin-left: 100px;
+    margin-top: 80px ;
     padding: 40px 24px 8px;
-    font-size: 8px;
+    font-size: 18px;
+    align-items: center;
 }
 
 .description {
     max-width: 1060px;
+    margin-right: 100px;
+    padding: 20px;
     margin: 0 auto;
     padding: 0 20px;
     color: #53645a;
@@ -70,9 +76,10 @@ body{
     border: 1px solid #dce4dc;
     border-radius: 12px;
     box-shadow: 0 3px 12px rgba(25, 61, 53, 0.05);
+    overflow: hidden
 }
-#Gant_Chart{
-    width:100%;
+#Gantt_Chart{
+    width:80%;
     max-width: 100%
 }
 .vega-embed,
