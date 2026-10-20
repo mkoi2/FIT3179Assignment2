@@ -41,6 +41,21 @@ body{
     background-color:#f5f6f1;
     color: #29352f;
 }
+
+.intro {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 24px 24px 8px;
+    font-size: 1.05rem;
+}
+
+.section-description {
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 0 20px;
+    color: #53645a;
+}
+
 .charts{
     width: min(100% - 40px, 1100px);
     margin: 20px auto 45px;
