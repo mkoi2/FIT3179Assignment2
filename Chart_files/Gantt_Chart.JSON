@@ -1,6 +1,5 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"title": { "text": "World Climate Goals" },
 "data": {
     "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Goals.csv"
 },
@@ -24,7 +23,7 @@
         }
     },
     {
-    "mark":{"type": "text","baseline":"bottom","dy":-35,"text":["In 2015 All 193 United"," Nation member states"," endoresed this goal"],"size":12,"align":"left"},
+    "mark":{"type": "text","baseline":"bottom","dy":-55,"text":["In 2015 All 193 United"," Nation member states"," endoresed the 17 sustainable"," developement goals (SDGs)"],"size":12,"align":"left"},
     "encoding": {
         "x":{"datum":2015,"type": "quantitative"},
         "y":{"datum":"Sustainable development goals","type":"nominal"}
