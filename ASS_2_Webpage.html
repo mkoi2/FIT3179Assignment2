@@ -23,9 +23,9 @@
 
 
 <body>
-    <div class = pure-u-1-2>
-        <h1> Enviromental Sustainablility Around The World</h1>
-        <section class = "intro">
+    <h1> Enviromental Sustainablility Around The World</h1>
+    <div class = pure-g intro-section> 
+        <div class = pure-u-1-2 intro>
             <p>
                     Environmental sustainability indicators are ways to measure human impact on the Earth.
                     It is important to uphold sustainable and environmentally friendly practices to maintain a 
@@ -33,14 +33,12 @@
                     this page include Greenhouse gas emissions, renewable energy generation, waste generation 
                     and treatment and resource efficiency .
             </p>
-        </section>
-    </div>
-    <div class = pure-u-1-2></div>
-        <h3>World Sustainability Goals</h3>
-        <section class = "charts">
-                <div id = Gantt_Chart></div>
-        </section>
-    </div>
+        </div>
+        <div class = pure-u-1-2 gantt-chart>
+            <h3>World Sustainability Goals</h3>
+                    <div id = Gantt_Chart></div>
+        </div>
+    </div> 
     
     <h2>Temperature change chart</h2>
     <section class = "charts">
@@ -56,28 +54,26 @@
 
     <p>
         <span style = "background-color:darkseagreen; padding: 2px 6px; border-radius: 4px;">
-            Press on a country below to see how it's green house gas emission has changed over 100 years.</p>
+            Press on a country below to see how it's green house gas emission has changed over 100 years.
+        </p>
         </span>
     </div>
-    <div class = "pure-u-g">
-        <div class = "charts">
+
+    <section class = "charts">
         <div id = "Choropleth_Map"></div>
-        </div>
-    </div>
+    </section>
+    
 
     <h2>Waste Generation</h2>
-    <div class="pure-g">
-            <div class = "charts">
-            <div id = "Bar_Chart"></div>
-            </div>
+    <section class = "charts">
+    <div id = "Bar_Chart"></div>
+    </section>
            
-    </div>
     <h2>Energy generation</h2>
-    <div class="pure-g">
-            <div class = "charts">
-            <div id = "Proportional_Map"></div>
-           </div>
-    </div>
+    <section class = "charts">
+    <div id = "Proportional_Map"></div>
+    </section>
+
 
 </body>
 

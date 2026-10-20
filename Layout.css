@@ -5,12 +5,8 @@
 
 .pure-u-1-2 div{
     width: 50vw;
-}
-
-.pure-u-1 div{
-    margin-left: 30px;
-    margin-right: 30px;
-    width: 100vw;
+    margin: 48px auto 12px;
+    padding: 0 20px;
 }
 
 h1{
@@ -50,7 +46,7 @@ body{
     font-size: 1.05rem;
 }
 
-.section-description {
+.description {
     max-width: 1060px;
     margin: 0 auto;
     padding: 0 20px;
@@ -66,6 +62,19 @@ body{
     border: 1px solid #dce4dc;
     border-radius: 12px;
     box-shadow: 0 3px 12px rgba(25, 61, 53, 0.05);
+}
+
+.gantt-chart{
+    padding: 24px;
+    box-sizing: border-box;
+    background: #ffffff;
+    border: 1px solid #dce4dc;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(25, 61, 53, 0.05);
+}
+#Gant_Chart{
+    width:100%;
+    max-width: 100%
 }
 .vega-embed,
 .vega-embed canvas,
