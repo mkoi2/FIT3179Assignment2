@@ -13,7 +13,7 @@
             }
         },
         {
-            "name": "Region_Selection",
+            "name": "Country_Dropdown",
             "value":"World",
             "bind": {
                 "input": "select",
@@ -421,7 +421,16 @@
                 ],
                 "name": "Country Selection"
             } 
-        }         
+        },
+        {
+            "name":"Country_Click",
+            "select":{
+                "type": "point",
+                "fields": ["Entity"],
+                "on": "click",
+                "clear": "dblclick"
+            }
+        }        
     ],
     
 "hconcat":[
@@ -471,17 +480,6 @@
                     
                 ],
                 
-                "params":[
-                    {
-                        "name": "Country_Selection",
-                        "select":{
-                            "type": "point",
-                            "fields": ["Entity"],
-                            "on": "click",
-                            "clear": "dblclick"
-                        }
-                    }
-                ],
 
                 "mark": {"type": "geoshape"},
                 "encoding": {
@@ -491,7 +489,8 @@
                         "type": "quantitative",
                         "scale": {
                             "type": "linear",
-                            "domain": [0,50]
+                            "domain": [0,50],
+                            "range":["#edf8fb","#bfd3e6","#9ebcda","#8c96c6","#8856a7","#810f7c"]
                         }
                     },
                 
@@ -513,12 +512,12 @@
                 "width": 300,
                 "height": 450,
                 "transform": [
-                    {"filter": {"param": "Country_Selection"}},
-                    {"filter": "Region_Selection == null || datum.Entity == Region_Selection" },
+                    {"filter": "Country_Click.Entity == null ? datum.Entity == Country_Dropdown : datum.Entity == Country_Click.Entity"},
                     {
                         "calculate": "'Emissions 100 Years Ago vs Now In ' + datum.Entity",
                         "as":"chart_title"
                     }
+    
                 ],
                 "encoding": {
                         "x":{
