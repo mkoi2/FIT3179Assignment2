@@ -7,11 +7,11 @@
 },
 "mark": {"type":"bar","color":"#aa9251"},
 "encoding": {
-"y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
-"x": { "field": "REF_AREA", "type": "nominal" ,"title":null,"sort":{"field":"OBS_VALUE","order":"descending"}},
-"tooltip":[
-    { "field": "Reference area", "type": "nominal","title":"Country"},
-    { "field": "OBS_VALUE", "type": "quantitative","title":"Waste Generation (Tonnes per Capita)"}
+    "y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
+    "x": { "field": "REF_AREA", "type": "nominal" ,"title":null,"sort":{"field":"OBS_VALUE","order":"descending"}},
+    "tooltip":[
+        { "field": "Reference area", "type": "nominal","title":"Country"},
+        { "field": "OBS_VALUE", "type": "quantitative","title":"Waste Generation (Tonnes per Capita)"}
 ]
 
 }

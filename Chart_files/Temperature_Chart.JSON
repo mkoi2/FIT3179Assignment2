@@ -7,13 +7,28 @@
     "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/temperature-anomaly.csv"
     
 },
-"mark": {"type":"line","color":"#f15a23e9"},
-"encoding": {
-    "x":{"field": "Year","type": "quantitative","title": "Year","axis":{"format":"d"}},
-    "y":{"field": "Average", "type": "quantitative", "title":"Temperature change relative to the pre-industrial period (°C)"},
-    "tooltip": [
-        {"field": "Average", "type": "quantitative", "title": "Change in world temperature °C"},
-        {"field": "Year", "type": "quantitative","title": "Year"}
-    ]
+"layer":[
+    {
+    "mark": {"type":"line","color":"#f15a23e9","strokeWidth":1.5},
+    "encoding": {
+        "x":{"field": "Year","type": "quantitative","title": "Year","axis":{"format":"d"}},
+        "y":{"field": "Average", "type": "quantitative", "title":"Temperature change relative to the pre-industrial period (°C)"},
+        "tooltip": [
+            {"field": "Average", "type": "quantitative", "title": "Change in world temperature °C"},
+            {"field": "Year", "type": "quantitative","title": "Year"}
+        ]
+        }
+    },
+    {
+    "mark": {"type":"point","color":"#f15a23e9","fill":"#f15a23e9","size":8},
+    "encoding": {
+        "x":{"field": "Year","type": "quantitative","title": "Year","axis":{"format":"d"}},
+        "y":{"field": "Average", "type": "quantitative", "title":"Temperature change relative to the pre-industrial period (°C)"},
+        "tooltip": [
+            {"field": "Average", "type": "quantitative", "title": "Change in world temperature °C"},
+            {"field": "Year", "type": "quantitative","title": "Year"}
+        ]
+    }
 }
+]
 }

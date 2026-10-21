@@ -421,16 +421,7 @@
                 ],
                 "name": "Country Selection"
             } 
-        },
-        {
-            "name":"Country_Click",
-            "select":{
-                "type": "point",
-                "fields": ["Entity"],
-                "on": "click",
-                "clear": "dblclick"
-            }
-        }        
+        }       
     ],
     
 "hconcat":[
@@ -476,10 +467,19 @@
                         },
                         "as": "geo"
                             
-                    }
-                    
+                    }   
                 ],
-                
+                "params":[
+                    {
+                        "name": "Country_Click",
+                        "select":{
+                            "type": "point",
+                            "fields": ["Entity"],
+                            "on": "click",
+                            "clear": "dblclick"
+                        }
+                    }
+                ],
 
                 "mark": {"type": "geoshape"},
                 "encoding": {
@@ -509,6 +509,7 @@
                     "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/GHG_100.csv"
                     
                 },
+                
                 "width": 300,
                 "height": 450,
                 "transform": [
