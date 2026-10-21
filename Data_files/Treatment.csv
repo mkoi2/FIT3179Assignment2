@@ -1,0 +1,343 @@
+Code,Country,Treatment Method,Amount Treated
+AUS,Australia,Incineration with energy recovery,0
+AUS,Australia,Other disposal,0
+AUS,Australia,Incineration without energy recovery,0
+AUS,Australia,Other recovery,1222
+AUS,Australia,Composting,2677
+AUS,Australia,Recycling,2771
+AUS,Australia,Disposal operations,6490
+AUS,Australia,Recovery operations,5448
+AUS,Australia,Landfill,6490
+AUS,Australia,Amounts designated for treatment operations,11938
+AUT,Austria,Other disposal,0
+AUT,Austria,Other recovery,0
+AUT,Austria,Disposal operations,145
+AUT,Austria,Incineration with energy recovery,2662
+AUT,Austria,Landfill,137
+AUT,Austria,Composting,1592
+AUT,Austria,Amounts designated for treatment operations,7438
+AUT,Austria,Recycling,3006
+AUT,Austria,Recovery operations,7293
+AUT,Austria,Incineration without energy recovery,7
+BEL,Belgium,Other disposal,0
+BEL,Belgium,Other recovery,0
+BEL,Belgium,Incineration without energy recovery,1
+BEL,Belgium,Incineration with energy recovery,4069
+BEL,Belgium,Composting,1585
+BEL,Belgium,Recycling,2711
+BEL,Belgium,Disposal operations,20
+BEL,Belgium,Recovery operations,8388
+BEL,Belgium,Landfill,19
+BEL,Belgium,Amounts designated for treatment operations,8408
+CHL,Chile,Other disposal,0
+CHL,Chile,Incineration without energy recovery,0
+CHL,Chile,Other recovery,7
+CHL,Chile,Incineration with energy recovery,0
+CHL,Chile,Composting,1
+CHL,Chile,Recycling,86
+CHL,Chile,Disposal operations,5706
+CHL,Chile,Recovery operations,94
+CHL,Chile,Landfill,4936
+CHL,Chile,Amounts designated for treatment operations,5800
+CHN,China ,Other disposal,10732
+CHN,China ,Landfill,77715
+CHN,China ,Amounts designated for treatment operations,234523
+CRI,Costa Rica,Other disposal,145
+CRI,Costa Rica,Composting,44
+CRI,Costa Rica,Recycling,46
+CRI,Costa Rica,Disposal operations,1368
+CRI,Costa Rica,Recovery operations,91
+CRI,Costa Rica,Landfill,1223
+CRI,Costa Rica,Amounts designated for treatment operations,1459
+CZE,Czechia,Other disposal,0
+CZE,Czechia,Other recovery,16
+CZE,Czechia,Incineration without energy recovery,5
+CZE,Czechia,Incineration with energy recovery,732
+CZE,Czechia,Composting,751
+CZE,Czechia,Recycling,1603
+CZE,Czechia,Disposal operations,2779
+CZE,Czechia,Recovery operations,3102
+CZE,Czechia,Landfill,2774
+CZE,Czechia,Amounts designated for treatment operations,5881
+DNK,Denmark,Other disposal,0
+DNK,Denmark,Incineration without energy recovery,0
+DNK,Denmark,Other recovery,0
+DNK,Denmark,Recycling,1214
+DNK,Denmark,Composting,921
+DNK,Denmark,Incineration with energy recovery,2536
+DNK,Denmark,Recovery operations,4702
+DNK,Denmark,Disposal operations,41
+DNK,Denmark,Landfill,41
+DNK,Denmark,Amounts designated for treatment operations,4744
+EST,Estonia,Incineration without energy recovery,0
+EST,Estonia,Other disposal,0
+EST,Estonia,Other recovery,0
+EST,Estonia,Incineration with energy recovery,218
+EST,Estonia,Composting,14
+EST,Estonia,Recycling,133
+EST,Estonia,Disposal operations,75
+EST,Estonia,Recovery operations,365
+EST,Estonia,Landfill,75
+EST,Estonia,Amounts designated for treatment operations,440
+FIN,Finland,Other disposal,0
+FIN,Finland,Other recovery,0
+FIN,Finland,Incineration without energy recovery,2
+FIN,Finland,Incineration with energy recovery,1932
+FIN,Finland,Composting,442
+FIN,Finland,Recycling,977
+FIN,Finland,Disposal operations,19
+FIN,Finland,Recovery operations,3351
+FIN,Finland,Landfill,17
+FIN,Finland,Amounts designated for treatment operations,3370
+FRA,France,Other disposal,0
+FRA,France,Incineration with energy recovery,11779
+FRA,France,Incineration without energy recovery,43
+FRA,France,Recovery operations,26137
+FRA,France,Amounts designated for treatment operations,34877
+FRA,France,Composting,6165
+FRA,France,Recycling,7868
+FRA,France,Landfill,8697
+FRA,France,Disposal operations,8740
+FRA,France,Other recovery,175
+DEU,Germany,Other recovery,0
+DEU,Germany,Other disposal,501
+DEU,Germany,Incineration without energy recovery,365
+DEU,Germany,Incineration with energy recovery,15517
+DEU,Germany,Composting,11862
+DEU,Germany,Recycling,24910
+DEU,Germany,Disposal operations,1033
+DEU,Germany,Recovery operations,52288
+DEU,Germany,Landfill,167
+DEU,Germany,Amounts designated for treatment operations,53322
+GRC,Greece,Other disposal,0
+GRC,Greece,Incineration without energy recovery,0
+GRC,Greece,Other recovery,0
+GRC,Greece,Amounts designated for treatment operations,5335
+GRC,Greece,Composting,85
+GRC,Greece,Recovery operations,1051
+GRC,Greece,Incineration with energy recovery,88
+GRC,Greece,Recycling,878
+GRC,Greece,Disposal operations,4284
+GRC,Greece,Landfill,4284
+HUN,Hungary,Other disposal,0
+HUN,Hungary,Other recovery,80
+HUN,Hungary,Incineration without energy recovery,4
+HUN,Hungary,Incineration with energy recovery,466
+HUN,Hungary,Composting,384
+HUN,Hungary,Recycling,873
+HUN,Hungary,Disposal operations,2127
+HUN,Hungary,Recovery operations,1804
+HUN,Hungary,Landfill,2124
+HUN,Hungary,Amounts designated for treatment operations,3931
+ISL,Iceland,Other disposal,0
+ISL,Iceland,Other recovery,35
+ISL,Iceland,Incineration without energy recovery,6
+ISL,Iceland,Incineration with energy recovery,18
+ISL,Iceland,Composting,20
+ISL,Iceland,Recycling,40
+ISL,Iceland,Disposal operations,113
+ISL,Iceland,Recovery operations,112
+ISL,Iceland,Landfill,107
+ISL,Iceland,Amounts designated for treatment operations,225
+IRL,Ireland,Other disposal,0
+IRL,Ireland,Other recovery,0
+IRL,Ireland,Amounts designated for treatment operations,3181
+IRL,Ireland,Recovery operations,2663
+IRL,Ireland,Landfill,517
+IRL,Ireland,Recycling,948
+IRL,Ireland,Disposal operations,518
+IRL,Ireland,Incineration without energy recovery,0
+IRL,Ireland,Incineration with energy recovery,1353
+IRL,Ireland,Composting,351
+ISR,Israel,Incineration with energy recovery,95
+ISR,Israel,Composting,863
+ISR,Israel,Recycling,392
+ISR,Israel,Disposal operations,4626
+ISR,Israel,Recovery operations,1350
+ISR,Israel,Landfill,4626
+ISR,Israel,Amounts designated for treatment operations,5976
+ITA,Italy,Other recovery,0
+ITA,Italy,Incineration without energy recovery,158
+ITA,Italy,Incineration with energy recovery,5457
+ITA,Italy,Composting,6868
+ITA,Italy,Recycling,8004
+ITA,Italy,Disposal operations,5975
+ITA,Italy,Recovery operations,20328
+ITA,Italy,Landfill,5817
+ITA,Italy,Amounts designated for treatment operations,26304
+JPN,Japan,Incineration without energy recovery,1986
+JPN,Japan,Incineration with energy recovery,31283
+JPN,Japan,Composting,171
+JPN,Japan,Recycling,8155
+JPN,Japan,Disposal operations,2353
+JPN,Japan,Recovery operations,39609
+JPN,Japan,Landfill,367
+JPN,Japan,Amounts designated for treatment operations,41962
+KOR,South Korea,Other disposal,720
+KOR,South Korea,Incineration without energy recovery,673
+KOR,South Korea,Incineration with energy recovery,5081
+KOR,South Korea,Composting,690
+KOR,South Korea,Recycling,12729
+KOR,South Korea,Disposal operations,4045
+KOR,South Korea,Recovery operations,18500
+KOR,South Korea,Landfill,2652
+KOR,South Korea,Amounts designated for treatment operations,22545
+LVA,Latvia,Other disposal,0
+LVA,Latvia,Incineration without energy recovery,0
+LVA,Latvia,Other recovery,0
+LVA,Latvia,Incineration with energy recovery,24
+LVA,Latvia,Composting,66
+LVA,Latvia,Recycling,294
+LVA,Latvia,Disposal operations,480
+LVA,Latvia,Recovery operations,385
+LVA,Latvia,Landfill,480
+LVA,Latvia,Amounts designated for treatment operations,865
+LTU,Lithuania,Other disposal,0
+LTU,Lithuania,Other recovery,17
+LTU,Lithuania,Incineration without energy recovery,0
+LTU,Lithuania,Incineration with energy recovery,349
+LTU,Lithuania,Composting,280
+LTU,Lithuania,Recycling,329
+LTU,Lithuania,Disposal operations,220
+LTU,Lithuania,Recovery operations,977
+LTU,Lithuania,Landfill,220
+LTU,Lithuania,Amounts designated for treatment operations,1197
+LUX,Luxembourg,Other disposal,0
+LUX,Luxembourg,Incineration without energy recovery,0
+LUX,Luxembourg,Other recovery,1
+LUX,Luxembourg,Incineration with energy recovery,215
+LUX,Luxembourg,Composting,117
+LUX,Luxembourg,Recycling,146
+LUX,Luxembourg,Disposal operations,19
+LUX,Luxembourg,Recovery operations,478
+LUX,Luxembourg,Landfill,19
+LUX,Luxembourg,Amounts designated for treatment operations,498
+MEX,Mexico,Recovery operations,1185
+MEX,Mexico,Landfill,25315
+MEX,Mexico,Amounts designated for treatment operations,38881
+NLD,Netherlands,Other disposal,0
+NLD,Netherlands,Other recovery,1
+NLD,Netherlands,Incineration without energy recovery,83
+NLD,Netherlands,Incineration with energy recovery,3793
+NLD,Netherlands,Composting,2714
+NLD,Netherlands,Recycling,2583
+NLD,Netherlands,Disposal operations,210
+NLD,Netherlands,Recovery operations,9090
+NLD,Netherlands,Landfill,127
+NLD,Netherlands,Amounts designated for treatment operations,9300
+NZL,New Zealand,Landfill,3383
+NOR,Norway,Incineration without energy recovery,0
+NOR,Norway,Other disposal,0
+NOR,Norway,Disposal operations,90
+NOR,Norway,Composting,376
+NOR,Norway,Other recovery,246
+NOR,Norway,Recovery operations,3815
+NOR,Norway,Incineration with energy recovery,1814
+NOR,Norway,Landfill,90
+NOR,Norway,Recycling,1379
+NOR,Norway,Amounts designated for treatment operations,3905
+POL,Poland,Other recovery,0
+POL,Poland,Other disposal,0
+POL,Poland,Incineration without energy recovery,166
+POL,Poland,Incineration with energy recovery,2656
+POL,Poland,Composting,1578
+POL,Poland,Recycling,3499
+POL,Poland,Disposal operations,5384
+POL,Poland,Recovery operations,7733
+POL,Poland,Landfill,5218
+POL,Poland,Amounts designated for treatment operations,13117
+PRT,Portugal,Other disposal,0
+PRT,Portugal,Incineration without energy recovery,0
+PRT,Portugal,Other recovery,0
+PRT,Portugal,Incineration with energy recovery,1129
+PRT,Portugal,Composting,740
+PRT,Portugal,Recycling,673
+PRT,Portugal,Disposal operations,3009
+PRT,Portugal,Recovery operations,2542
+PRT,Portugal,Landfill,3009
+PRT,Portugal,Amounts designated for treatment operations,5551
+SVK,Slovakia,Other disposal,0
+SVK,Slovakia,Other recovery,2
+SVK,Slovakia,Incineration without energy recovery,0
+SVK,Slovakia,Incineration with energy recovery,193
+SVK,Slovakia,Composting,355
+SVK,Slovakia,Recycling,810
+SVK,Slovakia,Disposal operations,1189
+SVK,Slovakia,Recovery operations,1378
+SVK,Slovakia,Landfill,1189
+SVK,Slovakia,Amounts designated for treatment operations,2568
+SVN,Slovenia,Other disposal,0
+SVN,Slovenia,Other recovery,0
+SVN,Slovenia,Incineration with energy recovery,113
+SVN,Slovenia,Recycling,460
+SVN,Slovenia,Incineration without energy recovery,21
+SVN,Slovenia,Composting,147
+SVN,Slovenia,Disposal operations,89
+SVN,Slovenia,Recovery operations,720
+SVN,Slovenia,Landfill,69
+SVN,Slovenia,Amounts designated for treatment operations,809
+ESP,Spain,Incineration without energy recovery,0
+ESP,Spain,Other recovery,0
+ESP,Spain,Incineration with energy recovery,2218
+ESP,Spain,Composting,4424
+ESP,Spain,Recycling,4434
+ESP,Spain,Disposal operations,10853
+ESP,Spain,Recovery operations,11076
+ESP,Spain,Landfill,10853
+ESP,Spain,Amounts designated for treatment operations,21928
+SWE,Sweden,Incineration without energy recovery,0
+SWE,Sweden,Other disposal,2
+SWE,Sweden,Other recovery,14
+SWE,Sweden,Recycling,898
+SWE,Sweden,Incineration with energy recovery,2680
+SWE,Sweden,Disposal operations,21
+SWE,Sweden,Landfill,19
+SWE,Sweden,Composting,808
+SWE,Sweden,Amounts designated for treatment operations,4422
+SWE,Sweden,Recovery operations,4401
+CHE,Switzerland,Disposal operations,0
+CHE,Switzerland,Landfill,0
+CHE,Switzerland,Other disposal,0
+CHE,Switzerland,Incineration without energy recovery,0
+CHE,Switzerland,Other recovery,0
+CHE,Switzerland,Composting,1405
+CHE,Switzerland,Incineration with energy recovery,2875
+CHE,Switzerland,Recycling,1816
+CHE,Switzerland,Recovery operations,6096
+CHE,Switzerland,Amounts designated for treatment operations,6096
+TUR,Turkey,Incineration with energy recovery,0
+TUR,Turkey,Incineration without energy recovery,0
+TUR,Turkey,Other recovery,0
+TUR,Turkey,Other disposal,0
+TUR,Turkey,Composting,117
+TUR,Turkey,Recycling,4146
+TUR,Turkey,Disposal operations,28061
+TUR,Turkey,Recovery operations,4264
+TUR,Turkey,Landfill,28060
+TUR,Turkey,Amounts designated for treatment operations,32324
+UKR,Ukraine,Composting,0
+UKR,Ukraine,Incineration without energy recovery,1
+UKR,Ukraine,Incineration with energy recovery,164
+UKR,Ukraine,Recycling,4
+UKR,Ukraine,Disposal operations,7522
+UKR,Ukraine,Recovery operations,168
+UKR,Ukraine,Landfill,7522
+UKR,Ukraine,Amounts designated for treatment operations,12635
+GBR,United Kingdom,Other disposal,741
+GBR,United Kingdom,Other recovery,128
+GBR,United Kingdom,Incineration without energy recovery,345
+GBR,United Kingdom,Incineration with energy recovery,13482
+GBR,United Kingdom,Composting,5309
+GBR,United Kingdom,Recycling,8032
+GBR,United Kingdom,Recovery operations,26952
+GBR,United Kingdom,Landfill,3112
+GBR,United Kingdom,Amounts designated for treatment operations,31150
+USA,United States of America,Incineration without energy recovery,0
+USA,United States of America,Other recovery,16066
+USA,United States of America,Recovery operations,132666
+USA,United States of America,Amounts designated for treatment operations,265224
+USA,United States of America,Incineration with energy recovery,31343
+USA,United States of America,Composting,22580
+USA,United States of America,Recycling,62677
+USA,United States of America,Disposal operations,132558
+USA,United States of America,Landfill,132558
