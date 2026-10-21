@@ -16,7 +16,7 @@
     "encoding": {
         "x": { "field": "Start", "type": "quantitative","title":null,
         "axis":{"format":"d","tickCount":5,"labelFontSize":14},
-        "scale":{"domain":[2010,2060]}
+        "scale":{"domain":[2010,2055]}
         },
         "x2":{"field":"End"},
         "y": { "field": "Goal", "type": "nominal","title":null,"axis":{"labelFontSize":14}}
