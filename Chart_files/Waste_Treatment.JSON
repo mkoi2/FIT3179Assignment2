@@ -1,22 +1,109 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"title": { "text": "Waste Generation Of OECD Countries In 2020" },
-"width":1000,
+"title": { "text": "Waste Treatment Methods By Country" },
+"height":450,
+"width":700,
 "data": {
-"url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Waste_Treat.csv"
+"url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Treatment.csv"
 },
 "transform":[
     {
+        "aggregate": [
+            {
+                "op":"sum",
+                "field":"Amount Treated",
+                "as":"Amount"
+            }
+        ],
         "groupby": [
-            "Reference area",
-            ""
+            "Country",
+            "Treatment Method"
         ]
+    },
+    {
+        "joinaggregate": [
+            {
+                "op": "sum",
+                "field": "Amount",
+                "as":"Country_Total"
+            }
+        ],
+        "groupby": [
+            "Country"
+        ]
+    },
+    {
+      "calculate": "datum.Country_Total > 0 ? datum.Amount / datum.Country_Total : 0",
+      "as": "MethodShare"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "sum",
+          "field": "Amount",
+          "as": "GrandTotal"
+        }
+      ]
+    },
+    {
+      "calculate": "datum.Country_Total / datum.GrandTotal",
+      "as": "CountryShare"
+    },
+    {
+      "stack": "CountryShare",
+      "groupby": [],
+      "sort": [{"field": "Country", "order": "ascending"}],
+      "as": ["x0", "x1"]
+    },
+    {
+      "stack": "MethodShare",
+      "groupby": ["Country"],
+      "sort": [
+        {"field": "Treatment Method", "order": "ascending"}
+      ],
+      "as": ["y0", "y1"]
     }
-]
-
-
-
-
-
-
+  ],
+  "mark": {
+    "type": "rect",
+    "stroke": "white",
+    "strokeWidth": 1
+  },
+  "encoding": {
+    "x": {
+      "field": "x0",
+      "type": "quantitative",
+      "scale": {"domain": [0, 1]},
+      "axis": null
+    },
+    "x2": {"field": "x1"},
+    "y": {
+      "field": "y0",
+      "type": "quantitative",
+      "scale": {"domain": [0, 1]},
+      "axis": null
+    },
+    "y2": {"field": "y1"},
+    "color": {
+        "field": "Treatment Method",
+      "type": "nominal",
+      "legend": {"orient": "right"}
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Treatment Method", "type": "nominal"},
+      {
+        "field": "Amount",
+        "type": "quantitative",
+        "format": ",.0f",
+        "title": "Amount Treated"
+      },
+      {
+        "field": "MethodShare",
+        "type": "quantitative",
+        "format": ".1%",
+        "title": "Share within country"
+      }
+    ]
+}
 }
