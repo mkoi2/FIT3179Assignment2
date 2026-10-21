@@ -1,16 +1,17 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "title": { "text": "Waste Generation Of OECD Countries In 2020" },
+"width":1000,
 "data": {
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Waste_Gen.csv"
 },
-"mark": "bar",
+"mark": {"type":"bar","color":"#aa9251"},
 "encoding": {
 "y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
-"x": { "field": "Reference area", "type": "nominal" ,"title":null,"sort":{"field":"OBS_VALUE","order":"descending"}},
+"x": { "field": "REF_AREA", "type": "nominal" ,"title":null,"sort":{"field":"OBS_VALUE","order":"descending"}},
 "tooltip":[
-    { "field": "OBS_VALUE", "type": "quantitative","title":"Waste Generation (Tonnes per Capita)"},
-    { "field": "Reference area", "type": "nominal","title":"Country"}
+    { "field": "Reference area", "type": "nominal","title":"Country"},
+    { "field": "OBS_VALUE", "type": "quantitative","title":"Waste Generation (Tonnes per Capita)"}
 ]
 
 }

@@ -30,7 +30,7 @@
     ],
 
         "title": "Energy Generation Around The World In 2025",
-        "width": 900,
+        "width": 1000,
         "height": 450,
         "layer": [
             {
@@ -59,7 +59,8 @@
                     "latitude":{"field":"Latitude","type": "quantitative"},
                     "size": {
                         "field": "Energy",
-                        "type": "quantitative"
+                        "type": "quantitative",
+                        "title":"Energy generated (MWh per capita))"
                     },
                     
                     "tooltip": [
@@ -82,7 +83,13 @@
             "encoding": {
                 "longitude":{"field":"Longitudinal","type":"quantitative"},
                 "latitude":{"field":"Latitude","type": "quantitative"},
-                "text":{"field":"Rank","type": "quantitative"}
+                "text":{"field":"Rank","type": "quantitative"},
+                "tooltip": [
+                        {"field":"Rank","type": "quantitative","title":"Generation Ranking"},
+                        {"field": "Country", "type": "nominal", "title": "Country"},
+                        {"field": "Category", "type": "nominal","title":"Energy Source"},
+                        {"field": "Energy", "type": "quantitative","title": "Energy generated (Mega watts per person)","format":".2f"}
+                    ] 
             }
             }
         ]

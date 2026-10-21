@@ -1,13 +1,13 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "title": "Average temperature",
-"width": 400,
+"width":700,
 "height": 450,
 "data":{
     "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/temperature-anomaly.csv"
     
 },
-"mark": "line",
+"mark": {"type":"line","color":"#f15a23e9"},
 "encoding": {
     "x":{"field": "Year","type": "quantitative","title": "Year","axis":{"format":"d"}},
     "y":{"field": "Average", "type": "quantitative", "title":"Temperature change relative to the pre-industrial period (°C)"},
