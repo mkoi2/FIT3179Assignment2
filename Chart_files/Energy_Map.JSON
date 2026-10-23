@@ -53,7 +53,7 @@
                 "transform": [
                     {"filter": "datum.Category == Energy_Source"}  
                 ],
-                "mark": {"type": "circle","color":"yellow"},
+                "mark": {"type": "circle","color":"yellow","strokeWidth":2,"stroke":"orange"},
                 "encoding": {
                     "longitude":{"field":"Longitudinal","type":"quantitative"},
                     "latitude":{"field":"Latitude","type": "quantitative"},
