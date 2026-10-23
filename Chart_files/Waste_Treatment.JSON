@@ -37,32 +37,65 @@
       "as": "MethodShare"
     },
     {
-      "joinaggregate": [
-        {
-          "op": "sum",
-          "field": "Amount",
-          "as": "GrandTotal"
-        }
-      ]
-    },
-    {
-      "calculate": "datum.Country_Total / datum.GrandTotal",
-      "as": "CountryShare"
-    },
-    {
-      "stack": "CountryShare",
-      "groupby": [],
-      "sort": [{"field": "Country", "order": "ascending"}],
-      "as": ["x0", "x1"]
-    },
-    {
-      "stack": "MethodShare",
-      "groupby": ["Country"],
-      "sort": [
+    "window": [
+      {
+        "op": "row_number",
+        "as": "MethodIndex"
+      }
+    ],
+    "groupby": [
+        "country"
+    ],
+    "sort": [
         {"field": "Treatment Method", "order": "ascending"}
-      ],
-      "as": ["y0", "y1"]
-    }
+    ]
+    },
+    {
+    "window": [
+      {
+        "op": "row_number",
+        "as": "CountryIndex"
+      }
+    ],
+    "sort": [
+        {"field": "Country","order":"ascending"},
+        {"field": "Treatment Method", "order": "ascending"}
+    ]
+    },
+    {
+    "calculate": "datum.CountryIndex - datum.MethodIndex",
+    "as": "CountryIndex"
+    },
+    {
+    "calculate": "datum.CountryInex - 1",
+    "as": "x0"
+    },
+    {
+    "calculate": "datum.CountryIndex",
+    "as": "x1"
+    },
+    {
+    "window": [
+      {
+        "op": "sum",
+        "field": "MethodShare",
+        "as": "MethodSum"
+      }
+    ],
+    "groupby": ["Country"],
+    "sort": [
+      {"field": "Treatment Method", "order": "ascending"}
+    ],
+    "frame": [null, 0]
+  },
+  {
+    "calculate": "datum.MethodSum - datum.MethodShare",
+    "as": "y0"
+  },
+  {
+    "calculate": "datum.MethodSum",
+    "as": "y1"
+  }
   ],
   "mark": {
     "type": "rect",
@@ -71,23 +104,24 @@
   },
   "encoding": {
     "x": {
-      "field": "x0",
-      "type": "quantitative",
-      "scale": {"domain": [0, 1]},
-      "axis": null
+      "field": "Country",
+      "type": "nominal",
+      "sort":"ascending"
     },
-    "x2": {"field": "x1"},
     "y": {
       "field": "y0",
       "type": "quantitative",
-      "scale": {"domain": [0, 1]},
-      "axis": null
+      "scale": {"domain": [0, 1],"reverse":true}
     },
     "y2": {"field": "y1"},
     "color": {
         "field": "Treatment Method",
-      "type": "nominal",
-      "legend": {"orient": "right"}
+        "type": "nominal",
+        "scale":{
+            "domain":["Composting","Incineration with energy recovery","Incineration without energy recovery","Landfill","Other disposal","Other recovery","Recycling"],
+            "range":["#74c476","#f3f070","#f1a340","#916126","#e9a3c9","#998ec3","#7bccc4","#d9f0a3"]
+        },
+        "legend": {"orient": "right"}
     },
     "tooltip": [
       {"field": "Country", "type": "nominal"},
