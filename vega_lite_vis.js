@@ -14,7 +14,7 @@ vegaEmbed("#Gantt_Chart",vg_3, {"actions":false}).then(function(result) {
 }).catch(console.error);
 
 var vg_4 = "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Chart_files/Energy_Map.JSON";
-vegaEmbed("#Proportional_Map", vg_4, {"actions":false}).then(function(result) {
+vegaEmbed("#Proportional_Map", vg_4, {"actions":false, renderer: "svg"}).then(function(result) {
 // Access the Vega view instance(https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 
