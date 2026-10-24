@@ -1,7 +1,37 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "width": 1000,
-"height": 600,
+"height": 450,
+"params": [
+            {
+            "name": "Area_Type",
+            "value":"Ia",
+            "bind": {
+
+                "input": "select",
+                "options": [
+                    "Ia",
+                    "Ib",
+                    "II",
+                    "III",
+                    "IV",
+                    "V",
+                    "VI"
+                    ],
+                "labels": [
+                    "Strict Nature Reserve",
+                    "Wilderness Area",
+                    "National Park",
+                    "Natural Monument or Feature",
+                    "Habitat/Species Management Area",
+                    "Protected Landscape",
+                    "Protected Areas With Sustainable use of Natural Resources"
+                    ],
+                    "name":"Concervation Classification"
+                }
+            }
+
+    ],
 "title": 
     {
     "text": "Protected Areas of Australia",
@@ -16,8 +46,8 @@
     "projection": {"type":"mercator"},
     "mark":{
                     "type": "geoshape",
-                    "fill": "#b4c0b5",
-                    "stroke": "white",
+                    "fill": "#c2cac2",
+                    "stroke": "black",
                     "strokeWidth": 1
                 }
     },
@@ -25,7 +55,10 @@
     "data":{
         "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Protected_Areas.csv"
         },
-        "mark": {"type": "circle","color":"green","strokeWidth":2,"stroke":"white"},
+        "transform": [
+                    {"filter": "datum.IUCN == Area_Type"}  
+        ],
+        "mark": {"type": "circle","color":"green","strokeWidth":1,"stroke":"white"},
         "encoding": {
             "longitude":{"field":"LONGITUDE","type":"quantitative"},
             "latitude":{"field":"LATITUDE","type": "quantitative"},
