@@ -40,8 +40,8 @@
 "layer":[
     {
     "data":{
-        "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/AUS_2016_AUST.topojson",
-        "format": {"type": "topojson", "feature": "AUS_2016_AUST"}
+        "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/refs/heads/main/Data_files/AUS_AUST.topojson",
+        "format": {"type": "topojson", "feature": "AUS_AUST"}
         },
     "projection": {"type":"mercator"},
     "mark":{
