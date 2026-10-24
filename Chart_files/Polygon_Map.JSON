@@ -23,8 +23,7 @@
     },
     {
     "data":{
-    "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Protected_Polygons.json",
-    "format": {"property":"Features"}
+    "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Protected_Polygons.json"
     },
     "mark":{
             "type": "geoshape",
