@@ -25,7 +25,7 @@
     {
     "mark":{"type": "text","baseline":"bottom","dy":-55,"text":["In 2015 All 193 United"," Nation member states"," endoresed the 17 sustainable"," developement goals (SDGs)"],"size":14,"align":"left"},
     "encoding": {
-        "x":{"datum":2015,"type": "quantitative"},
+        "x":{"datum":2012,"type": "quantitative"},
         "y":{"datum":"SDG","type":"nominal"}
     }
     },
@@ -39,7 +39,7 @@
     {
     "mark":{"type": "text","baseline":"bottom","dy":-40,"text":["In 2015 United Nation","urgued nations to pledge to", "aim for net zero emissions "],"size":14,"align":"left"},
     "encoding": {
-        "x":{"datum":2015,"type": "quantitative"},
+        "x":{"datum":2012,"type": "quantitative"},
         "y":{"datum":"Net Zero Emissions","type":"nominal"}
     }
     },
@@ -51,9 +51,9 @@
     }
     },
     {
-    "mark":{"type": "text","baseline":"bottom","dy":-40,"text":["Australia aims to reduce ","emissions by 62-70% below","2005 levels by 2035"],"size":14,"align":"left"},
+    "mark":{"type": "text","baseline":"top","dy":15,"text":["Australia aims to reduce","emissions by 62-70% below","2005 levels by 2035"],"size":14,"align":"left"},
     "encoding": {
-        "x":{"datum":2035,"type": "quantitative"},
+        "x":{"datum":2030,"type": "quantitative"},
         "y":{"datum":"Net Zero Emissions","type":"nominal"}
     }
     },
@@ -61,6 +61,20 @@
     "mark":{"type": "circle","stroke":"black","size":85,"fill":"white","strokeWidth":2},
     "encoding": {
         "x":{"datum":2035,"type": "quantitative"},
+        "y":{"datum":"Net Zero Emissions","type":"nominal"}
+    }
+    },
+    {
+    "mark":{"type": "text","baseline":"bottom","dy":-40,"text":["The goal is to cut global emissions","to an amount that can be absorbed","by the Earth's atmosphere by 2050"],"size":14,"align":"left"},
+    "encoding": {
+        "x":{"datum":2038,"type": "quantitative"},
+        "y":{"datum":"Net Zero Emissions","type":"nominal"}
+    }
+    },
+    {
+    "mark":{"type": "circle","stroke":"black","size":85,"fill":"white","strokeWidth":2},
+    "encoding": {
+        "x":{"datum":2050,"type": "quantitative"},
         "y":{"datum":"Net Zero Emissions","type":"nominal"}
     }
     }

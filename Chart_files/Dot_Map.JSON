@@ -1,0 +1,14 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 600,
+  "title": {
+    "text": "Protected Areas of Australia",
+    "subtitle": "Terrestrial protected areas by reserve type | Source: CAPAD"
+  },
+"data":{
+    "url":""
+},
+"projection": {"type":"mercator"},
+"mark":"point"
+}
