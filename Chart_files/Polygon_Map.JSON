@@ -2,6 +2,7 @@
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "width": 1000,
 "height": 450,
+"projection": {"type":"mercator"},
 "title": 
     {
     "text": "Protected Areas of Australia",
@@ -11,9 +12,8 @@
     {
     "data":{
         "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/AUS_AUST.topojson",
-        "format": {"type": "topojson", "feature": "AUS_2016_AUST"}
+        "format": {"type": "topojson", "feature": "AUS_AUST"}
         },
-    "projection": {"type":"equalEarth"},
     "mark":{
             "type": "geoshape",
             "fill": "#c2cac2",
@@ -23,35 +23,14 @@
     },
     {
     "data":{
-    "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/AUS_AUST.topojson",
-    "format": {"type": "topojson", "feature": "AUS_2016_AUST"}
+    "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Protected_Polygons.json",
+    "format": {"property":"Features"}
     },
-    "projection": {"type":"equalEarth"},
     "mark":{
             "type": "geoshape",
             "stroke": "black",
             "strokeWidth": 0.5
         } 
-    },
-    {
-    "data":{
-        "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Protected_Areas.csv"
-        },
-        "transform": [
-                    {"filter": "datum.IUCN == Area_Type"}  
-        ],
-        "mark": {"type": "circle","color":"green","strokeWidth":1,"stroke":"white"},
-        "encoding": {
-            "longitude":{"field":"LONGITUDE","type":"quantitative"},
-            "latitude":{"field":"LATITUDE","type": "quantitative"},
-            
-            "tooltip": [
-                {"field": "NAME", "type": "nominal","title":"Area Name"},
-                {"field": "TYPE", "type": "nominal","title": "Area Type"},
-                {"field":"SHAPE_AREA","type": "quantitative","title":"Area Size"}
-            ] 
-        }
-
     }
 ]
 }
