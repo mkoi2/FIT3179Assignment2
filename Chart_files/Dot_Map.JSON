@@ -40,7 +40,7 @@
 "layer":[
     {
     "data":{
-        "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/AUS_AUST.topojson",
+        "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/AUS_2016_AUST.topojson",
         "format": {"type": "topojson", "feature": "AUS_2016_AUST"}
         },
     "projection": {"type":"mercator"},
@@ -53,7 +53,7 @@
     },
     {
     "data":{
-        "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Protected_Areas.csv"
+        "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Protected_Regions.csv"
         },
         "transform": [
                     {"filter": "datum.IUCN == Area_Type"}  
