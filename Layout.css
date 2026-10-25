@@ -5,7 +5,7 @@ body{
 }
 
 .pure-u-g div{
-    margin-top: 50px;
+    margin-top: 100px;
     margin-bottom: 30px;
 }
 
@@ -79,6 +79,14 @@ p{
     color: #53645a;
 }
 
+.right-text{
+    margin-left: 600px;
+    margin-top: 80px ;
+    padding: 40px 24px 8px;
+    font-size: 18px;
+    align-items: center;
+}
+
 .charts{
     width: min(100% - 40px, 1100px);
     margin: 20px auto 45px;
@@ -91,6 +99,15 @@ p{
 }
 
 .gantt-section{
+    padding: 20px;
+    box-sizing: border-box;
+    background: #ffffff;
+    border: 1px solid #dce4dc;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(25, 61, 53, 0.05);
+    overflow: hidden
+}
+.temp_chart{
     padding: 20px;
     box-sizing: border-box;
     background: #ffffff;
