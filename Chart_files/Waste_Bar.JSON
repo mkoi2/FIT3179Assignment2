@@ -7,7 +7,7 @@
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Waste_Gen.csv"
 },
 "layer":[{
-    "mark": {"type":"bar","color":"#aa9251","width":5},
+    "mark": {"type":"bar","color":"#8c7040","width":7},
         "encoding": {
         "y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
         "x": { "field": "Reference area", "type": "nominal" ,"title":null},
@@ -19,7 +19,7 @@
     }
     },
     {
-    "mark": {"type":"circle","color":"#aa9251","size":450,"fill":"aa9251"},
+    "mark": {"type":"circle","color":"#8c7040","size":550,"fill":"aa9251"},
     "encoding": {
         "y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
         "x": { "field": "Reference area", "type": "nominal" ,"title":null},
@@ -32,7 +32,7 @@
     }
     },
     {
-    "mark": {"type":"text","color":"black","size":10},
+    "mark": {"type":"text","color":"white","size":10},
     "encoding": {
         "text":{"field": "OBS_VALUE", "type": "quantitative","format":".0f"},
         "y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},

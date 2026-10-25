@@ -11,7 +11,7 @@
                 "min": 50,
                 "max": 10158000,
                 "step": 50,
-                "name": "Protected Area (Hectares)"
+                "name": "Protected Area (Hectares) "
                 }
             },
             {
@@ -38,7 +38,7 @@
                     "Protected Landscape",
                     "Protected Areas With Sustainable use of Natural Resources"
                     ],
-                    "name":"Concervation Classification"
+                    "name":"Concervation Classification "
                 }
             }
 

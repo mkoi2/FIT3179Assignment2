@@ -9,7 +9,7 @@
                 "min": 1850,
                 "max": 2024,
                 "step": 1,
-                "name": "Year"
+                "name": "Year "
             }
         },
         {
@@ -419,7 +419,7 @@
                     "Zambia",
                     "Zimbabwe"
                 ],
-                "name": "Country Selection"
+                "name": "Country Selection "
             } 
         }       
     ],
