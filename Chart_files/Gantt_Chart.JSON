@@ -3,7 +3,11 @@
 "data": {
     "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Goals.csv"
 },
-"title":"World Sustainability Goals",
+"title":{
+    "text":"World Sustainability Goals",
+    "font":"Cantata One",
+    "fontSize":20
+    },
 "width":600,
 "height":300,
 "layer":[

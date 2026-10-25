@@ -60,16 +60,16 @@
                     "size": {
                         "field": "Energy",
                         "type": "quantitative",
-                        "title":"Energy generated (MWh per capita))",
+                        "title":"Energy Generated (MWh per Capita))",
                         "legend":{"titleLimit":0},
                         "scale":{"domain":[0,50],"range":[20,2000]}
                     },
                     
                     "tooltip": [
-                        {"field":"Rank","type": "quantitative","title":"Generation Ranking"},
+                        {"field":"Rank","type": "quantitative","title":"World Ranking"},
                         {"field": "Country", "type": "nominal", "title": "Country"},
                         {"field": "Category", "type": "nominal","title":"Energy Source"},
-                        {"field": "Energy", "type": "quantitative","title": "Energy generated (Mega watts per person)","format":".2f"}
+                        {"field": "Energy", "type": "quantitative","title": "Energy Generated (Mega watts Capita)","format":".2f"}
                     ] 
                 }
 

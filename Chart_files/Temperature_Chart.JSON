@@ -1,6 +1,10 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"title": "Average temperature",
+"title":{ 
+    "text":"Average temperature",
+    "font":"Cantata One",
+    "fontSize":20
+},
 "width":700,
 "height": 450,
 "data":{

@@ -1,8 +1,8 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "title": { "text": "Breakdown of the Gases Emitted To The Atmosphere In 2024" },
-"height":450,
-"width":700,
+"height":300,
+"width":500,
 "data": {
     "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Gas_Breakdown.csv"
 },

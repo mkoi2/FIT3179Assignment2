@@ -46,7 +46,9 @@
 "title": 
     {
     "text": "Protected Areas of Australia",
-    "subtitle": "Terrestrial protected areas by reserve type | Source: CAPAD"
+    "subtitle": "Terrestrial protected areas by reserve type",
+    "font":"Cantata One",
+    "fontSize":20
     },
 "layer":[
     {

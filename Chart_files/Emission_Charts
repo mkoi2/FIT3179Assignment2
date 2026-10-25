@@ -426,7 +426,12 @@
     
 "hconcat":[
     {
-        "title": "Greenhouse Gas Emissions Around The World",
+        "title": 
+            {
+            "text":"Greenhouse Gas Emissions Around The World",
+            "font":"Cantata One",
+            "fontSize":20
+            },
         "width": 800,
         "height": 450,
         "layer": [
@@ -505,6 +510,11 @@
         ]
             },
             {
+                "title":{
+                "text":"Difference In Emissions 100 Year To Now",
+                "font":"Cantata One",
+                "fontSize":20
+                },
                 "data":{
                     "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/GHG_100.csv"
                     
@@ -515,7 +525,7 @@
                 "transform": [
                     {"filter": "Country_Click.Entity == null ? datum.Entity == Country_Dropdown : datum.Entity == Country_Click.Entity"},
                     {
-                        "calculate": "'Emissions 100 Years Ago vs Now In ' + datum.Entity",
+                        "calculate": "datum.Entity",
                         "as":"chart_title"
                     }
     
@@ -536,12 +546,13 @@
                              "title":"Greenhouse Gas Emission (tonnes per person)",
                              "axis":{
                                 "grid": false
-                             }
+                             },
+                             "scale":{"domain":[0,50]}
                             },
                     "tooltip": [
                         {"field": "Entity", "type": "nominal", "title": "Country"},
                         {"field": "GHG emissions", "type": "quantitative","title": "Greenhouse Gas Emissions (tonnes per person)"},
-                        {"field": "Year", "type": "quantitative","title": "Year"}
+                        {"field": "Year", "type": "quantitative","title":null}
                     ] 
                     },
                 "layer": [
@@ -550,6 +561,32 @@
                     },
                     {
                     "mark": "circle"
+                    },
+                    {
+                    "mark": {
+                        "type": "rect",
+                        "color":"lightblue"
+                        
+                    },
+                    "encoding": {
+                        "x":{"datum":1940,"type": "quantitative","title":null},
+                        "x2":{"datum":2010,"type": "quantitative","title":null},
+                        "y":{"datum":47,"type": "quantitative"},
+                        "y2":{"datum":49,"type": "quantitative"}
+                    }
+                    },
+                    {
+                    "mark": {
+                        "type": "text",
+                        "fontStyle":"bold",
+                        "fontSize":15
+                        
+                    },
+                    "encoding": {
+                        "x":{"datum":1974,"type": "quantitative"},
+                        "y":{"datum":48,"type": "quantitative"},
+                        "text":{"field":"chart_title","type": "nominal"}
+                    }
                     }
                     
                 ]
