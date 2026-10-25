@@ -2,12 +2,13 @@
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "title": { "text": "Water Withdrawals vs Renewable Freshwater Resources" },
 "width":1000,
+"height":450,
 "data": {
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Freshwater_Resources.csv"
 },
 "mark": {"type":"bar","width":2},
 "encoding": {
-    "y": { "field": "Value", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
+    "y": { "field": "Value", "type": "quantitative" ,"title":"Water (cubic meter per Capita)"},
     "x": { "field": "Entity", "type": "nominal" ,"title":null},
     "xOffset":{"field":"Group"},
     "color":{

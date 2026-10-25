@@ -28,6 +28,11 @@ vegaEmbed("#Mosaic_Chart", vg_6, {"actions":false}).then(function(result) {
 // Access the Vega view instance(https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 
+var vg_7 = "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Chart_files/Waffle_Chart.JSON";
+vegaEmbed("#Waffle_Chart", vg_7, {"actions":false}).then(function(result) {
+// Access the Vega view instance(https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+
 // var vg_3 = "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Chart_files/Waste_generation_map.json";
 // vegaEmbed("#map", vg_3).then(function(result) {
 // // Access the Vega view instance(https://vega.github.io/vega/docs/api/view/) as result.view
