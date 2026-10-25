@@ -1,0 +1,169 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v6.json",
+  "description": "Australian state and territory protected-area Dorling cartogram",
+  "width": 900,
+  "height": 550,
+  "padding": 20,
+
+"data": [
+  {
+    "name": "states",
+    "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/STE_2016_AUST.topojson",
+    "format": {
+      "type": "topojson",
+      "feature": "STE_2016_AUST"
+    },
+    "transform": [
+      {
+        "type": "formula",
+        "as": "stateName",
+        "expr": "datum.properties.STE_NAME16"
+      },
+      {
+        "type": "filter",
+        "expr": "datum.stateName !== 'Other Territories'"
+      },
+      {
+        "type": "formula",
+        "as": "centroid",
+        "expr": "geoCentroid('projection', datum)"
+      }
+    ]
+  },
+  {
+    "name": "protection",
+    "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/State_Protection.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "Protected Percentage": "number"
+      }
+    },
+    "transform": [
+      {
+        "type": "lookup",
+        "from": "states",
+        "key": "stateName",
+        "fields": ["Jurisdiction"],
+        "values": ["centroid"],
+        "as": ["centroid"]
+      },
+      {
+        "type": "filter",
+        "expr": "datum.centroid != null && isValid(datum['Protected Percentage'])"
+      }
+    ]
+  }
+],
+
+  "projections": [
+    {
+      "name": "projection",
+      "type": "mercator",
+      "scale": 900,
+      "center": [134, -27],
+      "translate": [
+        {"signal": "width / 2"},
+        {"signal": "height / 2"}
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "size",
+      "type": "sqrt",
+      "domain": {
+        "data": "protection",
+        "field": "Protected Percentage"
+      },
+      "range": [250, 5000],
+      "zero": true
+    },
+    {
+      "name": "color",
+      "type": "linear",
+      "domain": {
+        "data": "protection",
+        "field": "Protected Percentage"
+      },
+      "range": ["#deebf7", "#2171b5"],
+      "zero": false
+    }
+  ],
+
+  "legends": [
+    {
+      "title": "Protected area (%)",
+      "fill": "color",
+      "orient": "bottom-right",
+      "format": ".1f"
+    }
+  ],
+
+  "marks": [
+    {
+      "name": "circles",
+      "type": "symbol",
+      "from": {"data": "protection"},
+      "encode": {
+        "enter": {
+          "size": {
+            "scale": "size",
+            "field": "Protected Percentage"
+          },
+          "fill": {
+            "scale": "color",
+            "field": "Protected Percentage"
+          },
+          "stroke": {"value": "white"},
+          "strokeWidth": {"value": 2},
+          "tooltip": {
+            "signal": "{'Jurisdiction': datum.Jurisdiction, 'Protected area (%)': datum['Protected Percentage']}"
+          }
+        }
+      },
+      "transform": [
+        {
+          "type": "force",
+          "static": true,
+          "forces": [
+            {
+              "force": "collide",
+              "radius": {"expr": "sqrt(datum.size / 3.14159) + 2"}
+            },
+            {
+              "force": "x",
+              "x": "datum.centroid[0]",
+              "strength": 0.2
+            },
+            {
+              "force": "y",
+              "y": "datum.centroid[1]",
+              "strength": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "interactive": false,
+      "from": {"data": "circles"},
+      "encode": {
+        "enter": {
+          "text": {"signal": "datum.datum.Jurisdiction"},
+          "fontSize": {"value": 12},
+          "fontWeight": {"value": "bold"},
+          "fill": {"value": "#102a43"},
+          "align": {"value": "center"},
+          "baseline": {"value": "middle"}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"}
+        }
+      }
+    }
+  ]
+}
