@@ -13,7 +13,7 @@
     },
     {
       "name": "Protected_Areas",
-      "url": "data/obesity.json",
+      "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/refs/heads/main/Data_files/State_Protection.csv",
       "transform": [
         {
           "type": "lookup",
@@ -35,7 +35,7 @@
   "projections": [
     {
       "name": "projection",
-      "type": "albersUsa",
+      "type": "mercator",
       "scale": 1100,
       "translate": [{"signal": "width / 2"}, {"signal": "height / 2"}]
     }
@@ -44,7 +44,7 @@
   "scales": [
     {
       "name": "size",
-      "domain": {"data": "obesity", "field": "rate"},
+      "domain": {"data": "Protected_Areas", "field": "Protected Percentage"},
       "zero": false,
       "range": [1000, 5000]
     },
@@ -52,14 +52,14 @@
       "name": "color",
       "type": "linear",
       "nice": true,
-      "domain": {"data": "obesity", "field": "rate"},
+      "domain": {"data": "Protected_Areas", "field": "Protected Percentage"},
       "range": "ramp"
     }
   ],
 
   "legends": [
     {
-      "title": "% of Obese Adults",
+      "title": "% of each state/territory that is protected",
       "orient": "bottom-right",
       "type": "symbol",
       "size": "size",
@@ -73,16 +73,15 @@
     {
       "name": "circles",
       "type": "symbol",
-      "from": {"data": "obesity"},
+      "from": {"data": "Protected_Areas"},
       "encode": {
         "enter": {
-          "size": {"scale": "size", "field": "rate"},
-          "fill": {"scale": "color", "field": "rate"},
+          "size": {"scale": "size", "field": "Protected Percentage"},
+          "fill": {"scale": "color", "field": "Protected Percentage"},
           "stroke": {"value": "white"},
           "strokeWidth": {"value": 1.5},
           "x": {"field": "centroid[0]"},
-          "y": {"field": "centroid[1]"},
-          "tooltip": {"signal": "'Obesity Rate: ' + format(datum.rate, '.1%')"}
+          "y": {"field": "centroid[1]"}
         }
       },
       "transform": [
@@ -107,7 +106,7 @@
           "baseline": {"value": "middle"},
           "fontSize": {"value": 13},
           "fontWeight": {"value": "bold"},
-          "text": {"field": "datum.state"}
+          "text": {"field": "Jurisdiction"}
         },
         "update": {
           "x": {"field": "x"},
