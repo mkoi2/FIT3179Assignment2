@@ -17,8 +17,9 @@
       "transform": [
         {
           "type": "lookup",
-          "from": "states", "key": "id",
-          "fields": ["id"], "as": ["geo"]
+          "from": "states", 
+          "key": "properties.STATE_CODE",
+          "fields": ["Jurisdiction"], "as": ["geo"]
         },
         {
           "type": "filter",
