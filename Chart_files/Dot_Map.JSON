@@ -59,7 +59,7 @@
     "projection": {"type":"mercator"},
     "mark":{
                     "type": "geoshape",
-                    "fill": "#c2cac2",
+                    "fill": "#d5e1d6",
                     "stroke": "white",
                     "strokeWidth": 1
                 }
