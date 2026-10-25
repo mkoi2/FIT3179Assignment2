@@ -1,0 +1,23 @@
+{
+"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+"title": { "text": "Breakdown Of Proteted Areas In Australia" },
+"width":1000,
+"height":300,
+"data": {
+"url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/ICUN_Percentage.csv"
+},
+
+    "mark": {"type":"arc","innerRadius":50},
+        "encoding": {
+        "theta": { "field": "Percentage", "type": "quantitative" ,"title":null},
+        "color": { 
+            "field": "ICUN", 
+            "type": "nominal",
+            "legend":{"orient": "top","labelLimit":0}},
+        "tooltip":[
+            { "field": "Reference area", "type": "nominal","title":"Country"},
+            { "field": "OBS_VALUE", "type": "quantitative","title":"Waste Generation (Tonnes per Capita)"}
+        ]
+
+    }
+}
