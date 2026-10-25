@@ -4,6 +4,17 @@
 "height": 450,
 "params": [
             {
+            "name": "Area_selection",
+            "value": 50,
+            "bind": {
+                "input": "range",
+                "min": 50,
+                "max": 10158000,
+                "step": 50,
+                "name": "Protected Area (Hectares)"
+                }
+            },
+            {
             "name": "Area_Type",
             "value":"Ia",
             "bind": {
@@ -56,7 +67,8 @@
         "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Protected_Regions.csv"
         },
         "transform": [
-                    {"filter": "datum.IUCN == Area_Type"}  
+                    {"filter": "datum.IUCN == Area_Type"},
+                    {"filter": "datum.GAZ_AREA > Area_selection"}  
         ],
         "mark": {"type": "circle","color":"green","strokeWidth":1,"stroke":"white"},
         "encoding": {
