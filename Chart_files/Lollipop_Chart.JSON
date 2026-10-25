@@ -1,6 +1,6 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"title": { "text": "Water Withdrawals vs Renewable Freshwater Resources" },
+"title": { "text": "Top 10 Water Withdrawals In 2022" },
 "width":1000,
 "height":450,
 "data": {

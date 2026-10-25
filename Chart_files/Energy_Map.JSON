@@ -41,8 +41,8 @@
             "projection": {"type": "equalEarth"},
             "mark": {
                 "type": "geoshape",
-                "fill": "#b4c0b5",
-                "stroke": "white",
+                "fill": "#d5e1d6",
+                "stroke": "darkgray",
                 "strokeWidth": 1
             }
             },
@@ -60,7 +60,9 @@
                     "size": {
                         "field": "Energy",
                         "type": "quantitative",
-                        "title":"Energy generated (MWh per capita))"
+                        "title":"Energy generated (MWh per capita))",
+                        "legend":{"titleLimit":0},
+                        "scale":{"domain":[0,50],"range":[20,2000]}
                     },
                     
                     "tooltip": [

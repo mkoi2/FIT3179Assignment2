@@ -106,22 +106,25 @@
     "x": {
       "field": "Country",
       "type": "nominal",
-      "sort":"ascending"
+      "sort":"ascending",
+      "title":null
     },
     "y": {
       "field": "y0",
       "type": "quantitative",
-      "scale": {"domain": [0, 1],"reverse":true}
+      "scale": {"domain": [0, 1],"reverse":false},
+      "title":null
     },
     "y2": {"field": "y1"},
     "color": {
         "field": "Treatment Method",
         "type": "nominal",
+        "title":null,
         "scale":{
             "domain":["Composting","Incineration with energy recovery","Incineration without energy recovery","Landfill","Other disposal","Other recovery","Recycling"],
             "range":["#01665e","#c7eae5","#8c510a","#d8b365","#f6e8c3","#f1a340","#5ab4ac"]
         },
-        "legend": {"orient": "right"}
+        "legend": {"orient": "top","labelLimit":0}
     },
     "tooltip": [
       {"field": "Country", "type": "nominal"},

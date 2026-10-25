@@ -3,6 +3,7 @@
 "data": {
     "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Goals.csv"
 },
+"title":"World Sustainability Goals",
 "width":600,
 "height":300,
 "layer":[

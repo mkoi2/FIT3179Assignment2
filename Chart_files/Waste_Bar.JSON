@@ -19,7 +19,7 @@
     }
     },
     {
-    "mark": {"type":"circle","color":"#aa9251","size":380,"fill":"aa9251"},
+    "mark": {"type":"circle","color":"#aa9251","size":450,"fill":"aa9251"},
     "encoding": {
         "y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
         "x": { "field": "Reference area", "type": "nominal" ,"title":null},

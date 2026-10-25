@@ -68,7 +68,7 @@
         },
         "transform": [
                     {"filter": "datum.IUCN == Area_Type"},
-                    {"filter": "datum.GAZ_AREA > Area_selection"}  
+                    {"filter": "datum.GAZ_AREA >= Area_selection"}  
         ],
         "mark": {"type": "circle","color":"green","strokeWidth":1,"stroke":"white"},
         "encoding": {
@@ -76,9 +76,9 @@
             "latitude":{"field":"LATITUDE","type": "quantitative"},
             
             "tooltip": [
-                {"field": "NAME", "type": "nominal","title":"Area Name"},
-                {"field": "TYPE", "type": "nominal","title": "Area Type"},
-                {"field":"SHAPE_AREA","type": "quantitative","title":"Area Size"}
+                {"field": "NAME", "type": "nominal","title":"Name"},
+                {"field": "TYPE", "type": "nominal","title": "Type"},
+                {"field":"GAZ_AREA","type": "quantitative","title":"Area (Hectares)"}
             ] 
         }
 
