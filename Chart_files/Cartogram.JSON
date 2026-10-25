@@ -59,12 +59,12 @@
 
   "legends": [
     {
-      "title": "% of each state/territory that is protected",
+      "title": "Protected area (%)",
       "orient": "bottom-right",
       "type": "symbol",
       "size": "size",
       "fill": "color",
-      "format": ".1%",
+      "format": ".1f",
       "clipHeight": 16
     }
   ],
