@@ -5,7 +5,7 @@
 "data": {
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Waste_Gen.csv"
 },
-"mark": {"type":"bar","color":"#aa9251"},
+"mark": {"type":"bar","color":"#aa9251","width":3},
 "encoding": {
 "y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
 "x": { "field": "Reference area", "type": "nominal" ,"title":null},

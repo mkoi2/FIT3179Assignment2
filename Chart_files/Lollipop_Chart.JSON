@@ -6,26 +6,26 @@
 "data": {
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Freshwater_Resources.csv"
 },
-"mark": {"type":"bar","width":2},
-"encoding": {
-    "y": { "field": "Value", "type": "quantitative" ,"title":"Water (cubic meter per Capita)"},
-    "x": { "field": "Entity", "type": "nominal" ,"title":null},
-    "xOffset":{"field":"Group"},
-    "color":{
-        "field":"Group",
-        "type": "nominal",
-        "scale":{
-            "domain":["Water withdrawal","Renewable freshwater resources "],
-            "range":["#5b90d2","green"]
-        }
-    },
-    
-    "tooltip":[
-        { "field": "Entity", "type": "nominal","title":"Country"},
-        { "field": "Group", "type": "nominal","title":null},
-        { "field": "Value", "type": "quantitative","title":"Water (cubic meters)"}
-]
+    "mark": {"type":"bar"},
+    "encoding": {
+        "y": { "field": "Value", "type": "quantitative" ,"title":"Water Withdrawal (cubic meter per Capita)"},
+        "x": { "field": "Entity", "type": "nominal" ,"title":null,"sort":{"order":"descending"}},
+        "xOffset":{"field":"Group"},
+        "color":{
+            "field":"Group",
+            "type": "nominal",
+            "scale":{
+                "domain":["Water withdrawal","Renewable freshwater resources "],
+                "range":["#5b90d2","green"]
+            }
+        },
+        
+        "tooltip":[
+            { "field": "Entity", "type": "nominal","title":"Country"},
+            { "field": "Group", "type": "nominal","title":null},
+            { "field": "Value", "type": "quantitative","title":"Water (cubic meters)"}
+    ]
 
-}
+    }
 }
 
