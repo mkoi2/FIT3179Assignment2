@@ -4,14 +4,11 @@ body{
     color: #29352f;
 }
 
-.pure-u-g div{
-    margin-top: 60px;
+.pure-g div{
+    margin-top: 40px;
     margin-bottom: 30px;
 }
 
-.pure-u-2-5 div{
-    width: 50vw;
-}
 
 .title{
     background-color: #193d35;
@@ -98,7 +95,8 @@ p{
     box-shadow: 0 3px 12px rgba(25, 61, 53, 0.05);
 }
 
-.gantt-section{
+.gantt-section,
+.temp_section{
     padding: 20px;
     box-sizing: border-box;
     background: #ffffff;
@@ -107,18 +105,11 @@ p{
     box-shadow: 0 3px 12px rgba(25, 61, 53, 0.05);
     overflow: hidden
 }
-.temp_chart{
-    padding: 20px;
-    box-sizing: border-box;
-    background: #ffffff;
-    border: 1px solid #dce4dc;
-    border-radius: 12px;
-    box-shadow: 0 3px 12px rgba(25, 61, 53, 0.05);
-    overflow: hidden
-}
-#Gantt_Chart{
+
+#Gantt_Chart,
+#Temp_Chart{
     width:85%;
-    max-width: 100%;
+    max-width: 90%;
     margin-top: 47px;
 }
 .vega-embed,
