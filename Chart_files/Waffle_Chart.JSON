@@ -1,37 +1,42 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"title": { "text": "Breakdown of the Gases Emitted To The Atmosphere In 2024" },
-"height":300,
-"width":500,
+"title": { 
+    "text": "Breakdown Of Greenhouse Gases Emitted In 2024",
+    "font":"Cantata One",
+    "fontSize":28,
+    "offset":20
+},
+"height":400,
+"width":700,
 "data": {
     "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Gas_Breakdown.csv"
 },
 "transform": [
     {
-      "joinaggregate": [
-        {"op": "sum", "field": "Percentage", "as": "total"}
-      ]
+        "joinaggregate": [
+            {"op": "sum", "field": "Percentage", "as": "total"}
+        ]
     },
     {
-      "window": [
-        {"op": "sum", "field": "Percentage", "as": "cumulative"}
-      ]
+        "window": [
+            {"op": "sum", "field": "Percentage", "as": "cumulative"}
+        ]
     },
     {
-      "calculate": "datum.cumulative - datum.Percentage",
-      "as": "start"
+        "calculate": "datum.cumulative - datum.Percentage",
+        "as": "start"
     },
     {
-      "calculate": "floor(datum.start / datum.total * 100)",
-      "as": "firstSquare"
+        "calculate": "floor(datum.start / datum.total * 100)",
+        "as": "firstSquare"
     },
     {
-      "calculate": "floor(datum.cumulative / datum.total * 100) - 1",
-      "as": "lastSquare"
+        "calculate": "floor(datum.cumulative / datum.total * 100) - 1",
+        "as": "lastSquare"
     },
     {
-      "calculate": "sequence(datum.firstSquare, datum.lastSquare + 1)",
-      "as": "squares"
+        "calculate": "sequence(datum.firstSquare, datum.lastSquare + 1)",
+        "as": "squares"
     },
     {"flatten": ["squares"]},
     {"calculate": "datum.squares % 10", "as": "x"},
@@ -44,17 +49,17 @@
 },
 "encoding": {
     "x": {
-      "field": "x",
-      "type": "ordinal",
-      "axis": null,
-      "scale": {"paddingInner": 0.12}
+        "field": "x",
+        "type": "ordinal",
+        "axis": null,
+        "scale": {"paddingInner": 0.12}
     },
     "y": {
-      "field": "y",
-      "type": "ordinal",
-      "axis": null,
-      "sort": "ascending",
-      "scale": {"paddingInner": 0.12}
+        "field": "y",
+        "type": "ordinal",
+        "axis": null,
+        "sort": "descending",
+        "scale": {"paddingInner": 0.12}
     },
     "color": {
         "field": "GHG",
@@ -66,16 +71,16 @@
                 "Nitrous oxide"
             ],
             "range": [
-                "#31688e",
-                "#35b779",
-                "#fde725"
+                "#feb24c",
+                "#8c96c6",
+                "#fb6a4a"
             ]
         },
         "legend": {"title": "Greanhouse Gases"}
     },
     "tooltip": [
-      {"field": "GHG", "type": "nominal"},
-      {"field": "Percentage", "type": "quantitative", "title": "Percentage"}
+      {"field": "GHG", "type": "nominal","title":"Gas"},
+      {"field": "Percentage", "type": "quantitative", "title": "Percentage (%)"}
     ]
 }
 }

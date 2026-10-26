@@ -1,9 +1,10 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "title":{ 
-    "text":"Average temperature",
+    "text":"Average temperature On Earth",
     "font":"Cantata One",
-    "fontSize":20
+    "fontSize":28,
+    "offset":20
 },
 "width":700,
 "height": 450,
@@ -13,26 +14,19 @@
 },
 "layer":[
     {
-    "mark": {"type":"line","color":"#f15a23e9","strokeWidth":1.5},
+    "mark": {"type":"line","color":"#f15a23e9","strokeWidth":2},
     "encoding": {
-        "x":{"field": "Year","type": "quantitative","title": "Year","axis":{"format":"d"}},
-        "y":{"field": "Average", "type": "quantitative", "title":"Temperature change relative to the pre-industrial period (°C)"},
+        "x":{"field": "Year","type": "quantitative","title":null,"axis":{"format":"d","tickCount":10,"grid": false}},
+        "y":{
+            "field": "Average", 
+            "type": "quantitative", 
+            "title":"Temperature Change Relative To The Pre-Industrial Period (°C)",
+            "axis":{"titleFontSize":15}},
         "tooltip": [
-            {"field": "Average", "type": "quantitative", "title": "Change in world temperature °C"},
+            {"field": "Average", "type": "quantitative", "title": "Change in world temperature (°C)"},
             {"field": "Year", "type": "quantitative","title": "Year"}
         ]
         }
-    },
-    {
-    "mark": {"type":"point","color":"#f15a23e9","fill":"#f15a23e9","size":8},
-    "encoding": {
-        "x":{"field": "Year","type": "quantitative","title": "Year","axis":{"format":"d"}},
-        "y":{"field": "Average", "type": "quantitative", "title":"Temperature change relative to the pre-industrial period (°C)"},
-        "tooltip": [
-            {"field": "Average", "type": "quantitative", "title": "Change in world temperature °C"},
-            {"field": "Year", "type": "quantitative","title": "Year"}
-        ]
     }
-}
 ]
 }
