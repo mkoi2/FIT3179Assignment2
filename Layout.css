@@ -9,7 +9,7 @@ body{
     margin-bottom: 30px;
 }
 
-.pure-u-1-2 div{
+.pure-u-2-5 div{
     width: 50vw;
 }
 
@@ -80,7 +80,7 @@ p{
 }
 
 .right-text{
-    margin-left: 50px;
+    margin-left: 10px;
     margin-top: 80px ;
     padding: 40px 24px 8px;
     font-size: 18px;
