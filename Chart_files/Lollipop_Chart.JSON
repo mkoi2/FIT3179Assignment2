@@ -6,13 +6,14 @@
 "data": {
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Freshwater_Resources.csv"
 },
-    "mark": {"type":"bar"},
+    "mark": {"type":"circle"},
     "encoding": {
-        "y": { "field": "Value", "type": "quantitative" ,"title":"Water Withdrawal (cubic meter per Capita)"},
-        "x": { "field": "Entity", "type": "nominal" ,"title":null,"sort":{"order":"descending"}},
+        "y": { "field": "Water withdrawal", "type": "quantitative" ,"title":"Water Withdrawal (cubic meter per Capita)"},
+        "x": { "field": "Renewable freshwater resources ", "type": "nominal" ,"title":null},
         "tooltip":[
             { "field": "Entity", "type": "nominal","title":"Country"},
-            { "field": "Value", "type": "quantitative","title":"Water (cubic meters)"}
+            { "field": "Water withdrawal", "type": "quantitative","title":"Total Water Withdrawal(cubic meters)"},
+            { "field": "Renewable freshwater resources ", "type": "quantitative","title":"Renewable Freshwater Resources (cubic meters)"}
     ]
 }
 
