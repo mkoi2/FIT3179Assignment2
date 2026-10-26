@@ -6,7 +6,8 @@
 "title":{
     "text":"World Sustainability Goals",
     "font":"Cantata One",
-    "fontSize":30
+    "fontSize":28,
+    "offset":20
     },
 "width":600,
 "height":300,
@@ -20,7 +21,7 @@
     },
     "encoding": {
         "x": { "field": "Start", "type": "quantitative","title":null,
-        "axis":{"format":"d","tickCount":5,"labelFontSize":14},
+        "axis":{"format":"d","tickCount":5,"labelFontSize":14,"grid": false},
         "scale":{"domain":[2010,2055]}
         },
         "x2":{"field":"End"},
@@ -28,7 +29,7 @@
         }
     },
     {
-    "mark":{"type": "text","baseline":"bottom","dy":-55,"text":["In 2015 All 193 United"," Nation member states"," endoresed the 17 sustainable"," developement goals (SDGs)"],"size":14,"align":"left"},
+    "mark":{"type": "text","baseline":"bottom","dy":-58,"text":["In 2015 All 193 United"," Nation member states"," endoresed the 17 sustainable"," developement goals (SDGs)"],"size":14,"align":"left"},
     "encoding": {
         "x":{"datum":2012,"type": "quantitative"},
         "y":{"datum":"SDG","type":"nominal"}
@@ -81,6 +82,20 @@
     "encoding": {
         "x":{"datum":2050,"type": "quantitative"},
         "y":{"datum":"Net Zero Emissions","type":"nominal"}
+    }
+    },
+    {
+    "mark":{"type": "text","baseline":"bottom","dy":-40,"text":["These goals center around","increasing the liveability of","the planet"],"size":14,"align":"left"},
+    "encoding": {
+        "x":{"datum":2030,"type": "quantitative"},
+        "y":{"datum":"SDG","type":"nominal"}
+    }
+    },
+    {
+    "mark":{"type": "circle","stroke":"black","size":85,"fill":"white","strokeWidth":2},
+    "encoding": {
+        "x":{"datum":2030,"type": "quantitative"},
+        "y":{"datum":"SDG","type":"nominal"}
     }
     }
 
