@@ -7,10 +7,10 @@
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Waste_Gen.csv"
 },
 "layer":[{
-    "mark": {"type":"bar","color":"#6e430d","width":7},
+    "mark": {"type":"bar","color":"#eca651","width":20},
         "encoding": {
         "y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
-        "x": { "field": "Reference area", "type": "nominal" ,"title":null},
+        "x": { "field": "Reference area", "type": "nominal" ,"title":null,"axis":null},
         "tooltip":[
             { "field": "Reference area", "type": "nominal","title":"Country"},
             { "field": "OBS_VALUE", "type": "quantitative","title":"Waste Generation (Tonnes per Capita)"}
@@ -19,23 +19,10 @@
     }
     },
     {
-    "mark": {"type":"circle","color":"#6e430d","size":550,"fill":"aa9251"},
+    "mark": {"type":"text","color":"saddlebrown","size":15,"angle":-90,"align":"left"},
     "encoding": {
-        "y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
-        "x": { "field": "Reference area", "type": "nominal" ,"title":null},
-        "opacity":{"value":1},
-        "tooltip":[
-            { "field": "Reference area", "type": "nominal","title":"Country"},
-            { "field": "OBS_VALUE", "type": "quantitative","title":"Waste Generation (Tonnes per Capita)"}
-        ]
-
-    }
-    },
-    {
-    "mark": {"type":"text","color":"white","size":10},
-    "encoding": {
-        "text":{"field": "OBS_VALUE", "type": "quantitative","format":".0f"},
-        "y": { "field": "OBS_VALUE", "type": "quantitative" ,"title":"Waste Generation (Tonnes per Capita)"},
+        "text":{"field": "Reference area", "type": "nominal"},
+        "y": { "datum": 50 , "type": "quantitative" },
         "x": { "field": "Reference area", "type": "nominal" ,"title":null},
         "tooltip":[
             { "field": "Reference area", "type": "nominal","title":"Country"},

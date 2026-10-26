@@ -39,12 +39,17 @@ vegaEmbed("#Dot_Map", vg_8, {"actions":false}).then(function(result) {
 }).catch(console.error);
 
 var vg_9 = "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Chart_files/Lollipop_Chart.JSON";
-vegaEmbed("#Lollipop_Chart", vg_9, {"actions":false}).then(function(result) {
+vegaEmbed("#Scatter_Chart", vg_9, {"actions":false}).then(function(result) {
 // Access the Vega view instance(https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 
 var vg_10 = "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Chart_files/Pie_Chart.JSON";
 vegaEmbed("#Pie_Chart", vg_10, {"actions":false}).then(function(result) {
+// Access the Vega view instance(https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+
+var vg_11 = "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Chart_files/Protected_Chart.JSON";
+vegaEmbed("#Lollipop_Chart", vg_11, {"actions":false}).then(function(result) {
 // Access the Vega view instance(https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 
