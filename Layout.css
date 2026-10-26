@@ -3,14 +3,14 @@ body{
     margin:0;
     background-color:#f5f6f1;
     color: #29352f;
+    box-sizing: border-box;
 }
 
 .pure-g {
     display:flex;
     flex-wrap: wrap;
-    margin: 40px auto 30px;
+    margin: 40px 100px 30px;
     width: 100%;
-    max-width:1200px;
     align-items: center;
 
 }
@@ -32,7 +32,6 @@ body{
     background-color: #193d35;
     color: white;
     width: 100%;
-    max-width: 1200px;
     margin: 0 auto;
     padding: 60px;
     font-size: 30px;
@@ -82,7 +81,6 @@ p{
     font-size: 18px;
     color: #53645a;
 }
-
 
 .charts{
     width:100%;
