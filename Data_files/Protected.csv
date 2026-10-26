@@ -1,12 +1,11 @@
-Country,Percentage,Rank,Area
-Seychelles,45.55,3,136.6
-Venezuela,56.46,1,518055.25
-Bhutan,49.95,2,18896.75
-Liechtenstein,41.9,5,67.67
-Bulgaria,44.16,4,49027.75
-Greenland,41.39,6,891394.5
-Zambia,40.96,7,309634
-Slovenia,40.15,8,8134.5
-Australia,22,73,1696631.75
-Namibia,39.85,10,329989.25
-Tanzania,39.88,9,378017.25
+Country,Area,Percentage
+Brazil,2609357,30.57134266
+Russia,1909966,11.39711739
+Australia,1696631.75,21.98184602
+Canada,1265882,12.87027443
+United States,1202351,12.87125371
+Greenland,891394.5,41.38692011
+Venezula,518055.25,56.45968525
+Tanzania,378017.25,39.88180878
+Saudi Arabia,357901.75,18.50527254
+Dem. Rep. Congo,349989.75,14.93667788
