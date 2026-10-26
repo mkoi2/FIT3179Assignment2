@@ -16,20 +16,25 @@
                     "Hydro"
                     ],
                 "labels": [
-                    "Total generation",
+                    "Total Generation",
                     "Fossil",
                     "Renewables",
                     "Wind",
                     "Solar",
                     "Hydro"
                     ],
-                    "name":"Energy source "
+                    "name":"Energy Source "
                 }
             }
 
     ],
 
-        "title": "Energy Generation Around The World In 2025",
+        "title": {
+            "text":"Energy Generation Around The World In 2025",
+            "font":"Cantata One",
+            "fontSize":28,
+            "offset":20
+    },
         "width": 1000,
         "height": 450,
         "layer": [
@@ -66,10 +71,10 @@
                     },
                     
                     "tooltip": [
-                        {"field":"Rank","type": "quantitative","title":"World Ranking"},
+                        {"field":"Rank","type": "quantitative","title":"Ranking"},
                         {"field": "Country", "type": "nominal", "title": "Country"},
                         {"field": "Category", "type": "nominal","title":"Energy Source"},
-                        {"field": "Energy", "type": "quantitative","title": "Energy Generated (Mega watts Capita)","format":".2f"}
+                        {"field": "Energy", "type": "quantitative","title": "Energy Generated (Mega watts per Capita)","format":".2f"}
                     ] 
                 }
 
@@ -87,10 +92,10 @@
                 "latitude":{"field":"Latitude","type": "quantitative"},
                 "text":{"field":"Rank","type": "quantitative"},
                 "tooltip": [
-                        {"field":"Rank","type": "quantitative","title":"Generation Ranking"},
+                        {"field":"Rank","type": "quantitative","title":"Ranking"},
                         {"field": "Country", "type": "nominal", "title": "Country"},
                         {"field": "Category", "type": "nominal","title":"Energy Source"},
-                        {"field": "Energy", "type": "quantitative","title": "Energy generated (Mega watts per person)","format":".2f"}
+                        {"field": "Energy", "type": "quantitative","title": "Energy Generated (Mega watts per Capita)","format":".2f"}
                     ] 
             }
             }

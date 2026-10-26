@@ -1,8 +1,13 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"title": { "text": "Countries Protecting The Most Area" },
+"title": { 
+    "text": "Countries Protecting The Most Area",
+    "font":"Cantata One",
+    "fontSize":28,
+    "offset":20
+ },
 "width":1000,
-"height":300,
+"height":500,
 "data": {
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Protected.csv"
 },
@@ -23,8 +28,8 @@
     {
     "mark": {"type":"circle","color":"green","size":550,"fill":"green"},
     "encoding": {
-        "y": { "field": "Country", "type": "nominal" ,"title":null,"sort":{"order":"descending"}},
-        "x": { "field": "Area", "type": "quantitative" ,"title":"Total Protected Area (km^2)"},
+        "y": { "field": "Country", "type": "nominal" ,"title":null,"sort":{"order":"descending"},"axis":{"labelFontSize":14}},
+        "x": { "field": "Area", "type": "quantitative" ,"title":"Total Protected Area (km^2)","axis":{"labelFontSize":14,"titleFontSize":15}},
         "opacity":{"value":1},
         "tooltip":[
             { "field": "Country", "type": "nominal","title":"Country"},

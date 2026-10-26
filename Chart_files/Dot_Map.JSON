@@ -1,6 +1,6 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"width": 900,
+"width": 1000,
 "height": 450,
 "params": [
             {
@@ -48,7 +48,8 @@
     "text": "Protected Areas of Australia",
     "subtitle": "Terrestrial protected areas by reserve type",
     "font":"Cantata One",
-    "fontSize":20
+    "fontSize":28,
+    "offset":20
     },
 "layer":[
     {
@@ -79,7 +80,7 @@
             
             "tooltip": [
                 {"field": "NAME", "type": "nominal","title":"Name"},
-                {"field": "TYPE", "type": "nominal","title": "Type"},
+                {"field": "Heritage River", "type": "nominal","title": "Type"},
                 {"field":"GAZ_AREA","type": "quantitative","title":"Area (Hectares)"}
             ] 
         }

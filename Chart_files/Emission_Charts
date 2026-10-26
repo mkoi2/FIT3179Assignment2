@@ -430,7 +430,8 @@
             {
             "text":"Greenhouse Gas Emissions Around The World",
             "font":"Cantata One",
-            "fontSize":20
+            "fontSize":28,
+            "offset":20
             },
         "width": 800,
         "height": 450,
@@ -496,13 +497,14 @@
                             "type": "linear",
                             "domain": [0,50],
                             "range":["#edf8fb","#bfd3e6","#9ebcda","#8c96c6","#8856a7","#810f7c"]
-                        }
+                        },
+                        "legend":{"title":"Greenhouse Gas Emissions (Tonnes per Capita)","titleLimit":0}
                     },
                 
                 
                     "tooltip": [
                         {"field": "Entity", "type": "nominal", "title": "Country"},
-                        {"field": "GHG emissions", "type": "quantitative","title": "Greenhouse Gas Emissions (tonnes per person)"},
+                        {"field": "GHG emissions", "type": "quantitative","title": "Greenhouse Gas Emissions (Tonnes per Capita)"},
                         {"field": "Year", "type": "quantitative","title": "Year"}
                     ] 
                 }
@@ -538,29 +540,32 @@
                             "axis":{
                                 "values":[1924,2024],
                                 "grid": false,
-                                "format":"d"
+                                "format":"d",
+                                "labelFontSize":14
                         }},
                         "y":{
                             "field": "GHG emissions",
                              "type": "quantitative", 
-                             "title":"Greenhouse Gas Emission (tonnes per person)",
+                             "title":"Greenhouse Gas Emission (Tonnes per Capita)",
                              "axis":{
-                                "grid": false
+                                "grid": false,
+                                "titleFontSize":15
+                                
                              },
                              "scale":{"domain":[0,50]}
                             },
                     "tooltip": [
                         {"field": "Entity", "type": "nominal", "title": "Country"},
-                        {"field": "GHG emissions", "type": "quantitative","title": "Greenhouse Gas Emissions (tonnes per person)"},
+                        {"field": "GHG emissions", "type": "quantitative","title": "Greenhouse Gas Emissions (Tonnes per Capita)"},
                         {"field": "Year", "type": "quantitative","title":null}
                     ] 
                     },
                 "layer": [
                     {
-                    "mark": "line"
+                    "mark": {"type":"line","color":"blue"}
                     },
                     {
-                    "mark": "circle"
+                    "mark": {"type":"circle","size":80,"fill":"blue"}
                     },
                     {
                     "mark": {

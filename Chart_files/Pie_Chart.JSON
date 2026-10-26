@@ -1,23 +1,40 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"title": { "text": "Breakdown Of Proteted Areas In Australia" },
+"title": { 
+    "text": "Breakdown Of Proteted Areas In Australia",
+    "font":"Cantata One",
+    "fontSize":28,
+    "offset":20
+},
 "width":700,
-"height":300,
+"height":500,
 "data": {
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/ICUN_Percentage.csv"
 },
 
-    "mark": {"type":"arc","innerRadius":50},
+    "mark": {"type":"arc","innerRadius":100},
         "encoding": {
         "theta": { "field": "Percentage", "type": "quantitative" ,"title":null},
         "color": { 
             "field": "Category", 
             "type": "nominal",
-            "legend":{"orient": "right","labelLimit":0}},
+            "legend":{"orient": "right","labelLimit":0},
+            "scale":{
+                "domain":["Strict Nature Reserve",
+                    "Wilderness Area",
+                    "National Park",
+                    "Natural Monument or Feature",
+                    "Habitat/Species Management Area",
+                    "Protected Landscape",
+                    "Protected Areas With Sustainable use of Natural Resources"],
+                "range":[]
+            }
+        },
         "tooltip":[
             { "field": "Category", "type": "nominal","title":"ICUN Category"},
-            { "field": "Percentage", "type": "quantitative","title":null}
+            { "field": "Percentage", "type": "quantitative","title":"Percentage (%)"}
         ]
 
     }
+
 }

@@ -1,8 +1,13 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"title": { "text": "Waste Treatment Methods By Country" },
+"title": { 
+    "text": "Waste Treatment Methods By Country",
+    "font":"Cantata One",
+    "fontSize":28,
+    "offset":20 
+},
 "height":450,
-"width":900,
+"width":1100,
 "data": {
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Treatment.csv"
 },
@@ -33,15 +38,15 @@
         ]
     },
     {
-      "calculate": "datum.Country_Total > 0 ? datum.Amount / datum.Country_Total : 0",
-      "as": "MethodShare"
+        "calculate": "datum.Country_Total > 0 ? datum.Amount / datum.Country_Total : 0",
+        "as": "MethodShare"
     },
     {
     "window": [
-      {
-        "op": "row_number",
-        "as": "MethodIndex"
-      }
+        {
+            "op": "row_number",
+            "as": "MethodIndex"
+        }
     ],
     "groupby": [
         "country"
@@ -84,7 +89,7 @@
     ],
     "groupby": ["Country"],
     "sort": [
-      {"field": "Treatment Method", "order": "ascending"}
+        {"field": "Treatment Method", "order": "ascending"}
     ],
     "frame": [null, 0]
   },
@@ -98,23 +103,25 @@
   }
   ],
   "mark": {
-    "type": "rect",
-    "stroke": "white",
-    "strokeWidth": 1
+        "type": "rect",
+        "stroke": "white",
+        "strokeWidth": 1
   },
   "encoding": {
-    "x": {
-      "field": "Country",
-      "type": "nominal",
-      "sort":"ascending",
-      "title":null
-    },
-    "y": {
-      "field": "y0",
-      "type": "quantitative",
-      "scale": {"domain": [0, 1],"reverse":false},
-      "title":null
-    },
+        "x": {
+            "field": "Country",
+            "type": "nominal",
+            "sort":"ascending",
+            "title":null,
+            "axis":{"labelFontSize":14}
+        },
+        "y": {
+            "field": "y0",
+            "type": "quantitative",
+            "scale": {"domain": [0, 1],"reverse":false},
+            "title":null
+
+        },
     "y2": {"field": "y1"},
     "color": {
         "field": "Treatment Method",
@@ -127,20 +134,20 @@
         "legend": {"orient": "top","labelLimit":0}
     },
     "tooltip": [
-      {"field": "Country", "type": "nominal"},
-      {"field": "Treatment Method", "type": "nominal"},
-      {
-        "field": "Amount",
-        "type": "quantitative",
-        "format": ",.0f",
-        "title": "Amount Treated"
-      },
-      {
-        "field": "MethodShare",
-        "type": "quantitative",
-        "format": ".1%",
-        "title": "Share within country"
-      }
+        {"field": "Country", "type": "nominal"},
+        {"field": "Treatment Method", "type": "nominal"},
+        {
+            "field": "Amount",
+            "type": "quantitative",
+            "format": ",.0f",
+            "title": "Amount Treated"
+        },
+        {
+            "field": "MethodShare",
+            "type": "quantitative",
+            "format": ".1%",
+            "title": "Share Within Country"
+        }
     ]
 }
 }

@@ -1,7 +1,12 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"title": { "text": "Top 10 Water Withdrawals vs Australia In 2022" },
-"width":1000,
+"title": { 
+    "text": "Top 10 Water Withdrawals vs Australia In 2022",
+    "font":"Cantata One",
+    "fontSize":28,
+    "offset":20 
+},
+"width":1100,
 "height":450,
 "data": {
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/water_Resources.csv"
@@ -10,28 +15,27 @@
 "layer":[{
     "mark": {"type":"circle","size":150},
     "encoding": {
-        "y": { "field": "Water withdrawal", "type": "quantitative" ,"title":"Water Withdrawal (cubic meter per Capita)"},
+        "y": { "field": "Water withdrawal", "type": "quantitative" ,"title":"Water Withdrawal (Cubic Meter per Capita)","axis":{"titleFontSize":15,"labelFontSize":14}},
         "x": { 
             "field": "Renewable freshwater resources ", 
-            "type": "quantitative" ,"title":"Renewable Freshwater Resources (cubic meters)",
+            "type": "quantitative" ,"title":"Renewable Freshwater Resources (Cubic Meter per Capita)",
             "scale":{"type": "log","domain":[100,445030]},
-            "axis":{"tickCount":10,"grid": false}
+            "axis":{"tickCount":10,"grid": false,"titleFontSize":15,"labelFontSize":14}
         },
         "tooltip":[
             { "field": "Entity", "type": "nominal","title":"Country"},
-            { "field": "Water withdrawal", "type": "quantitative","title":"Total Water Withdrawal(cubic meters)"},
-            { "field": "Renewable freshwater resources ", "type": "quantitative","title":"Renewable Freshwater Resources (cubic meters)"}
+            { "field": "Water withdrawal", "type": "quantitative","title":"Total Water Withdrawal(Cubic Meter per Capita)"},
+            { "field": "Renewable freshwater resources ", "type": "quantitative","title":"Renewable Freshwater Resources (Cubic Meter per Capita)"}
             ]
         }
     },
     {
     "mark": {"type":"text","align":"left","dx":0,"dy":-10},
     "encoding": {
-        "y": { "field": "Water withdrawal", "type": "quantitative" ,"title":"Water Withdrawal (cubic meter per Capita)"},
+        "y": { "field": "Water withdrawal", "type": "quantitative" ,"title":"Water Withdrawal (Cubic Meter per Capita)"},
         "x": { 
             "field": "Renewable freshwater resources ", 
             "type": "quantitative",
-            "title":null,
             "axis":{
                 "labelAngle":0
             },
@@ -41,8 +45,8 @@
         "text":{"field":"Entity","type": "nominal"},
         "tooltip":[
             { "field": "Entity", "type": "nominal","title":"Country"},
-            { "field": "Water withdrawal", "type": "quantitative","title":"Total Water Withdrawal(cubic meters)"},
-            { "field": "Renewable freshwater resources ", "type": "quantitative","title":"Renewable Freshwater Resources (cubic meters)"}
+            { "field": "Water withdrawal", "type": "quantitative","title":"Total Water Withdrawal(Cubic Meter per Capita)"},
+            { "field": "Renewable freshwater resources ", "type": "quantitative","title":"Renewable Freshwater Resources (Cubic Meter per Capita)"}
             ]
         }
     }

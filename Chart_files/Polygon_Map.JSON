@@ -1,0 +1,35 @@
+{
+"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+"width": 1000,
+"height": 450,
+"projection": {"type":"mercator"},
+"title": 
+    {
+    "text": "Protected Areas of Australia",
+    "subtitle": "Terrestrial protected areas by reserve type | Source: CAPAD"
+    },
+"layer":[
+    {
+    "data":{
+        "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/AUS_AUST.topojson",
+        "format": {"type": "topojson", "feature": "AUS_AUST"}
+        },
+    "mark":{
+            "type": "geoshape",
+            "fill": "#c2cac2",
+            "stroke": "black",
+            "strokeWidth": 1
+        }
+    },
+    {
+    "data":{
+    "url":"https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/Protected_Polygons.json"
+    },
+    "mark":{
+            "type": "geoshape",
+            "stroke": "black",
+            "strokeWidth": 0.5
+        } 
+    }
+]
+}

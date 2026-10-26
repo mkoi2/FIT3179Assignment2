@@ -16,7 +16,7 @@
     {
     "mark": {"type":"line","color":"#f15a23e9","strokeWidth":2},
     "encoding": {
-        "x":{"field": "Year","type": "quantitative","title":null,"axis":{"format":"d","tickCount":10,"grid": false}},
+        "x":{"field": "Year","type": "quantitative","title":null,"axis":{"format":"d","tickCount":10,"grid": false,"labelFontSize":14}},
         "y":{
             "field": "Average", 
             "type": "quantitative", 

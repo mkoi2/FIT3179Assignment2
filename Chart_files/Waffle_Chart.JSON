@@ -66,9 +66,9 @@
         "type": "nominal",
         "scale": {
             "domain": [
-                "Carbon dioxide",
+                "Carbon Dioxide",
                 "Methane",
-                "Nitrous oxide"
+                "Nitrous Oxide"
             ],
             "range": [
                 "#feb24c",
