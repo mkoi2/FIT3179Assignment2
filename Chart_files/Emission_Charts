@@ -515,7 +515,8 @@
                 "title":{
                 "text":"Difference In Emissions 100 Year To Now",
                 "font":"Cantata One",
-                "fontSize":20
+                "fontSize":28,
+                "offset":20
                 },
                 "data":{
                     "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/GHG_100.csv"
