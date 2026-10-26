@@ -10,22 +10,11 @@
     "encoding": {
         "y": { "field": "Value", "type": "quantitative" ,"title":"Water Withdrawal (cubic meter per Capita)"},
         "x": { "field": "Entity", "type": "nominal" ,"title":null,"sort":{"order":"descending"}},
-        "xOffset":{"field":"Group"},
-        "color":{
-            "field":"Group",
-            "type": "nominal",
-            "scale":{
-                "domain":["Water withdrawal","Renewable freshwater resources "],
-                "range":["#5b90d2","green"]
-            }
-        },
-        
         "tooltip":[
             { "field": "Entity", "type": "nominal","title":"Country"},
-            { "field": "Group", "type": "nominal","title":null},
             { "field": "Value", "type": "quantitative","title":"Water (cubic meters)"}
     ]
+}
 
-    }
 }
 
