@@ -11,8 +11,12 @@
     "mark": {"type":"circle","size":150},
     "encoding": {
         "y": { "field": "Water withdrawal", "type": "quantitative" ,"title":"Water Withdrawal (cubic meter per Capita)"},
-        "x": { "field": "Renewable freshwater resources ", "type": "quantitative" ,"title":"Renewable Freshwater Resources (cubic meters)","scale":{"type": "log","domain":[100,445030]},
-            "sort":{"order":"descending"}},
+        "x": { 
+            "field": "Renewable freshwater resources ", 
+            "type": "quantitative" ,"title":"Renewable Freshwater Resources (cubic meters)",
+            "scale":{"type": "log","domain":[100,445030]},
+            "axis":{"tickCount":10,"grid": false}
+        },
         "tooltip":[
             { "field": "Entity", "type": "nominal","title":"Country"},
             { "field": "Water withdrawal", "type": "quantitative","title":"Total Water Withdrawal(cubic meters)"},
