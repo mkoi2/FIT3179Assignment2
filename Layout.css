@@ -7,8 +7,18 @@ body{
 .pure-g div{
     margin-top: 40px;
     margin-bottom: 30px;
+    max-width: 1200px;
+    align-items: center;
 }
 
+.pure-u-2-5 div{
+    max-width: 400px;
+    align-items: center;
+}
+
+.pure-u-3-5 div{
+    max-width: 800px;
+}
 
 .title{
     background-color: #193d35;
@@ -48,10 +58,7 @@ h5{
     font-size: 15px;
 }
 p{
-    margin-left: 100px;
-    margin-top: 10px;  /* This changes how far down just the intro paragraph sits as well as each paragph below it   */
-    padding-left: 108px;
-    margin-right: 20px;
+    margin: 0 0 18px;
 }
 
 .bold{
@@ -79,7 +86,7 @@ p{
 .right-text{
     margin-left: 0px;
     margin-top: 80px ;
-    padding: 40px 24px 8px;
+    padding: 40px 24px 8px ;
     font-size: 18px;
     align-items: center;
 }
@@ -106,6 +113,16 @@ p{
     overflow: hidden
 }
 
+.temp_section{
+    padding: 20px;
+    box-sizing: border-box;
+    background: #ffffff;
+    border: 1px solid #dce4dc;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(25, 61, 53, 0.05);
+    overflow: hidden
+}
+
 #Gantt_Chart,
 #Line_Chart{
     width:80%;
@@ -115,7 +132,7 @@ p{
 .vega-embed,
 .vega-embed canvas,
 .vega-embed svg {
-    max-width: 90%;
+    max-width: 100%;
 }
 
 .vega-bindings{
