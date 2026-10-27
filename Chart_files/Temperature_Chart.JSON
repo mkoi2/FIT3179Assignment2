@@ -14,6 +14,28 @@
 },
 "layer":[
     {
+    "mark": {"type":"line","color":"darkgrey","strokeWidth":1,"strokeDash":[2,4]},
+    "encoding": {
+        "x":{
+            "datum": 1840,
+            "type": "quantitative",
+            "title":null,
+            "axis":{"format":"d","tickCount":10,"grid": false,"labelFontSize":14},
+            "scale":{"domain":[1840,2040]}
+        },
+        "x2":{"datum":2040,"type":"quantitative"},
+        "y":{
+            "datum":0, 
+            "type": "quantitative", 
+            "title":"Temperature Change Relative To The Pre-Industrial Period (°C)",
+            "axis":{"titleFontSize":15}},
+        "tooltip": [
+            {"field": "Average", "type": "quantitative", "title": "Change in world temperature (°C)"},
+            {"field": "Year", "type": "quantitative","title": "Year"}
+        ]
+        }
+    },
+    {
     "mark": {"type":"line","color":"#f15a23e9","strokeWidth":2},
     "encoding": {
         "x":{"field": "Year","type": "quantitative","title":null,"axis":{"format":"d","tickCount":10,"grid": false,"labelFontSize":14}},
@@ -21,7 +43,7 @@
             "field": "Average", 
             "type": "quantitative", 
             "title":"Temperature Change Relative To The Pre-Industrial Period (°C)",
-            "axis":{"titleFontSize":15}},
+            "axis":{"titleFontSize":15,"grid": true}},
         "tooltip": [
             {"field": "Average", "type": "quantitative", "title": "Change in world temperature (°C)"},
             {"field": "Year", "type": "quantitative","title": "Year"}

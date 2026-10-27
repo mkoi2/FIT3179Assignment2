@@ -600,7 +600,7 @@
 ],
 "config" :{
                     "legend":{
-                        "orient":"top"
+                        "orient":"bottom"
                     }
                 }
 }

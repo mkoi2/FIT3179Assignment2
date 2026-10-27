@@ -115,5 +115,5 @@ p{
 
 .vega-bindings{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
