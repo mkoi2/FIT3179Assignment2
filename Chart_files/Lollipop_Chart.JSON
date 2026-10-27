@@ -1,7 +1,8 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "title": { 
-    "text": "Top 10 Water Withdrawals vs Australia In 2022",
+    "text": "Water Usage vs Renewable Water Resource",
+    "subtitle":"Comparing Countries With High Water Usage To Countries With High Renewable Freshwater Resources",
     "font":"Cantata One",
     "fontSize":28,
     "offset":20 

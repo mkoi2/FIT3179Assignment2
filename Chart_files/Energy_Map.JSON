@@ -65,7 +65,7 @@
                     "size": {
                         "field": "Energy",
                         "type": "quantitative",
-                        "title":"Energy Generated (MWh per Capita))",
+                        "title":"Energy Generated (MWh per Capita)",
                         "legend":{"titleLimit":0},
                         "scale":{"domain":[0,50],"range":[20,2000]}
                     },

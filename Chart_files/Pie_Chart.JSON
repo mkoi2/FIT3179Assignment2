@@ -28,7 +28,7 @@
                     "IV - Habitat/Species Management Area",
                     "V - Protected Landscape Or Seascape",
                     "VI - Protected Area With Sustainable Use Of Natural Resources"],
-                "range":["#a6cee3","#33a02c","#c51b8a","#fee08b","#e9a3c9","#66c2a4","#addd8e"]
+                "range":["#a6cee3","#33a02c","#c51b8a","#addd8e","#e9a3c9","#66c2a4","#fee08b"]
             }
         },
         "tooltip":[
