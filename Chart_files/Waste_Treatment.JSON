@@ -92,22 +92,22 @@
         {"field": "Treatment Method", "order": "ascending"}
     ],
     "frame": [null, 0]
-  },
-  {
-    "calculate": "datum.MethodSum - datum.MethodShare",
-    "as": "y0"
-  },
-  {
-    "calculate": "datum.MethodSum",
-    "as": "y1"
-  }
-  ],
-  "mark": {
-        "type": "rect",
-        "stroke": "white",
-        "strokeWidth": 1
-  },
-  "encoding": {
+    },
+    {
+        "calculate": "datum.MethodSum - datum.MethodShare",
+        "as": "y0"
+    },
+    {
+        "calculate": "datum.MethodSum",
+        "as": "y1"
+    }
+    ],
+    "mark": {
+            "type": "rect",
+            "stroke": "white",
+            "strokeWidth": 1
+    },
+    "encoding": {
         "x": {
             "field": "Country",
             "type": "nominal",
@@ -129,7 +129,7 @@
         "title":null,
         "scale":{
             "domain":["Composting","Incineration with energy recovery","Incineration without energy recovery","Landfill","Other disposal","Other recovery","Recycling"],
-            "range":["#01665e","#c7eae5","#8c510a","#d8b365","#f6e8c3","#f1a340","#5ab4ac"]
+            "range":["#01665e","#c7eae5","#8c510a","#d8b365","#f6e8c3","#a8ddb5","#5ab4ac"]
         },
         "legend": {"orient": "top","labelLimit":0,"labelFontSize":14}
     },
