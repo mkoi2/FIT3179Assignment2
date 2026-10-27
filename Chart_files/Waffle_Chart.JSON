@@ -71,9 +71,9 @@
                 "Nitrous Oxide"
             ],
             "range": [
-                "#feb24c",
                 "#8c96c6",
-                "#fb6a4a"
+                "#feb24c",
+                "#b2182b"
             ]
         },
         "legend": {"title": "Greanhouse Gases"}

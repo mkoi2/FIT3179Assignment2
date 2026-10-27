@@ -18,16 +18,17 @@
         "color": { 
             "field": "Category", 
             "type": "nominal",
-            "legend":{"orient": "right","labelLimit":0},
+            "legend":{"orient": "right","labelLimit":0,"labelFontSize":14},
             "scale":{
-                "domain":["Strict Nature Reserve",
-                    "Wilderness Area",
-                    "National Park",
-                    "Natural Monument or Feature",
-                    "Habitat/Species Management Area",
-                    "Protected Landscape",
-                    "Protected Areas With Sustainable use of Natural Resources"],
-                "range":[]
+                "domain":[
+                    "Ia - Strict Nature Reserve",
+                    "Ib - Wilderness Area",
+                    "II - National Park",
+                    "III - Natural Monument Or Feature",
+                    "IV - Habitat/Species Management Area",
+                    "V - Protected Landscape Or Seascape",
+                    "VI - Protected Area With Sustainable Use Of Natural Resources"],
+                "range":["#a6cee3","#33a02c","#c51b8a","#fee08b","#e9a3c9","#66c2a4","#addd8e"]
             }
         },
         "tooltip":[

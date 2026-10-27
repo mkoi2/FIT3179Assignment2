@@ -131,7 +131,7 @@
             "domain":["Composting","Incineration with energy recovery","Incineration without energy recovery","Landfill","Other disposal","Other recovery","Recycling"],
             "range":["#01665e","#c7eae5","#8c510a","#d8b365","#f6e8c3","#f1a340","#5ab4ac"]
         },
-        "legend": {"orient": "top","labelLimit":0}
+        "legend": {"orient": "top","labelLimit":0,"labelFontSize":14}
     },
     "tooltip": [
         {"field": "Country", "type": "nominal"},
