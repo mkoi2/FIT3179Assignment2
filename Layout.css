@@ -79,6 +79,21 @@ p{
     font-weight: bold;
 }
 
+.bold-methane{
+    font-weight: bold;
+    color:"#feb24c" ;
+}
+
+.bold-carbon{
+    font-weight: bold;
+    color: "#8c96c6";
+}
+
+.bold-nitrous{
+    font-weight: bold;
+    color: "#b2182b";
+}
+
 .right-text,
 .description,
 .intro {
