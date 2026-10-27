@@ -76,7 +76,7 @@
                 "#b2182b"
             ]
         },
-        "legend": {"title": "Greanhouse Gases"}
+        "legend": {"labelFontSize":14,"orient": "top","title":null}
     },
     "tooltip": [
       {"field": "GHG", "type": "nominal","title":"Gas"},
