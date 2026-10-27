@@ -6,7 +6,7 @@
     "fontSize":28,
     "offset":20
 },
-"width":600,
+"width":500,
 "height":500,
 "data": {
 "url": "https://raw.githubusercontent.com/mkoi2/FIT3179Assignment2/main/Data_files/ICUN_Percentage.csv"
